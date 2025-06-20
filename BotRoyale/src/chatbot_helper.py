@@ -18,15 +18,16 @@ def load_json(name):
 
 # Carga global — debe coincidir con la estructura de cada archivo JSON
 
-intents        = load_json("intents")["intents"]           # porque tu intents.json tiene { "intents": [...] }
-cards          = load_json("cards")                         # si cards.json es directamente lista []
+intents        = load_json("intents")["intents"]          
+cards          = load_json("cards")                         
 mazos          = load_json("mazos")["mazos"]
 arenas         = load_json("arenas")["arenas"]
 cofres         = load_json("cofres")["cofres"]
 chistes        = load_json("chistes")["chistes"]
 conversaciones = load_json("conversaciones")["conversaciones"]
 sinonimos      = load_json("sinonimos")["sinonimos"]
-trivia         = load_json("trivia")["trivia"]
+full_trivia_data = load_json("trivia")
+trivia = full_trivia_data["trivia"]  
 balance_changes= load_json("balance_changes")["balance_changes"]
 glosario       = load_json("glosario")["glosario"]
 jugadores      = load_json("jugadores")["jugadores"]

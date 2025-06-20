@@ -682,6 +682,12 @@
     "Perfecto, te armo un mazo con esa carta.",
     "Buena elección, aquí va un mazo que la incluye."
   ]
+  
+},
+{
+  "tag": "trivia",
+  "patterns": ["trivia", "quiero jugar trivia", "hazme una pregunta de trivia", "pregunta de trivia", "jugar trivia"],
+  "responses": ["Claro, te haré una pregunta de trivia. ¡Vamos!", "¡Perfecto! Aquí tienes una pregunta de trivia."]
 }
 ]
 }
