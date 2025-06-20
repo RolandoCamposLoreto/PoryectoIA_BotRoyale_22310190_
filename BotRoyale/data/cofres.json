@@ -1,0 +1,64 @@
+{
+  "cofres": [
+    {
+      "nombre": "Cofre de Madera",
+      "descripcion": "El cofre con la recompensa más básica. Se obtiene en las primeras batallas.",
+      "costoGemas": 0,
+      "contenido": "3 cartas de entrenamiento, 18 de oro"
+    },
+    {
+      "nombre": "Cofre de Coronas",
+      "descripcion": "Se desbloquea tras obtener 10 coronas en varias partidas. Contiene mejores recompensas.",
+      "costoGemas": 0,
+      "contenido": "Cartas comunes, raras y oro, según el nivel de arena"
+    },
+    {
+      "nombre": "Cofre de Plata",
+      "descripcion": "El cofre básico que ganas en la mayoría de las partidas. Abre en 3 horas.",
+      "costoGemas": 0,
+      "contenido": "Cartas comunes, pocas raras"
+    },
+    {
+      "nombre": "Cofre de Oro",
+      "descripcion": "Mejora del cofre de plata, con más cartas y mejor probabilidad de raras. Abre en 8 horas.",
+      "costoGemas": 0,
+      "contenido": "Cartas comunes, raras y ocasionalmente épicas"
+    },
+    {
+      "nombre": "Cofre Mágico",
+      "descripcion": "Contiene un alto número de cartas raras y alguna épica. Abre en 12 horas.",
+      "costoGemas": 0,
+      "contenido": "Cartas raras, épicas y comunes"
+    },
+    {
+      "nombre": "Cofre Gigante",
+      "descripcion": "Gran cantidad de cartas para progresar rápido. Abre en 12 horas.",
+      "costoGemas": 0,
+      "contenido": "Muchas cartas comunes, varias raras y algunas épicas"
+    },
+    {
+      "nombre": "Cofre Épico",
+      "descripcion": "Garantiza al menos 4 cartas épicas. Abre en 12 horas.",
+      "costoGemas": 0,
+      "contenido": "4–7 cartas épicas"
+    },
+    {
+      "nombre": "Cofre Relámpago",
+      "descripcion": "Selecciona las cartas que quieres y resetea las demás. Abre instantáneo.",
+      "costoGemas": 0,
+      "contenido": "Cartas elegidas por el jugador"
+    },
+    {
+      "nombre": "Cofre Real Salvaje",
+      "descripcion": "Combina las mejores ventajas del cofre real y el cofre salvaje. Abre en 24 horas.",
+      "costoGemas": 0,
+      "contenido": "Cartas comunes, raras, épicas y legendarias"
+    },
+    {
+      "nombre": "Cofre Legendario",
+      "descripcion": "Garantiza 1 carta legendaria. Abre en 24 horas.",
+      "costoGemas": 0,
+      "contenido": "1 carta legendaria"
+    }
+  ]
+}

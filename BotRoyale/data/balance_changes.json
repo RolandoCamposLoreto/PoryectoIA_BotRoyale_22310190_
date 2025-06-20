@@ -1,0 +1,144 @@
+{
+  "balance_changes": [
+    {
+      "fecha": "2025-02-11",
+      "carta": "Berserker",
+      "cambio": "Velocidad de ataque 0.6 s → 0.5 s (+20 % DPS)"
+    },
+    {
+      "fecha": "2025-02-11",
+      "carta": "Fire Spirit",
+      "cambio": "Rango 2.0 → 2.5 (+25 %)"
+    },
+    {
+      "fecha": "2025-03-01",
+      "carta": "Boss Bandit",
+      "cambio": "Vida 2803 → 2721 (−3 %)"
+    },
+    {
+      "fecha": "2025-03-01",
+      "carta": "Goblin Hut",
+      "cambio": "Vida 1305 → 1228 (−6 %); Velocidad de spawned 1.7 s → 1.8 s (+6 %)"
+    },
+    {
+      "fecha": "2025-03-01",
+      "carta": "Lightning",
+      "cambio": "Daño a torre 318 → 286 (−10 %)"
+    },
+    {
+      "fecha": "2025-03-01",
+      "carta": "Ice Spirit Evolucionado",
+      "cambio": "Daño 163 → 110 (−33 %)"
+    },
+    {
+      "fecha": "2025-02-04",
+      "carta": "Dart Goblin",
+      "cambio": "Daño reducido de 142 a 135 (-5%)"
+    },
+    {
+      "fecha": "2025-02-04",
+      "carta": "Goblinstein",
+      "cambio": "Puntos de vida reducidos de 2598 a 2393 (-8%)"
+    },
+    {
+      "fecha": "2025-02-04",
+      "carta": "P.E.K.K.A",
+      "cambio": "Alcance reducido de 1.6 a 1.2 tiles"
+    },
+    {
+      "fecha": "2025-02-04",
+      "carta": "Lava Hound",
+      "cambio": "Daño de Lava Pups reducido de 90 a 84 (-7%)"
+    },
+    {
+      "fecha": "2025-02-04",
+      "carta": "Goblin Giant (evolución)",
+      "cambio": "Velocidad de spawn incrementada de 0.67 s a 0.56 s"
+    },
+    {
+      "fecha": "2025-02-04",
+      "carta": "Royal Chef",
+      "cambio": "Tiempo de cocinar 18-30 s → 24-40 s; Velocidad de ataque 0.9 s → 1.0 s; Umbral de buff 20% → 33%"
+    },
+    {
+      "fecha": "2025-02-04",
+      "carta": "Fire Spirit",
+      "cambio": "Rango 2.0 → 2.5 (+25%)"
+    },
+    {
+      "fecha": "2025-02-04",
+      "carta": "Musketeer",
+      "cambio": "Primer ataque 0.8 s → 0.7 s (-13%)"
+    },
+    {
+      "fecha": "2025-02-04",
+      "carta": "Giant Snowball (evolución)",
+      "cambio": "Distancia de roll 4.0 → 4.5 tiles (+13%)"
+    },
+    {
+      "fecha": "2025-02-11",
+      "carta": "Berserker",
+      "cambio": "Velocidad de ataque 0.6 s → 0.5 s (+20% DPS)"
+    },
+    {
+      "fecha": "2025-02-11",
+      "carta": "Lumberjack Evo",
+      "cambio": "El fantasma ya no es afectado por el hechizo Rage"
+    },
+    {
+      "fecha": "2025-03-04",
+      "carta": "Arrows",
+      "cambio": "Radio reducido de 4.0 a 3.5 tiles (-13%)"
+    },
+    {
+      "fecha": "2025-03-04",
+      "carta": "The Log",
+      "cambio": "Daño a torre reducido de 58 a 44 (-24%)"
+    },
+    {
+      "fecha": "2025-03-04",
+      "carta": "Cannon",
+      "cambio": "Velocidad de ataque cambiada de 0.9 s a 1.0 s"
+    },
+    {
+      "fecha": "2025-03-04",
+      "carta": "Rage",
+      "cambio": "Duración del efecto 2.0 s → 1.0 s (-50%)"
+    },
+    {
+      "fecha": "2025-03-04",
+      "carta": "Rune Giant",
+      "cambio": "Vida 2803 → 2508 (-11%); Encantamiento dura 5 s tras su muerte en lugar de infinito"
+    },
+    {
+      "fecha": "2025-03-04",
+      "carta": "Electro Wizard",
+      "cambio": "Daño aumentado de 110 a 116 (+5%)"
+    },
+    {
+      "fecha": "2025-03-04",
+      "carta": "Giant Snowball Evo",
+      "cambio": "Duración de ralentización 3 s → 4 s (+33%)"
+    },
+    {
+      "fecha": "2025-03-04",
+      "carta": "Royal Chef",
+      "cambio": "Buff de pancakes ajustado (+14% frecuencia de cocción)"
+    },
+    {
+      "fecha": "2025-05-05",
+      "carta": "P.E.K.K.A Evolution",
+      "cambio": "Sanación por muerte aumentada: pequeñas +13%, medianas +8%, grandes +2%"
+    },
+    {
+      "fecha": "2025-05-05",
+      "carta": "Royal Chef",
+      "cambio": "Vida aumentada de 2703 a 2921 (+8%)"
+    },
+    {
+      "fecha": "2025-05-05",
+      "carta": "Cannon Cart",
+      "cambio": "Vida general aumentada +5%; ahora se convierte en edificio al bajar del 50%"
+    }
+  ]
+}

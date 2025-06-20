@@ -1,0 +1,283 @@
+
+{
+  "arenas": [
+    {
+      "nombre": "Estadio Duende",
+      "rangoCopas": "0 - 300",
+      "descripcion": "Arena inicial donde los jugadores aprenden las mecánicas básicas.",
+      "detalles": [
+        "Perfecta para familiarizarse con cartas básicas como Bárbaros y Arqueras.",
+        "Ideal para aprender a manejar el elixir y controlar el tiempo de despliegue.",
+        "Consejo: Practica ataques simples y defensa básica para sentar bases sólidas.",
+        "No hay cartas legendarias disponibles en esta arena.",
+        "Los duendes y tropas básicas dominan el meta inicial."
+      ]
+    },
+    {
+      "nombre": "Foso de Huesos",
+      "rangoCopas": "300 - 600",
+      "descripcion": "Arena donde se desbloquean nuevas cartas y estrategias básicas.",
+      "detalles": [
+        "Aquí aparecen cartas como Ejército de Esqueletos y Mini P.E.K.K.A.",
+        "Comienzan las primeras combinaciones de tropas y hechizos.",
+        "Los jugadores empiezan a experimentar con tácticas de distracción.",
+        "Consejo: Usa tropas pequeñas para proteger y atacar simultáneamente.",
+        "Maneja el ciclo de cartas para responder rápido a las amenazas."
+      ]
+    },
+    {
+      "nombre": "Coliseo Bárbaro",
+      "rangoCopas": "600 - 1000",
+      "descripcion": "Arena para jugadores que empiezan a usar combos y tácticas más avanzadas.",
+      "detalles": [
+        "Se desbloquean cartas como la Princesa y Barril de Duendes.",
+        "Los jugadores aprenden la importancia de la presión constante.",
+        "Se empieza a usar el ciclo del mazo para controlar el ritmo de la partida.",
+        "Consejo: Lee bien las jugadas del rival y anticipa sus movimientos.",
+        "El uso estratégico de hechizos es vital para controlar el campo."
+      ]
+    },
+    {
+      "nombre": "Valle de Hechizos",
+      "rangoCopas": "1000 - 1300",
+      "descripcion": "Arena enfocada en el uso estratégico de hechizos y tropas.",
+      "detalles": [
+        "Se desbloquean hechizos avanzados como Veneno y Descarga.",
+        "Los jugadores empiezan a combinar hechizos con tropas pequeñas para daño máximo.",
+        "Controlar el ciclo del mazo es clave para mantener presión constante.",
+        "Consejo: Sincroniza bien el despliegue de tropas con hechizos.",
+        "Mazos con control de área y daño en el tiempo son efectivos aquí."
+      ]
+    },
+    {
+      "nombre": "Taller de Constructor",
+      "rangoCopas": "1300 - 1600",
+      "descripcion": "Arena donde las cartas de nivel medio empiezan a dominar el campo de batalla.",
+      "detalles": [
+        "Aparecen cartas como Dragón Infernal y Espíritu de Fuego.",
+        "Los jugadores deben balancear bien la defensa y ataques rápidos.",
+        "Importante controlar el ciclo del mazo para no quedarse sin cartas.",
+        "Consejo: Practica contraataques con tropas resistentes para desgastar al rival.",
+        "La coordinación entre tropas ofensivas y defensivas es fundamental."
+      ]
+    } ,
+    {
+      "nombre": "Fuerte del P.E.K.K.A",
+      "rangoCopas": "1600 - 2000",
+      "descripcion": "Arena donde las tropas pesadas como el P.E.K.K.A dominan el campo.",
+      "detalles": [
+        "Aparecen cartas como P.E.K.K.A, Dragón Infernal y Bruja Nocturna.",
+        "El juego se vuelve más estratégico con el uso de tropas tanque y soporte.",
+        "Es crucial aprender a proteger al P.E.K.K.A para maximizar su daño.",
+        "Consejo: Combina tropas aéreas y terrestres para presionar múltiples frentes.",
+        "Gestiona bien el elixir para no quedar vulnerable durante ataques pesados."
+      ]
+    },
+    {
+      "nombre": "Arena Real",
+      "rangoCopas": "2000 - 2300",
+      "descripcion": "Aquí empiezan los duelos más tácticos con cartas legendarias accesibles.",
+      "detalles": [
+        "Cartas legendarias como Mago Eléctrico, Rey Esqueleto y Princesa se vuelven comunes.",
+        "La lectura de juego y el control del ciclo son fundamentales.",
+        "Importancia de contrarrestar cartas legendarias con precisión.",
+        "Consejo: Aprende a usar hechizos para controlar las amenazas más fuertes.",
+        "Mantén siempre el ritmo del juego para imponer tu estrategia."
+      ]
+    },
+    {
+      "nombre": "Pico Helado",
+      "rangoCopas": "2300 - 2600",
+      "descripcion": "Arena con tácticas de control y defensa usando cartas congelantes.",
+      "detalles": [
+        "Aparecen el Mago de Hielo, Espíritu de Hielo y otras tropas de control.",
+        "Congelación y ralentización son clave para detener ofensivas.",
+        "Se valora la precisión en el tiempo de despliegue y el contraataque.",
+        "Consejo: Usa la congelación para detener tropas poderosas y preparar contraataques.",
+        "Aprende a balancear defensa y presión para desgastar al enemigo."
+      ]
+    },
+    {
+      "nombre": "Arena Selvática",
+      "rangoCopas": "2600 - 3000",
+      "descripcion": "Cartas avanzadas y estrategias más agresivas dominan la arena.",
+      "detalles": [
+        "Cartas como el Cazador, Mini P.E.K.K.A y Globo Bombástico son comunes.",
+        "El control del ciclo de mazo es vital para aprovechar las oportunidades.",
+        "Presión constante y respuestas rápidas marcan la diferencia.",
+        "Consejo: Varía tus ataques para mantener a tu rival confundido.",
+        "El uso eficiente del elixir es clave para sostener la ofensiva."
+      ]
+    },
+    {
+
+      "nombre": "Arena Montapuerco",
+      "rangoCopas": "3000 - 3400",
+      "descripcion": "La estrategia ofensiva se centra en ataques rápidos con Montapuercos.",
+      "detalles": [
+        "El Montapuercos es la estrella, con apoyo de hechizos y tropas rápidas.",
+        "Se vuelve esencial controlar el ciclo para lanzar ataques sorpresa.",
+        "Defensas bien calculadas son necesarias para contrarrestar las presiones.",
+        "Consejo: Aprende a distraer las tropas defensivas para maximizar el daño del Montapuercos.",
+        "Mantén el ritmo para evitar que el enemigo te tome la iniciativa."
+      ]
+    },
+    {
+      "nombre": "Electrovalle",
+      "rangoCopas": "3400 - 3800",
+      "descripcion": "Cartas eléctricas y combos rápidos dominan esta arena.",
+      "detalles": [
+        "El Mago Eléctrico y el Espíritu Eléctrico destacan por su control y daño.",
+        "La gestión del ciclo y los hechizos se vuelve más importante que nunca.",
+        "La defensa debe ser ágil para responder a múltiples amenazas rápidas.",
+        "Consejo: Usa hechizos para resetear tropas poderosas y controlar el campo.",
+        "Varía tus ataques para sorprender al rival y evitar que se adapte."
+      ]
+    },
+    {
+      "nombre": "Pueblo Espeluznante",
+      "rangoCopas": "3800 - 4200",
+      "descripcion": "El terror táctico con cartas como el Esqueleto Gigante y el Cementerio.",
+      "detalles": [
+        "Se enfatiza el uso de cartas con daño por área y de invocación masiva.",
+        "Las trampas y los ataques sorpresa son tácticas frecuentes.",
+        "La defensa debe estar bien posicionada para contener hordas y cementerio.",
+        "Consejo: Aprende a gestionar el daño continuo y a usar bien los hechizos.",
+        "El timing es crucial para maximizar la efectividad de tus tropas."
+      ]
+    },
+    {
+      "nombre": "Escondite de los Pillos",
+      "rangoCopas": "4200 - 4600",
+      "descripcion": "Estrategias furtivas y ataques sorpresa con cartas de sigilo.",
+      "detalles": [
+        "Cartas como el Bandida y el Espíritu de Curación juegan un papel clave.",
+        "El control del ciclo y la anticipación de movimientos rivales son esenciales.",
+        "Las defensas deben estar preparadas para ataques rápidos y sorpresivos.",
+        "Consejo: Utiliza cartas veloces para distraer y romper las defensas enemigas.",
+        "Mantén siempre el control del ritmo para evitar ser sorprendido."
+      ]
+    },
+    {
+      "nombre": "Pico Sereno",
+      "rangoCopas": "4600 - 5000",
+      "descripcion": "Zona de juego equilibrado con tropas versátiles y estrategias variadas.",
+      "detalles": [
+        "Aquí se necesita dominar tanto la defensa como la ofensiva de manera efectiva.",
+        "Cartas de alto impacto y buena sinergia se vuelven clave.",
+        "El manejo del elixir y el conocimiento de los mazos rivales es crucial.",
+        "Consejo: Ajusta tu mazo para adaptarte a diferentes estilos de juego.",
+        "Usa ataques combinados para desestabilizar al oponente."
+      ]
+    },
+    {
+      "nombre": "La Gran Mina",
+      "rangoCopas": "5000 - 5500",
+      "descripcion": "Arena que premia la paciencia y el juego estratégico profundo.",
+      "detalles": [
+        "Tropas con daño por segundo alto y cartas de control son fundamentales.",
+        "Se valoran los contraataques bien planificados y el manejo del ciclo de cartas.",
+        "La defensa sólida y el ataque preciso marcan la diferencia.",
+        "Consejo: Aprende a leer el mazo enemigo para anticipar sus movimientos.",
+        "Sé paciente y espera el momento justo para lanzar tu ofensiva."
+      ]
+    },
+    {
+      "nombre": "La Cocina del Verdugo",
+      "rangoCopas": "5500 - 6000",
+      "descripcion": "Combates intensos con tropas rápidas y mucho daño explosivo.",
+      "detalles": [
+        "Cartas como el Verdugo y el Globo Bombástico dominan la escena.",
+        "La velocidad en el despliegue y la precisión en los ataques son vitales.",
+        "Se requiere mucha concentración para responder a ataques repentinos.",
+        "Consejo: Controla el campo con hechizos y tropas de apoyo.",
+        "Equilibra la presión ofensiva y la defensa para mantener la ventaja."
+      ]
+    },
+    {
+      "nombre": "Cripta Real",
+      "rangoCopas": "6000 - 6500",
+      "descripcion": "Estrategias avanzadas con cartas legendarias y combinaciones únicas.",
+      "detalles": [
+        "El uso de cartas legendarias es frecuente y exige respuestas precisas.",
+        "El control del ritmo y el dominio del ciclo son esenciales.",
+        "Se espera un alto nivel táctico y psicológico entre jugadores.",
+        "Consejo: Practica diferentes mazos para no ser predecible.",
+        "Aprovecha las fortalezas de tus cartas legendarias para dominar el campo."
+      ]
+    },
+    {
+      "nombre": "Santuario del Silencio",
+      "rangoCopas": "6500 - 7000",
+      "descripcion": "Arena de partidas calculadas y metódicas, con alto nivel competitivo.",
+      "detalles": [
+        "Se juegan partidas largas con estrategias bien definidas.",
+        "El manejo del elixir y la anticipación son vitales para ganar.",
+        "Las defensas y ataques coordinados marcan la pauta.",
+        "Consejo: Mantén la calma y no te precipites en los movimientos.",
+        "Estudia a tu oponente para descubrir sus patrones y explotarlos."
+      ]
+    },
+    {
+      "nombre": "Termas de Dragón",
+      "rangoCopas": "7000 - 7500",
+      "descripcion": "Foco en cartas aéreas y poderosos dragones que dominan el combate.",
+      "detalles": [
+        "Cartas como Dragón Infernal y Dragón Eléctrico son esenciales.",
+        "Controlar el aire y la tierra simultáneamente es clave.",
+        "La sincronización entre tropas aéreas y terrestres debe ser perfecta.",
+        "Consejo: Usa hechizos para proteger a tus dragones y maximizar daño.",
+        "Diversifica tus ataques para mantener al enemigo desequilibrado."
+      ]
+    },
+    {
+      "nombre": "Campo de Entrenamiento",
+      "rangoCopas": "7500 - 8000",
+      "descripcion": "Arena para perfeccionar habilidades y probar estrategias avanzadas.",
+      "detalles": [
+        "Jugadores aquí buscan optimizar cada jugada y aprovechar cada error rival.",
+        "La adaptabilidad y la innovación en mazos son muy valoradas.",
+        "Se requiere un dominio completo de cartas y tácticas.",
+        "Consejo: Practica diferentes estilos y aprende a contrarrestar los más populares.",
+        "Analiza cada partida para mejorar tu toma de decisiones."
+      ]
+    },
+    {
+      "nombre": "Clash Fest",
+      "rangoCopas": "8000 - 8500",
+      "descripcion": "Eventos especiales y combates de alto nivel con premios y rankings.",
+      "detalles": [
+        "Se enfrentan jugadores de élite en un ambiente competitivo intenso.",
+        "Cartas raras y combinaciones creativas son comunes.",
+        "Se requiere rapidez mental y precisión en cada acción.",
+        "Consejo: Mantente actualizado con las últimas actualizaciones y metajuego.",
+        "Utiliza tácticas sorpresivas para ganar ventaja."
+      ]
+    },
+    {
+      "nombre": "Tortitas",
+      "rangoCopas": "8500 - 9000",
+      "descripcion": "Arena donde el más mínimo error puede costar la partida.",
+      "detalles": [
+        "Los jugadores muestran un nivel de juego muy alto y estrategias complejas.",
+        "El control del elixir es más estricto que en cualquier otra arena.",
+        "Cada carta debe ser utilizada en el momento perfecto.",
+        "Consejo: Perfecciona tu timing y aprende a anticipar los movimientos rivales.",
+        "Estudia patrones para prever ataques y defensas."
+      ]
+    },
+    {
+      "nombre": "Arena Legendaria",
+      "rangoCopas": "9000+",
+      "descripcion": "La cúspide del juego competitivo con los mejores jugadores y mazos.",
+      "detalles": [
+        "Se enfrentan los mejores jugadores a nivel mundial.",
+        "El dominio absoluto del juego y la innovación táctica son clave.",
+        "Se valora la creatividad y la precisión en cada movimiento.",
+        "Consejo: Mantente siempre al día con el meta y participa en torneos.",
+        "Nunca dejes de practicar y aprender de cada enfrentamiento."
+      ]
+    }
+  ]
+}
+

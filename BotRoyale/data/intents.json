@@ -1,0 +1,687 @@
+{
+  "intents": [
+    {
+      "tag": "saludo",
+      "patterns": ["Hola", "Hey", "Buenas", "¿Qué tal?", "Saludos", "Ey", "Qué onda", "Qué hay", "Holaaa", "Holis", "Holaa", "hola", "oa", "hi", "hello", "Que onda", "que onda", "Que ondas", "que ondas", "quiubo", "Quiubo"],
+      "responses": ["¡Hola clashero!", "¿Cómo estás?", "¡Qué gusto verte!", "¡Saludos!", "¡Hola, bienvenido de nuevo!"]
+    },
+    {
+      "tag": "despedida",
+      "patterns": ["Adiós", "Nos vemos", "Hasta luego", "Bye", "Me voy", "Chao", "Hasta pronto", "Nos vidrios", "adios", "hasta luego", "Adios", "nos vemos"],
+      "responses": ["¡Nos vemos en la arena!", "¡Hasta la próxima batalla!", "¡Cuídate!", "¡Suerte con tus cofres!"]
+    },
+    {
+      "tag": "agradecimiento",
+      "patterns": ["Gracias", "Muchas gracias", "Te lo agradezco", "Gracias bot", "Mil gracias", "Muy amable"],
+      "responses": ["¡Siempre a tu servicio!", "¡No hay de qué!", "¡Para eso estoy!", "¡Cualquier cosa, me dices!"]
+    },
+    {
+      "tag": "quien_eres",
+      "patterns": ["¿Quién eres?", "¿Qué eres?", "¿Eres humano?", "¿Eres un bot?", "¿Cómo te llamas?", "¿Tienes nombre?"],
+      "responses": ["Soy Bot Royale, tu asistente clashero.", "Un bot creado para ayudarte en el universo de Clash Royale."]
+    },
+    {
+      "tag": "funciones_bot",
+      "patterns": ["¿Qué puedes hacer?", "¿Qué sabes hacer?", "¿Cómo me ayudas?", "¿Para qué sirves?", "¿Qué funciones tienes?"],
+      "responses": [
+        "Puedo darte mazos, responder dudas, contar chistes, darte datos del juego y mucho más.",
+        "Estoy para ayudarte con todo lo que necesites sobre Clash Royale."
+      ]
+    },
+    {
+      "tag": "estado_bot",
+      "patterns": ["¿Estás activo?", "¿Sigues aquí?", "¿Me escuchas?", "¿Estás vivo?", "¿Funciona esto?"],
+      "responses": ["Aquí estoy, listo para ayudarte.", "Sí, sigo conectado.", "¡Claro que sí, clashero!", "Estoy online."]
+    },
+    {
+      "tag": "emociones_bot",
+      "patterns": ["¿Estás feliz?", "¿Estás triste?", "¿Tienes emociones?", "¿Te gusta tu trabajo?"],
+      "responses": [
+        "No tengo emociones como los humanos, pero estoy programado para ayudarte siempre con actitud positiva.",
+        "Estoy feliz de ayudarte con tus preguntas sobre Clash Royale."
+      ]
+    },
+    {
+      "tag": "hora_actual",
+      "patterns": ["¿Qué hora es?", "Dime la hora", "¿Tienes la hora?", "¿Qué hora tienes?"],
+      "responses": ["No tengo reloj, pero seguro tú sí 😅", "Mi código no incluye la hora aún. ¡Pero puedo ayudarte con otras cosas!"]
+    },
+    {
+      "tag": "dia_actual",
+      "patterns": ["¿Qué día es hoy?", "¿En qué día estamos?", "Día de hoy", "Fecha actual"],
+      "responses": [
+        "No tengo un calendario incorporado, pero seguro es un gran día para jugar Clash Royale.",
+        "Lo siento, no manejo fechas, ¡pero sí mazos increíbles!"
+      ]
+    },
+    {
+      "tag": "chistes",
+      "patterns": ["Cuéntame un chiste", "¿Sabes chistes?", "Hazme reír", "Dime algo gracioso", "Un chiste"],
+      "responses": [
+        "¿Qué hace un mago eléctrico en la escuela? ¡Electrotareas!",
+        "¿Por qué el P.E.K.K.A no fue al gimnasio? Porque ya estaba mamadísimo.",
+        "¿Sabes cuál es la carta más sincera? El espíritu de hielo... ¡siempre se congela en sus palabras!"
+      ]
+    },
+    {
+      "tag": "creador",
+      "patterns": ["¿Quién te creó?", "¿Quién te hizo?", "¿Quién es tu creador?", "¿Quién programó este bot?"],
+      "responses": [
+        "Fui creado por Rolando, un ingeniero clashero con visión de futuro.",
+        "Mi creador es un humano con gran talento para los bots y el Clash Royale."
+      ]
+    },
+    {
+      "tag": "recomendacion_general",
+      "patterns": ["¿Qué me recomiendas?", "Dame una recomendación", "¿Tienes algún consejo?", "Consejo del día"],
+      "responses": [
+        "Nunca desperdicies el elixir, cada gota cuenta.",
+        "Prueba cambiar de mazo si pierdes muchas veces seguidas.",
+        "Observa los mazos de los mejores jugadores y adáptalos a tu estilo."
+      ]
+    },
+    {
+      "tag": "clanes",
+      "patterns": ["¿Qué es un clan?", "¿Para qué sirven los clanes?", "Cuéntame sobre los clanes", "¿Vale la pena unirse a un clan?"],
+      "responses": [
+        "Los clanes te permiten unirte con otros jugadores, compartir cartas y participar en guerras de clanes.",
+        "¡Unirte a un clan es clave para avanzar más rápido!"
+      ]
+    },
+    {
+      "tag": "curiosidad_juego",
+      "patterns": ["Dime un dato curioso", "Dato interesante", "Algo raro del juego", "Curiosidad"],
+      "responses": [
+        "¿Sabías que la carta del P.E.K.K.A tiene un sonido especial cuando muere?",
+        "El Espejo puede clonar cualquier carta... ¡incluso a sí mismo si se vuelve loco!",
+        "El primer nombre del juego iba a ser Clash Fighters."
+      ]
+    },
+    {
+      "tag": "ayuda_general",
+      "patterns": ["Ayuda", "No sé qué hacer", "¿Me ayudas?", "Necesito ayuda", "Sálvame bot"],
+    "responses": [
+      "Claro, dime qué necesitas y te echo una mano.",
+      "¡Aquí estoy para ayudarte! Solo dime en qué.",
+      "Estoy a tu disposición. ¿Buscas mazos, info, chistes o algo más?"
+    ]
+  },
+  {
+    "tag": "estrategia_principiante",
+    "patterns": ["Soy nuevo", "Estoy empezando", "¿Qué hago si soy nuevo?", "Consejo para novatos"],
+    "responses": [
+      "Comienza con mazos simples y aprende a controlar el elixir.",
+      "Enfócate en defender bien antes de atacar.",
+      "No subas todas las cartas, solo las que uses frecuentemente."
+    ]
+  },
+    {
+      "tag": "error_comun",
+      "patterns": ["Errores comunes", "¿Qué errores evitar?", "¿Qué no debo hacer?", "Errores de novato"],
+      "responses": [
+        "No desperdicies el elixir lanzando cartas sin sentido.",
+        "Evita sobredefender y quedarte sin elixir.",
+        "No lances una carta sin pensar qué puede hacer el rival."
+      ]
+    },
+    {
+      "tag": "modo_duelo",
+      "patterns": ["¿Qué es el modo duelo?", "Explícame el duelo", "¿Cómo funciona el duelo?"],
+      "responses": [
+        "En el modo duelo usas varios mazos contra el rival. Gana quien gana dos partidas.",
+        "¡Es un modo estratégico donde debes tener variedad en tus mazos!"
+      ]
+    },
+    {
+      "tag": "comunidad",
+      "patterns": ["¿Hay comunidad de jugadores?", "¿Dónde me uno a una comunidad?", "¿Tienes Discord?", "Comunidad Clash Royale"],
+      "responses": [
+        "Hay muchas comunidades en Discord, Reddit y Facebook donde puedes aprender y compartir.",
+        "Busca clanes activos o únete a grupos de jugadores para mejorar más rápido."
+      ]
+    },
+    {
+      "tag": "por_que_pierdo",
+      "patterns": ["¿Por qué pierdo siempre?", "Estoy perdiendo", "No puedo ganar", "Me ganan siempre", "No avanzo"],
+      "responses": [
+        "Tal vez tu mazo no está equilibrado o estás gastando mal el elixir.",
+        "Revisa si estás cometiendo errores defensivos y analiza tus repeticiones.",
+        "A veces solo es una mala racha. ¡No te rindas!"
+      ]
+    },
+    {
+      "tag": "mejorar_rapido",
+      "patterns": ["¿Cómo mejoro rápido?", "Quiero subir rápido", "Subir copas rápido", "Mejorar más rápido"],
+      "responses": [
+        "Concéntrate en un mazo y mejora esas cartas.",
+        "Ve repeticiones de jugadores top y analiza sus movimientos.",
+        "Únete a un clan activo para donaciones y consejos."
+      ]
+    },
+    {
+      "tag": "curiosidades_personajes",
+      "patterns": ["Curiosidad de personajes", "Cosas raras del juego", "Algo divertido", "Secretos del juego"],
+      "responses": [
+        "La Princesa es la carta con mayor alcance.",
+        "El P.E.K.K.A tiene una voz femenina, aunque parece un robot masculino.",
+        "El Espíritu de Hielo antes se llamaba 'Yeti bebé' en el desarrollo."
+      ]
+    },
+    {
+      "tag": "ataque_recomendado",
+      "patterns": ["¿Cómo ataco?", "Consejo para atacar", "Estrategia de ataque", "Atacar bien"],
+      "responses": [
+        "Ataca cuando tengas ventaja de elixir.",
+        "Haz presión por el lado opuesto si el rival invierte mucho.",
+        "No olvides siempre tener algo para defender."
+      ]
+    },
+    {
+      "tag": "defensa_recomendada",
+      "patterns": ["¿Cómo defiendo?", "Defender bien", "Estrategia de defensa", "Me atacan muy fácil"],
+      "responses": [
+        "Coloca las tropas en el centro para atraer al enemigo.",
+        "Usa tropas baratas para distraer y torres para rematar.",
+        "Aprende a usar la Torre Infernal o cañón contra tanques."
+      ]
+    },
+    {
+      "tag": "cartas_rotas",
+      "patterns": ["¿Qué carta está rota?", "Cartas muy fuertes", "¿Cuál es la mejor carta?"],
+      "responses": [
+        "Las cartas fuertes cambian con cada actualización. ¡No te confíes!",
+        "Actualmente hay varias muy fuertes, pero todo depende del mazo."
+      ]
+    },
+    {
+      "tag": "emocion_usuario_enojo",
+      "patterns": ["Estoy enojado", "Me frustra perder", "Odio este juego", "Qué coraje", "Ya no quiero jugar"],
+      "responses": [
+        "Respira hondo, a todos nos pasa. ¡Una derrota no define tu habilidad!",
+        "Tómate un pequeño descanso. Volverás con más fuerza.",
+        "Recuerda que hasta los pros pierden. ¡No te rindas!"
+      ]
+    },
+    {
+      "tag": "emocion_usuario_alegria",
+      "patterns": ["¡Gané!", "Qué buena partida", "Estoy feliz", "¡Por fin gané!", "Estoy emocionado"],
+      "responses": [
+        "¡Felicidades clashero! Sigue así.",
+        "¡Bien jugado! Tu esfuerzo está dando frutos.",
+        "¡Esa es la actitud! A seguir subiendo copas."
+      ]
+    },
+    {
+      "tag": "pregunta_modo_juego",
+      "patterns": ["¿Qué modos hay?", "Modos de juego", "¿Qué tipos de batallas hay?", "Modos disponibles"],
+      "responses": [
+        "Puedes jugar 1c1, 2c2, guerra de clanes, torneos y eventos especiales.",
+        "Los modos cambian a veces, ¡mantente atento a los eventos!"
+      ]
+    },
+    {
+      "tag": "batalla_amistosa",
+      "patterns": ["¿Cómo hago una batalla amistosa?", "Quiero jugar con un amigo", "Duelo amistoso", "Invitar a amigo"],
+      "responses": [
+        "Ve a tu clan y toca 'Batalla amistosa'.",
+        "Desde amigos puedes invitar directamente a un duelo amistoso."
+      ]
+    },
+    {
+      "tag": "trofeos",
+      "patterns": ["¿Qué son los trofeos?", "Subir trofeos", "Bajar trofeos", "¿Para qué sirven los trofeos?"],
+      "responses": [
+        "Los trofeos definen tu nivel y arena. Ganas al ganar batallas y pierdes al perder.",
+        "Subir trofeos desbloquea nuevas arenas y recompensas."
+      ]
+    },
+    {
+      "tag": "arena_actual",
+      "patterns": ["Estoy en arena 7", "¿Qué hay en arena 5?", "Quiero subir de arena", "¿Qué arena sigue?"],
+      "responses": [
+        "Cada arena tiene cartas únicas. Revisa bien tu mazo para avanzar.",
+        "Sigue ganando y verás cómo llegas a la siguiente arena. ¡Tú puedes!"
+      ]
+    },
+    {
+      "tag": "evento_especial",
+      "patterns": ["¿Qué evento hay hoy?", "Eventos especiales", "¿Qué desafíos hay?", "Eventos Clash Royale"],
+      "responses": [
+        "No tengo conexión en tiempo real, pero puedes verlo en el menú principal del juego.",
+        "Revisa la pestaña de eventos para conocer los desafíos activos."
+      ]
+    },
+    {
+      "tag": "recompensas",
+      "patterns": ["¿Qué recompensas hay?", "Cómo ganar recompensas", "Premios del juego", "Cómo obtengo cofres"],
+      "responses": [
+        "Juega batallas para ganar cofres, y completa desafíos para obtener recompensas únicas.",
+        "Las coronas diarias y los desafíos te dan cofres y cartas."
+      ]
+    },
+    {
+      "tag": "elixir_consejo",
+      "patterns": ["Consejo sobre elixir", "¿Cómo uso el elixir?", "Gasto elixir rápido", "Control de elixir"],
+      "responses": [
+        "El buen uso del elixir gana partidas. No lo gastes todo en un solo push.",
+        "Espera al rival, defiende y contraataca con ventaja de elixir."
+      ]
+    },
+    {
+      "tag": "cartas_equilibradas",
+      "patterns": ["¿El juego está balanceado?", "¿Hay cartas injustas?", "¿Qué opinas del balance?"],
+      "responses": [
+        "El juego se actualiza frecuentemente para balancear las cartas.",
+        "A veces hay cartas más fuertes, pero el meta cambia. Lo importante es adaptarse."
+      ]
+    },
+    {
+      "tag": "reporte_jugador",
+      "patterns": ["Me insultaron", "¿Cómo reporto a alguien?", "Jugador tóxico", "¿Puedo reportar?"],
+      "responses": [
+        "Puedes reportar a jugadores desde su perfil o después de una partida.",
+        "Clash Royale promueve una comunidad sana. No dudes en reportar comportamientos tóxicos."
+      ]
+    },
+    {
+      "tag": "nombres_graciosos",
+      "patterns": ["Dame un nombre gracioso", "Nombres divertidos", "Ideas para nombre", "¿Qué nombre me pongo?"],
+      "responses": [
+        "ElixirMan", "TorreRota", "Legendario69", "Clan-Destino", "PekkaNoLloró"
+      ]
+    },
+    {
+      "tag": "frases_royale",
+      "patterns": ["Frases famosas", "Frases de Clash Royale", "Dime frases del juego"],
+      "responses": [
+        "¡Fue una gran batalla!", "¡Buena suerte!", "¡Bien jugado!", "¡Gracias!", "¡Oops!"
+      ]
+  }
+,
+{
+  "tag": "piedra_papel_tijera",
+  "patterns": ["Juguemos piedra papel o tijera", "Piedra papel tijera", "Vamos a jugar", "¿Piedra, papel o tijera?"],
+  "responses": [
+    "¡Piedra! ¿Y tú?",
+    "¡Tijera! ¿Me ganaste?",
+    "¡Papel! Veamos si te gano.",
+    "¡Vamos! Piedra... papel... ¡tijera!"
+  ]
+},
+{
+  "tag": "humor_malo",
+  "patterns": ["Tu chiste fue malo", "No me hizo reír", "Ese chiste no estuvo bueno", "Mal chiste"],
+  "responses": [
+    "¡Ups! Prometo mejorar mis chistes.",
+    "A veces fallo, pero seguiré intentando hacerte reír.",
+    "¡Gracias por tu sinceridad! Buscaré mejores chistes."
+  ]
+},
+{
+  "tag": "inspiracion",
+  "patterns": ["Dame inspiración", "Motívame", "Una frase motivacional", "Estoy desanimado", "Necesito motivación"],
+  "responses": [
+    "¡No te rindas! Incluso el tronco fue legendario alguna vez.",
+    "Las mejores victorias vienen después de las derrotas más duras.",
+    "Hoy puede ser el día en que ganes todas tus partidas.",
+    "Confía en tu estrategia, ¡eres más fuerte de lo que crees!"
+  ]
+},
+{
+  "tag": "explicacion_bot",
+  "patterns": ["¿Cómo fuiste creado?", "¿Quién te hizo?", "¿Cómo funcionas?", "¿Eres inteligente?"],
+  "responses": [
+    "Fui creado con mucho código, aprendizaje automático y pasión por Clash Royale.",
+    "Mi creador me entrenó para ayudarte a dominar el juego.",
+    "Uso redes neuronales y datos para entender tus preguntas.",
+    "¡Estoy en constante entrenamiento, como tú!"
+  ]
+},
+{
+  "tag": "estatus_del_juego",
+  "patterns": ["¿Cómo va el juego?", "¿Sigue activo Clash Royale?", "¿Cuánta gente juega?", "¿Clash Royale está vivo?"],
+  "responses": [
+    "Clash Royale sigue tan activo como un Megaesbirro con furia.",
+    "Millones siguen luchando en la arena todos los días.",
+    "¡Sí! Cada día hay nuevos desafíos y balanceos.",
+    "El juego sigue recibiendo actualizaciones y mucho amor de la comunidad."
+  ]
+},
+{
+  "tag": "cumplido",
+  "patterns": ["Buen bot", "Eres genial", "Me gusta tu ayuda", "Eres bueno", "Gracias por tu ayuda"],
+  "responses": [
+    "¡Gracias, clashero! Lo hago lo mejor que puedo.",
+    "¡Agradezco tus palabras!",
+    "Me alegra ayudarte, eso me hace feliz.",
+    "¡Gracias! Estoy hecho para servirte."
+  ]
+},
+{
+  "tag": "actitud_positiva",
+  "patterns": ["¡Vamos!", "Estoy motivado", "A ganar", "Con todo", "¡A romperla!"],
+  "responses": [
+    "¡Así se habla! ¡Vamos con todo!",
+    "¡La arena te espera!",
+    "¡A romper copas!",
+    "¡Eso es actitud Clashera!"
+  ]
+},
+  {
+    "tag": "curiosidad_general",
+    "patterns": ["Cuéntame algo", "Sorpréndeme", "Dime algo interesante", "No sé qué preguntar"],
+    "responses": [
+      "¿Sabías que el primer campeón agregado fue el Rey Esqueleto?",
+      "El Mega Caballero pesa 5,000 kilos… ¡imagina su dieta!",
+      "Clash Royale fue lanzado oficialmente el 2 de marzo de 2016.",
+      "Puedes ganar un cofre legendario incluso perdiendo… ¡solo es cuestión de suerte!"
+    ]
+  },
+  {
+    "tag": "pregunta_existencial",
+    "patterns": ["¿Cuál es el propósito de todo esto?", "¿Qué sentido tiene jugar?", "¿Por qué seguimos jugando?", "¿Esto tiene fin?"],
+    "responses": [
+      "¡Jugar es una forma de disfrutar el camino, no solo ganar!",
+      "El propósito está en cada victoria… y en cada buena jugada.",
+      "Clash Royale no tiene fin, como tu progreso.",
+      "Seguir mejorando siempre vale la pena."
+    ]
+  }
+  ,
+  {
+    "tag": "ayuda_mazos",
+    "patterns": ["¿Qué mazo me recomiendas?", "Ayúdame con un mazo", "¿Cuál es un buen mazo?", "Necesito un mazo fuerte", "Recomiéndame un mazo para subir de arena"],
+    "responses": [
+      "Te recomiendo probar un mazo con Megaesbirro, Bola de fuego, y Ejército de esqueletos para balancear defensa y ataque.",
+      "Un mazo defensivo con Torre infernal, Bárbaros, y Mosquetera puede ser muy sólido.",
+      "Si prefieres ofensiva, intenta con Montapuercos, Bola de fuego y Espíritu de hielo.",
+      "¿Quieres que te sugiera un mazo específico para tu arena?"
+    ]
+  },
+  {
+    "tag": "reglas_del_juego",
+    "patterns": ["¿Cómo funciona el juego?", "Reglas de Clash Royale", "Explica las reglas", "¿Cómo se gana?"],
+    "responses": [
+      "Debes destruir las torres del oponente para ganar, la torre del Rey otorga la victoria inmediata.",
+      "Controla tu elixir y elige bien cuándo atacar y defender.",
+      "Las batallas duran 3 minutos, con posible tiempo extra si hay empate.",
+      "Usa estrategias y conoce tus cartas para dominar la arena."
+    ]
+  },
+  {
+    "tag": "actualizaciones",
+    "patterns": ["¿Hay actualizaciones nuevas?", "Últimas novedades", "¿Qué hay de nuevo?", "¿Algún cambio reciente?"],
+    "responses": [
+      "Supercell lanza actualizaciones periódicas con nuevas cartas y balanceos.",
+      "Revisa las notas oficiales para conocer los cambios recientes.",
+      "¡Mantente atento! Las temporadas y desafíos traen novedades frescas.",
+      "¿Quieres que te cuente sobre la última actualización?"
+    ]
+  },
+  {
+    "tag": "eventos",
+    "patterns": ["¿Hay eventos activos?", "Eventos en Clash Royale", "Próximos eventos", "¿Qué eventos hay?"],
+    "responses": [
+      "Actualmente hay desafíos de doble elixir y eventos especiales de temporada.",
+      "Supercell suele lanzar eventos cada semana con premios especiales.",
+      "Participa en los torneos para ganar recompensas exclusivas.",
+      "¿Quieres saber cómo unirte a los eventos?"
+    ]
+  },
+  {
+    "tag": "despedida_cordial",
+    "patterns": ["Adiós", "Nos vemos", "Hasta luego", "Chao", "Me voy"],
+    "responses": [
+      "¡Que tengas una gran batalla!",
+      "Nos vemos en la arena, ¡cuídate!",
+      "¡Hasta pronto! Sigue practicando.",
+      "¡Chao! Espero que ganes muchas partidas."
+    ]
+  },
+  {
+    "tag": "saludo_amigable",
+    "patterns": ["Hola de nuevo", "Estoy aquí", "Regresé", "Hey otra vez", "Aquí estoy"],
+    "responses": [
+      "¡Bienvenido de vuelta, clashero!",
+      "¡Me alegra que estés aquí otra vez!",
+      "¿Listo para más batallas?",
+      "¡Vamos a romperla hoy!"
+    ]
+  },
+  {
+    "tag": "errores_comunes",
+    "patterns": ["No entiendo cómo jugar", "No sé usar mis cartas", "Me confundo con las estrategias", "No sé qué hacer"],
+    "responses": [
+      "Empieza practicando con un mazo básico para entender las mecánicas.",
+      "Observa videos y aprende combos para usar tus cartas mejor.",
+      "No te preocupes, con la práctica todo mejora.",
+      "Puedo ayudarte con consejos para usar tus cartas."
+    ]
+  },
+  {
+    "tag": "frustracion",
+    "patterns": ["Estoy frustrado con el juego", "No avanzo", "Siempre pierdo", "Esto me desespera"],
+    "responses": [
+      "A veces perder es parte del aprendizaje, ¡no te rindas!",
+      "Cada partida te acerca más a ser mejor.",
+      "Tómate un respiro y vuelve con calma.",
+      "La perseverancia es la clave del éxito."
+    ]
+  },
+  {
+  "tag": "pedir_mazo",
+  "patterns": [
+    "quiero un mazo",
+    "me gustaría un mazo",
+    "¿qué mazo me recomiendas?",
+    "quiero que me hagas un mazo",
+    "dame un mazo para jugar",
+    "necesito un mazo nuevo",
+    "ayúdame a crear un mazo",
+    "¿puedes recomendarme un mazo?",
+    "quiero un mazo ofensivo",
+    "quiero un mazo defensivo",
+    "recomiéndame un mazo",
+    "¿qué mazo debería usar?"
+  ],
+  "responses": [
+    "Claro, ¿quieres un mazo ofensivo o defensivo?",
+    "Puedo recomendarte varios mazos según tu estilo de juego, ¿prefieres atacar o defender?",
+    "Te puedo ayudar a crear un mazo equilibrado, ¿qué cartas tienes?",
+    "¿Quieres que te sugiera un mazo para una arena específica?",
+    "Aquí tienes un mazo que muchos jugadores usan con éxito.",
+    "Dime si prefieres un mazo rápido o uno más estratégico."
+  ],
+  "context_set": "mazo"
+},
+{
+  "tag": "confirmacion_mazo",
+  "patterns": [
+    "sí",
+    "claro",
+    "por supuesto",
+    "sí, por favor",
+    "sí quiero",
+    "obvio",
+    "dale",
+    "ok"
+  ],
+  "responses": [
+    "Perfecto, aquí tienes un mazo que te puede funcionar bien: Montapuercos, Mosquetera, Descarga, Espíritu de fuego, Duendes, Bárbaros, Bola de fuego, Caballero.",
+    "¡Listo! Te recomiendo este mazo defensivo: Mortero, Torre Infernal, Mosquetera, Bárbaros, Descarga, Bola de fuego, Espíritu de hielo, Duende lanzadardos."
+  ],
+  "context_filter": ["mazo"]
+},
+{
+    "nombre": "Mazo Defensivo Básico",
+    "cartas": ["Torre Infernal", "Espíritu de hielo", "Bárbaros", "Mago"],
+    "tipo": "defensivo"
+  },
+  {
+    "nombre": "Mazo Ofensivo Rápido",
+    "cartas": ["Montapuercos", "Bebé Dragón", "Cohete", "Pandilla de duendes"],
+    "tipo": "ofensivo"
+  },
+  {
+  "tag": "clan_info",
+  "patterns": [
+    "qué es un clan",
+    "qué son los clanes",
+    "cuéntame sobre los clanes",
+    "información de clan",
+    "para qué sirven los clanes"
+  ],
+  "responses": [
+    "Un clan es un grupo de jugadores que pueden ayudarse, compartir cartas y participar en guerras de clanes.",
+    "Los clanes te permiten jugar con amigos y ganar recompensas juntos."
+]
+},
+{
+    "tag": "carta_mas_fuerte",
+    "patterns": [
+      "¿Cuál es la carta más fuerte?",
+      "Carta más fuerte del juego",
+      "Mejor carta para atacar",
+      "Qué carta tiene más daño",
+      "Carta con más poder ofensivo"
+    ],
+    "responses": [
+      "La carta más fuerte actualmente es el P.E.K.K.A.",
+      "El P.E.K.K.A es conocida por su alto daño."
+    ]
+  },
+  {
+    "tag": "carta_mas_resistente",
+    "patterns": [
+      "¿Cuál es la carta más resistente?",
+      "Carta con más vida",
+      "Qué carta aguanta más daño",
+      "Carta con más salud"
+    ],
+    "responses": [
+      "El Golem es la carta con más vida y resistencia.",
+      "Golem puede absorber mucho daño antes de caer."
+    ]
+  },
+  {
+    "tag": "carta_mas_rapida",
+    "patterns": [
+      "¿Cuál es la carta más rápida?",
+      "Carta más veloz",
+      "Qué carta se mueve rápido",
+      "Carta con más velocidad"
+    ],
+    "responses": [
+      "El Montapuercos es una de las cartas más rápidas en el juego.",
+      "El espíritu de hielo es súper rápido para distraer enemigos."
+    ]
+  },
+  {
+    "tag": "carta_mas_usada",
+    "patterns": [
+      "¿Cuál es la carta más usada?",
+      "Carta más popular",
+      "Qué carta usan más los jugadores",
+      "Carta favorita de los jugadores"
+    ],
+    "responses": [
+      "El Montapuercos y el Espíritu de hielo están entre las cartas más usadas.",
+      "Montapuercos es muy popular en los mazos de nivel medio."
+    ]
+  },
+  {
+    "tag": "carta_menos_costo",
+    "patterns": [
+      "¿Cuál es la carta con menos elixir?",
+      "Carta más barata",
+      "Qué carta cuesta menos elixir",
+      "Carta que cuesta 1 elixir"
+    ],
+    "responses": [
+      "Los duendes y el espíritu de hielo cuestan solo 1 de elixir.",
+      "Carta más barata: espíritu de hielo y duendes."
+    ]
+  },
+  {
+    "tag": "carta_mas_costosa",
+    "patterns": [
+      "¿Cuál es la carta más costosa?",
+      "Carta que cuesta más elixir",
+      "Carta más cara",
+      "Carta que cuesta 9 elixir"
+    ],
+    "responses": [
+      "El Golem y el P.E.K.K.A son las cartas más caras, costando 7 y 7 elixir respectivamente.",
+      "La carta más costosa es el Golem con 8 elixir."
+    ]
+  },
+  {
+    "tag": "carta_mejor_para_defensa",
+    "patterns": [
+      "¿Cuál es la mejor carta para defensa?",
+      "Carta ideal para defender",
+      "Qué carta uso para defender mejor",
+      "Carta defensiva más fuerte"
+    ],
+    "responses": [
+      "La Torre Infernal es excelente para defensa contra tanques.",
+      "El Mago eléctrico es muy útil para defensa y aturdimiento."
+    ]
+  },
+  {
+    "tag": "carta_mejor_para_ataque",
+    "patterns": [
+      "¿Cuál es la mejor carta para ataque?",
+      "Carta ideal para atacar",
+      "Qué carta uso para atacar mejor",
+      "Carta ofensiva más fuerte"
+    ],
+    "responses": [
+      "El Montapuercos es uno de los mejores atacantes rápidos.",
+      "La Princesa puede atacar desde lejos con gran alcance."
+    ]
+  },
+  {
+    "tag": "carta_con_mejor_habilidad",
+    "patterns": [
+      "¿Qué carta tiene la mejor habilidad?",
+      "Carta con habilidad especial",
+      "Carta con efecto único",
+      "Mejor carta por habilidad"
+    ],
+    "responses": [
+      "La Princesa destaca por su ataque a distancia y daño en área.",
+      "El Mago Eléctrico puede aturdir a varios enemigos con su habilidad."
+    ]
+  },
+  {
+  "tag": "carta_con_mas_dano_aoe",
+  "patterns": [
+    "¿Qué carta tiene más daño en área?",
+    "Carta con ataque en área más fuerte",
+    "Mejor carta para eliminar grupos",
+    "Carta con daño splash"
+  ],
+  "responses": [
+    "El Mago es excelente para daño en área.",
+    "El Globo bombástico también tiene un gran daño splash."
+  ]
+  },
+  {
+  "tag": "mazo_carta",
+  "patterns": [
+    "hazme un mazo con el montapuercos",
+    "quiero un mazo que incluya al mago",
+    "puedes armar un mazo con el minero?",
+    "me gusta el golem, haz un mazo con él",
+    "dame un mazo con princesa"
+  ],
+  "responses": [
+    "Aquí tienes un mazo que incluye esa carta.",
+    "¡Vamos con esa carta como protagonista!",
+    "Perfecto, te armo un mazo con esa carta.",
+    "Buena elección, aquí va un mazo que la incluye."
+  ]
+}
+]
+}

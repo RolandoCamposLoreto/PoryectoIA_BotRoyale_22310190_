@@ -1,0 +1,2437 @@
+[
+  {
+    "name": "P.E.K.K.A",
+    "type": "Tropa",
+    "elixirCost": 7,
+    "rarity": "Épica",
+    "arena": 6,
+    "stats": {
+      "vida": 4127,
+      "daño": 896,
+      "velocidadAtaque": 1.8,
+      "alcance": 1,
+      "velocidadMovimiento": "Lenta"
+    },
+    "iconUrls": {"medium": "https://statsroyale.com/images/cards/pekka.png"}
+  },
+  {
+    "name": "Minero",
+    "type": "Tropa",
+    "elixirCost": 3,
+    "rarity": "Legendaria",
+    "arena": 8,
+    "stats": {
+      "vida": 600,
+      "daño": 120,
+      "velocidadAtaque": 1.1,
+      "alcance": 1,
+      "velocidadMovimiento": "Media"
+    },
+    "habilidadEspecial": "Puede aparecer en cualquier lugar del campo.",
+    "iconUrls": {
+      "medium": "https://statsroyale.com/images/cards/miner.png"
+    }
+  },
+  {
+    "name": "Goblin Lanzadardos",
+    "type": "Tropa",
+    "elixirCost": 3,
+    "rarity": "Rara",
+    "arena": 3,
+    "stats": {
+      "vida": 100,
+      "daño": 80,
+      "velocidadAtaque": 1.2,
+      "alcance": 5,
+      "velocidadMovimiento": "Rápida"
+    },
+    "habilidadEspecial": "Dispara rápido a distancia con lanza dardos.",
+    "iconUrls": {
+      "medium": "https://statsroyale.com/images/cards/spear-goblin.png"
+    }
+  },
+  {
+    "name": "Duende Bebé Dragón",
+    "type": "Tropa",
+    "elixirCost": 4,
+    "rarity": "Legendaria",
+    "arena": 9,
+    "stats": {
+      "vida": 900,
+      "daño": 120,
+      "velocidadAtaque": 1.5,
+      "alcance": 3,
+      "velocidadMovimiento": "Media"
+    },
+    "habilidadEspecial": "Ataca aéreo y terrestre con daño en área.",
+    "iconUrls": {
+      "medium": "https://statsroyale.com/images/cards/baby-dragon.png"
+    }
+  },
+  {
+    "name": "Ejército de Duendes",
+    "type": "Tropa",
+    "elixirCost": 2,
+    "rarity": "Común",
+    "arena": 0,
+    "stats": {
+      "vida": 90,
+      "daño": 50,
+      "velocidadAtaque": 1.3,
+      "alcance": 1,
+      "velocidadMovimiento": "Rápida"
+    },
+    "habilidadEspecial": "Grupo de duendes para ataques rápidos en masa.",
+    "iconUrls": {
+      "medium": "https://statsroyale.com/images/cards/goblin-gang.png"
+    }
+  },
+  {
+    "name": "Mago de Hielo",
+    "type": "Tropa",
+    "elixirCost": 3,
+    "rarity": "Épica",
+    "arena": 5,
+    "stats": {
+      "vida": 400,
+      "daño": 70,
+      "velocidadAtaque": 1.5,
+      "alcance": 5,
+      "velocidadMovimiento": "Media"
+    },
+    "habilidadEspecial": "Ralentiza y daña tropas enemigas con ataques de hielo.",
+    "iconUrls": {
+      "medium": "https://statsroyale.com/images/cards/ice-mage.png"
+    }
+  },
+  {
+    "name": "Gólem de Hielo",
+    "type": "Tropa",
+    "elixirCost": 2,
+    "rarity": "Rara",
+    "arena": 7,
+    "stats": {
+      "vida": 600,
+      "daño": 50,
+      "velocidadAtaque": 1.0,
+      "alcance": 1,
+      "velocidadMovimiento": "Lenta"
+    },
+    "habilidadEspecial": "Al morir, ralentiza y daña a las tropas cercanas.",
+    "iconUrls": {
+      "medium": "https://statsroyale.com/images/cards/ice-golem.png"
+    }
+  },
+  {
+    "name": "Recluta Real",
+    "type": "Tropa",
+    "elixirCost": 5,
+    "rarity": "Épica",
+    "arena": 10,
+    "stats": {
+      "vida": 900,
+      "daño": 150,
+      "velocidadAtaque": 1.1,
+      "alcance": 1,
+      "velocidadMovimiento": "Media"
+    },
+    "habilidadEspecial": "Dividido en dos tropas que atacan por separado.",
+    "iconUrls": {
+      "medium": "https://statsroyale.com/images/cards/royal-recruit.png"
+    }
+  },
+  {
+    "name": "Globo Bombástico",
+    "type": "Tropa",
+    "elixirCost": 5,
+    "rarity": "Épica",
+    "arena": 8,
+    "stats": {
+      "vida": 1200,
+      "daño": 350,
+      "velocidadAtaque": 1.5,
+      "alcance": 1,
+      "velocidadMovimiento": "Lenta"
+    },
+    "habilidadEspecial": "Al morir, explota causando daño en área.",
+    "iconUrls": {
+      "medium": "https://statsroyale.com/images/cards/balloon.png"
+    }
+  },
+  {
+    "name": "Princesa",
+    "type": "Tropa",
+    "elixirCost": 3,
+    "rarity": "Legendaria",
+    "arena": 11,
+    "stats": {
+      "vida": 340,
+      "daño": 120,
+      "velocidadAtaque": 1.2,
+      "alcance": 9,
+      "velocidadMovimiento": "Media"
+    },
+    "iconUrls": {"medium": "https://statsroyale.com/images/cards/princess.png"}
+  },
+  {
+    "name": "Mini P.E.K.K.A",
+    "type": "Tropa",
+    "elixirCost": 4,
+    "rarity": "Rara",
+    "arena": 4,
+    "stats": {
+      "vida": 1366,
+      "daño": 500,
+      "velocidadAtaque": 1.8,
+      "alcance": 1,
+      "velocidadMovimiento": "Media"
+    },
+    "iconUrls": {"medium": "https://statsroyale.com/images/cards/mini-pekka.png"}
+  },
+  {
+    "name": "Mago",
+    "type": "Tropa",
+    "elixirCost": 5,
+    "rarity": "Épica",
+    "arena": 0,
+    "stats": {
+      "vida": 490,
+      "daño": 131,
+      "velocidadAtaque": 1.3,
+      "alcance": 5,
+      "velocidadMovimiento": "Media"
+    },
+    "iconUrls": {"medium": "https://statsroyale.com/images/cards/mage.png"}
+  },
+  {
+    "name": "Valkiria",
+    "type": "Tropa",
+    "elixirCost": 4,
+    "rarity": "Épica",
+    "arena": 4,
+    "stats": {
+      "vida": 1400,
+      "daño": 199,
+      "velocidadAtaque": 1.6,
+      "alcance": 1,
+      "velocidadMovimiento": "Media"
+    },
+    "iconUrls": {"medium": "https://statsroyale.com/images/cards/valkyria.png"}
+  }
+,
+{
+  "name": "Gigante",
+  "type": "Tropa",
+  "elixirCost": 6,
+  "rarity": "Común",
+  "arena": 2,
+  "stats": {
+    "vida": 3000,
+    "daño": 150,
+    "velocidadAtaque": 1.5,
+    "alcance": 1,
+    "velocidadMovimiento": "Lenta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/giant.png"
+  }
+},
+{
+  "name": "Esbirros",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 1,
+  "stats": {
+    "vida": 180,
+    "daño": 75,
+    "velocidadAtaque": 1.1,
+    "alcance": 2,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/minions.png"
+  }
+},
+{
+  "name": "Bola de Fuego",
+  "type": "Hechizo",
+  "elixirCost": 4,
+  "rarity": "Rara",
+  "arena": 0,
+  "stats": {
+    "daño": 300,
+    "alcance": 5
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/fireball.png"
+  }
+},
+{
+  "name": "Torre Infernal",
+  "type": "Torre",
+  "elixirCost": 5,
+  "rarity": "Rara",
+  "arena": 4,
+  "stats": {
+    "vida": 1400,
+    "daño": 100,
+    "velocidadAtaque": 0.4,
+    "alcance": 6,
+    "velocidadDisparo": "Lenta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/tesla.png"
+  }
+},
+{
+  "name": "Caballero",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 1100,
+    "daño": 120,
+    "velocidadAtaque": 1.3,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/knight.png"
+  }
+}
+,
+{
+  "name": "Duendes",
+  "type": "Tropa",
+  "elixirCost": 2,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 90,
+    "daño": 40,
+    "velocidadAtaque": 1.1,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/goblins.png"
+  }
+},
+{
+  "name": "Monta Puerco",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Rara",
+  "arena": 7,
+  "stats": {
+    "vida": 1600,
+    "daño": 220,
+    "velocidadAtaque": 1.3,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/hog-rider.png"
+  }
+},
+{
+  "name": "Dragón Infernal",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Legendaria",
+  "arena": 9,
+  "stats": {
+    "vida": 1400,
+    "daño": 150,
+    "velocidadAtaque": 0.4,
+    "alcance": 5,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/inferno-dragon.png"
+  }
+},
+{
+  "name": "Bárbaros",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 600,
+    "daño": 75,
+    "velocidadAtaque": 1.5,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/barbarians.png"
+  }
+},
+{
+  "name": "Esqueleto Gigante",
+  "type": "Tropa",
+  "elixirCost": 6,
+  "rarity": "Épica",
+  "arena": 6,
+  "stats": {
+    "vida": 2800,
+    "daño": 260,
+    "velocidadAtaque": 1.5,
+    "alcance": 1,
+    "velocidadMovimiento": "Lenta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/giant-skeleton.png"
+  }
+}
+,
+{
+  "name": "Minero",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 4,
+  "stats": {
+    "vida": 700,
+    "daño": 130,
+    "velocidadAtaque": 1.2,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/miner.png"
+  }
+},
+{
+  "name": "Princesa",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Legendaria",
+  "arena": 3,
+  "stats": {
+    "vida": 300,
+    "daño": 130,
+    "velocidadAtaque": 2.0,
+    "alcance": 9,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/princess.png"
+  }
+},
+{
+  "name": "Duende Lanzadardos",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 1,
+  "stats": {
+    "vida": 150,
+    "daño": 90,
+    "velocidadAtaque": 1.5,
+    "alcance": 5,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/spear-goblin.png"
+  }
+},
+{
+  "name": "Bebé Dragón",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 6,
+  "stats": {
+    "vida": 1100,
+    "daño": 100,
+    "velocidadAtaque": 1.2,
+    "alcance": 3,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/baby-dragon.png"
+  }
+},
+{
+  "name": "Caballero Dorado",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Campeón",
+  "arena": 8,
+  "stats": {
+    "vida": 1500,
+    "daño": 160,
+    "velocidadAtaque": 1.4,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Su ataque carga y golpea en un área pequeña, cuesta 2 de elixir y tiene 12 segundos de recarga.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/golden-knight.png"
+  }
+}
+,
+{
+  "name": "Gólem",
+  "type": "Tropa",
+  "elixirCost": 8,
+  "rarity": "Épica",
+  "arena": 8,
+  "stats": {
+    "vida": 4500,
+    "daño": 300,
+    "velocidadAtaque": 1.5,
+    "alcance": 1,
+    "velocidadMovimiento": "Lento"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/golem.png"
+  }
+},
+{
+  "name": "Montapuercos",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Común",
+  "arena": 5,
+  "stats": {
+    "vida": 800,
+    "daño": 150,
+    "velocidadAtaque": 1.3,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/hog-rider.png"
+  }
+},
+{
+  "name": "Esbirros",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 2,
+  "stats": {
+    "vida": 260,
+    "daño": 70,
+    "velocidadAtaque": 1.1,
+    "alcance": 3,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/minions.png"
+  }
+},
+{
+  "name": "Dragón Infernal",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 8,
+  "stats": {
+    "vida": 1000,
+    "daño": 50,
+    "velocidadAtaque": 0.4,
+    "alcance": 3,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/inferno-dragon.png"
+  }
+},
+{
+  "name": "Bruja",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Épica",
+  "arena": 3,
+  "stats": {
+    "vida": 400,
+    "daño": 40,
+    "velocidadAtaque": 1.2,
+    "alcance": 5,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/witch.png"
+  }
+}
+,
+{
+  "name": "Caballero",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 1,
+  "stats": {
+    "vida": 1000,
+    "daño": 120,
+    "velocidadAtaque": 1.1,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/knight.png"
+  }
+},
+{
+  "name": "Princesa",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Legendaria",
+  "arena": 3,
+  "stats": {
+    "vida": 300,
+    "daño": 90,
+    "velocidadAtaque": 2.0,
+    "alcance": 9,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/princess.png"
+  }
+},
+{
+  "name": "Bárbaros",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 600,
+    "daño": 70,
+    "velocidadAtaque": 1.3,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/barbarians.png"
+  }
+},
+{
+  "name": "Tesla",
+  "type": "Torre",
+  "elixirCost": 4,
+  "rarity": "Común",
+  "arena": 6,
+  "stats": {
+    "vida": 800,
+    "daño": 120,
+    "velocidadAtaque": 0.7,
+    "alcance": 5,
+    "velocidadDisparo": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/tesla.png"
+  }
+},
+{
+  "name": "Lanzarrocas",
+  "type": "Tropa",
+  "elixirCost": 6,
+  "rarity": "Épica",
+  "arena": 4,
+  "stats": {
+    "vida": 500,
+    "daño": 130,
+    "velocidadAtaque": 1.3,
+    "alcance": 5,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/rocketeer.png"
+  }
+}
+,
+{
+  "name": "Duende Lanzadardos",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Rara",
+  "arena": 1,
+  "stats": {
+    "vida": 150,
+    "daño": 70,
+    "velocidadAtaque": 1.1,
+    "alcance": 5,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/spear-goblin.png"
+  }
+},
+{
+  "name": "Bebé Dragón",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 4,
+  "stats": {
+    "vida": 800,
+    "daño": 120,
+    "velocidadAtaque": 1.5,
+    "alcance": 3,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/baby-dragon.png"
+  }
+},
+{
+  "name": "Mini P.E.K.K.A",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 3,
+  "stats": {
+    "vida": 600,
+    "daño": 350,
+    "velocidadAtaque": 1.8,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/mini-pekka.png"
+  }
+},
+{
+  "name": "Ejército de Esqueletos",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 90,
+    "daño": 45,
+    "velocidadAtaque": 1.0,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/skeleton-army.png"
+  }
+},
+{
+  "name": "Barril de Duendes",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 7,
+  "stats": {
+    "vida": 200,
+    "daño": 120,
+    "velocidadAtaque": 0,
+    "alcance": 0,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/goblin-barrel.png"
+  }
+}
+,
+{
+  "name": "Príncipe Oscuro",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 7,
+  "stats": {
+    "vida": 1450,
+    "daño": 280,
+    "velocidadAtaque": 1.4,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/dark-prince.png"
+  }
+},
+{
+  "name": "Barril de Esqueletos",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Rara",
+  "arena": 9,
+  "stats": {
+    "daño": 250,
+    "alcance": 4,
+    "velocidadAtaque": 0,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/skeleton-barrel.png"
+  }
+},
+{
+  "name": "Fantasma Real",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 10,
+  "stats": {
+    "vida": 650,
+    "daño": 100,
+    "velocidadAtaque": 1.2,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/royal-ghost.png"
+  }
+},
+{
+  "name": "Tornado",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Rara",
+  "arena": 11,
+  "stats": {
+    "daño": 60,
+    "alcance": 5,
+    "velocidadAtaque": 0,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/tornado.png"
+  }
+},
+{
+  "name": "Arquero Mágico",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 12,
+  "stats": {
+    "vida": 750,
+    "daño": 115,
+    "velocidadAtaque": 1.5,
+    "alcance": 6.5,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/magic-archer.png"
+  }
+}
+,
+{
+  "name": "Gigante Real",
+  "type": "Tropa",
+  "elixirCost": 6,
+  "rarity": "Épica",
+  "arena": 12,
+  "stats": {
+    "vida": 3600,
+    "daño": 225,
+    "velocidadAtaque": 1.5,
+    "alcance": 6,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/royal-giant.png"
+  }
+},
+{
+  "name": "Sanadora de Batalla",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 9,
+  "stats": {
+    "vida": 850,
+    "daño": 60,
+    "velocidadAtaque": 1.3,
+    "alcance": 3,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/battle-healer.png"
+  }
+},
+{
+  "name": "Espejo",
+  "type": "Hechizo",
+  "elixirCost": 1,
+  "rarity": "Rara",
+  "arena": 0,
+  "stats": {
+    "vida": 0,
+    "daño": 0,
+    "velocidadAtaque": 0,
+    "alcance": 0,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/mirror.png"
+  }
+},
+{
+  "name": "Golem de Elixir",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Rara",
+  "arena": 9,
+  "stats": {
+    "vida": 1550,
+    "daño": 75,
+    "velocidadAtaque": 1.3,
+    "alcance": 1,
+    "velocidadMovimiento": "Lenta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/elixir-golem.png"
+  }
+},
+{
+  "name": "Médico de Hechizos",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 5,
+  "stats": {
+    "vida": 0,
+    "daño": 0,
+    "velocidadAtaque": 0,
+    "alcance": 4,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/heal-spirit.png"
+  }
+}
+,
+{
+  "name": "Espíritu de Fuego",
+  "type": "Tropa",
+  "elixirCost": 1,
+  "rarity": "Común",
+  "arena": 2,
+  "stats": {
+    "vida": 85,
+    "daño": 90,
+    "velocidadAtaque": 1.0,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/fire-spirit.png"
+  }
+},
+{
+  "name": "Barril de Duendes",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 3,
+  "stats": {
+    "vida": 0,
+    "daño": 120,
+    "velocidadAtaque": 0,
+    "alcance": 0,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/goblin-barrel.png"
+  }
+},
+{
+  "name": "Mago Eléctrico",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 5,
+  "stats": {
+    "vida": 610,
+    "daño": 116,
+    "velocidadAtaque": 1.2,
+    "alcance": 5,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/electro-wizard.png"
+  }
+},
+{
+  "name": "Cementerio",
+  "type": "Hechizo",
+  "elixirCost": 5,
+  "rarity": "Legendaria",
+  "arena": 9,
+  "stats": {
+    "vida": 0,
+    "daño": 100,
+    "velocidadAtaque": 0,
+    "alcance": 3,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/royal-ghost.png"
+  }
+},
+{
+  "name": "Bola de Nieve Gigante",
+  "type": "Hechizo",
+  "elixirCost": 2,
+  "rarity": "Común",
+  "arena": 8,
+  "stats": {
+    "vida": 0,
+    "daño": 169,
+    "velocidadAtaque": 0,
+    "alcance": 4,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/giant-snowball.png"
+  }
+}
+,
+{
+  "name": "Tornado",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Rara",
+  "arena": 11,
+  "stats": {
+    "vida": 0,
+    "daño": 60,
+    "velocidadAtaque": 0,
+    "alcance": 5,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/tornado.png"
+  }
+},
+{
+  "name": "Bruja Nocturna",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 10,
+  "stats": {
+    "vida": 700,
+    "daño": 75,
+    "velocidadAtaque": 1.3,
+    "alcance": 5,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/night-witch.png"
+  }
+},
+{
+  "name": "Choza de Duendes",
+  "type": "Edificio",
+  "elixirCost": 5,
+  "rarity": "Épica",
+  "arena": 3,
+  "stats": {
+    "vida": 1300,
+    "daño": 0,
+    "velocidadAtaque": 0,
+    "alcance": 0,
+    "velocidadMovimiento": "N/A"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/goblin-hut.png"
+  }
+},
+{
+  "name": "P.E.K.K.A",
+  "type": "Tropa",
+  "elixirCost": 7,
+  "rarity": "Épica",
+  "arena": 4,
+  "stats": {
+    "vida": 4127,
+    "daño": 896,
+    "velocidadAtaque": 1.8,
+    "alcance": 1,
+    "velocidadMovimiento": "Lenta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/pekka.png"
+  }
+},
+{
+  "name": "Flechas",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 0,
+    "daño": 200,
+    "velocidadAtaque": 0,
+    "alcance": 5,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/arrows.png"
+  }
+}
+,
+{
+  "name": "Globo Bombástico",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Épica",
+  "arena": 3,
+  "stats": {
+    "vida": 870,
+    "daño": 820,
+    "velocidadAtaque": 1.8,
+    "alcance": 3,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/balloon.png"
+  }
+},
+{
+  "name": "Mini Dragón",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 4,
+  "stats": {
+    "vida": 600,
+    "daño": 140,
+    "velocidadAtaque": 1.2,
+    "alcance": 3,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/mega-minion.png"
+  }
+},
+{
+  "name": "Torre Infernal",
+  "type": "Torre",
+  "elixirCost": 5,
+  "rarity": "Rara",
+  "arena": 4,
+  "stats": {
+    "vida": 1400,
+    "daño": 100,
+    "velocidadAtaque": 0.4,
+    "alcance": 6,
+    "velocidadDisparo": "Lenta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/inferno-tower.png"
+  }
+},
+{
+  "name": "Sabueso de Lava",
+  "type": "Tropa",
+  "elixirCost": 7,
+  "rarity": "Legendaria",
+  "arena": 10,
+  "stats": {
+    "vida": 3300,
+    "daño": 50,
+    "velocidadAtaque": 1.5,
+    "alcance": 3,
+    "velocidadMovimiento": "Lenta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/lava-hound.png"
+  }
+},
+{
+  "name": "Congelación",
+  "type": "Hechizo",
+  "elixirCost": 4,
+  "rarity": "Rara",
+  "arena": 9,
+  "stats": {
+    "vida": 0,
+    "daño": 0,
+    "velocidadAtaque": 0,
+    "alcance": 4,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/freeze.png"
+  }
+}
+,
+{
+  "name": "Choza de Bárbaros",
+  "type": "Edificio",
+  "elixirCost": 7,
+  "rarity": "Épica",
+  "arena": 3,
+  "stats": {
+    "vida": 1300,
+    "daño": 0,
+    "velocidadAtaque": 0,
+    "alcance": 0,
+    "velocidadMovimiento": "N/A"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/barbarian-hut.png"
+  }
+},
+{
+  "name": "Mortero",
+  "type": "Edificio",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 2,
+  "stats": {
+    "vida": 700,
+    "daño": 327,
+    "velocidadAtaque": 4.0,
+    "alcance": 9,
+    "velocidadMovimiento": "N/A"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/mortar.png"
+  }
+},
+{
+  "name": "Mini P.E.K.K.A",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 3,
+  "stats": {
+    "vida": 900,
+    "daño": 400,
+    "velocidadAtaque": 1.8,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/mini-pekka.png"
+  }
+},
+{
+  "name": "Murciélagos",
+  "type": "Tropa",
+  "elixirCost": 2,
+  "rarity": "Común",
+  "arena": 5,
+  "stats": {
+    "vida": 100,
+    "daño": 45,
+    "velocidadAtaque": 1.0,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/bats.png"
+  }
+},
+{
+  "name": "Rayo",
+  "type": "Hechizo",
+  "elixirCost": 6,
+  "rarity": "Épica",
+  "arena": 10,
+  "stats": {
+    "vida": 0,
+    "daño": 500,
+    "velocidadAtaque": 0,
+    "alcance": 6,
+    "velocidadMovimiento": "Instantáneo"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/lightning.png"
+  }
+}
+,
+{
+  "name": "Goblin Gang",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 7,
+  "stats": {
+    "vida": 500,
+    "daño": 60,
+    "velocidadAtaque": 1.1,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/goblin-gang.png"
+  }
+},
+{
+  "name": "Espíritu de Hielo",
+  "type": "Tropa",
+  "elixirCost": 1,
+  "rarity": "Común",
+  "arena": 2,
+  "stats": {
+    "vida": 100,
+    "daño": 50,
+    "velocidadAtaque": 1.0,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/ice-spirit.png"
+  }
+},
+{
+  "name": "Golem de Hielo",
+  "type": "Tropa",
+  "elixirCost": 2,
+  "rarity": "Épica",
+  "arena": 8,
+  "stats": {
+    "vida": 1000,
+    "daño": 50,
+    "velocidadAtaque": 1.3,
+    "alcance": 1,
+    "velocidadMovimiento": "Lenta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/ice-golem.png"
+  }
+},
+{
+  "name": "Cerdos Reales",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Épica",
+  "arena": 8,
+  "stats": {
+    "vida": 1400,
+    "daño": 140,
+    "velocidadAtaque": 1.2,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/royal-hogs.png"
+  }
+},
+{
+  "name": "Tres Mosqueteras",
+  "type": "Tropa",
+  "elixirCost": 9,
+  "rarity": "Épica",
+  "arena": 3,
+  "stats": {
+    "vida": 480,
+    "daño": 200,
+    "velocidadAtaque": 1.7,
+    "alcance": 6,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/three-musketeers.png"
+  }
+}
+,
+{
+  "name": "Esqueleto Gigante",
+  "type": "Tropa",
+  "elixirCost": 6,
+  "rarity": "Épica",
+  "arena": 6,
+  "stats": {
+    "vida": 2800,
+    "daño": 260,
+    "velocidadAtaque": 1.5,
+    "alcance": 1,
+    "velocidadMovimiento": "Lenta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/giant-skeleton.png"
+  }
+},
+{
+  "name": "Horda de Murciélagos",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Épica",
+  "arena": 5,
+  "stats": {
+    "vida": 100,
+    "daño": 45,
+    "velocidadAtaque": 1.0,
+    "alcance": 1,
+    "velocidadMovimiento": "Muy rápida"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/bat-gang.png"
+  }
+},
+{
+  "name": "Veneno",
+  "type": "Hechizo",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 5,
+  "stats": {
+    "daño": 200,
+    "alcance": 3,
+    "duración": 8,
+    "velocidadAtaque": 0
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/poison.png"
+  }
+},
+{
+  "name": "Bruto Lanzarrocas",
+  "type": "Tropa",
+  "elixirCost": 6,
+  "rarity": "Épica",
+  "arena": 9,
+  "stats": {
+    "vida": 1500,
+    "daño": 400,
+    "velocidadAtaque": 1.3,
+    "alcance": 5,
+    "velocidadMovimiento": "Lenta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/rock-goblin.png"
+  }
+},
+{
+  "name": "Cañón con Ruedas",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Rara",
+  "arena": 7,
+  "stats": {
+    "vida": 1200,
+    "daño": 250,
+    "velocidadAtaque": 1.3,
+    "alcance": 6,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/cannon-cart.png"
+  }
+}
+,
+{
+  "name": "Dragón Infernal",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 9,
+  "stats": {
+    "vida": 1070,
+    "daño": "20-1000",
+    "velocidadAtaque": 0.4,
+    "alcance": 4,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/inferno-dragon.png"
+  }
+},
+{
+  "name": "Arquero Mágico",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 11,
+  "stats": {
+    "vida": 550,
+    "daño": 140,
+    "velocidadAtaque": 1.1,
+    "alcance": 7,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/magic-archer.png"
+  }
+},
+{
+  "name": "Valquiria",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Rara",
+  "arena": 2,
+  "stats": {
+    "vida": 1400,
+    "daño": 125,
+    "velocidadAtaque": 1.5,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/valkyrie.png"
+  }
+},
+{
+  "name": "Tornado",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 6,
+  "stats": {
+    "daño": 160,
+    "alcance": 5.5,
+    "duración": 2.5,
+    "velocidadAtaque": 0
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/tornado.png"
+  }
+},
+{
+  "name": "Megacaballero",
+  "type": "Tropa",
+  "elixirCost": 7,
+  "rarity": "Legendaria",
+  "arena": 7,
+  "stats": {
+    "vida": 3300,
+    "daño": 310,
+    "velocidadAtaque": 1.7,
+    "alcance": 1.2,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/mega-knight.png"
+  }
+}
+,
+{
+  "name": "Cementerio",
+  "type": "Hechizo",
+  "elixirCost": 5,
+  "rarity": "Legendaria",
+  "arena": 12,
+  "stats": {
+    "duración": 9,
+    "frecuenciaGeneración": 0.5,
+    "unidades": "Esqueletos",
+    "radio": 4
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/graveyard.png"
+  }
+},
+{
+  "name": "Príncipe Oscuro",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 7,
+  "stats": {
+    "vida": 1200,
+    "daño": 190,
+    "velocidadAtaque": 1.4,
+    "alcance": 1.2,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/dark-prince.png"
+  }
+},
+{
+  "name": "Descarga",
+  "type": "Hechizo",
+  "elixirCost": 2,
+  "rarity": "Común",
+  "arena": 1,
+  "stats": {
+    "daño": 159,
+    "radio": 2,
+    "aturdimiento": 0.5
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/zap.png"
+  }
+},
+{
+  "name": "Esqueleto Gigante",
+  "type": "Tropa",
+  "elixirCost": 6,
+  "rarity": "Épica",
+  "arena": 6,
+  "stats": {
+    "vida": 2800,
+    "daño": 220,
+    "velocidadAtaque": 1.7,
+    "alcance": 1.2,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/giant-skeleton.png"
+  }
+},
+{
+  "name": "Dragones Esqueleto",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 5,
+  "stats": {
+    "vida": 270,
+    "daño": 142,
+    "velocidadAtaque": 1.5,
+    "alcance": 3.5,
+    "velocidadMovimiento": "Alta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/skeleton-dragons.png"
+  }
+}
+,
+{
+  "name": "Pandilla de Duendes",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 5,
+  "stats": {
+    "cantidad": 6,
+    "vida": "Baja",
+    "daño": "Medio",
+    "velocidadAtaque": 1.1,
+    "alcance": 0.4,
+    "velocidadMovimiento": "Muy alta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/goblin-gang.png"
+  }
+},
+{
+  "name": "Esbirros",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 2,
+  "stats": {
+    "vida": 180,
+    "daño": 81,
+    "velocidadAtaque": 1.0,
+    "alcance": 2,
+    "velocidadMovimiento": "Alta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/minions.png"
+  }
+},
+{
+  "name": "Curación",
+  "type": "Hechizo",
+  "elixirCost": 1,
+  "rarity": "Rara",
+  "arena": 6,
+  "stats": {
+    "curaciónPorSegundo": 200,
+    "duración": 2.5,
+    "radio": 3
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/heal-spirit.png"
+  }
+},
+{
+  "name": "Reclutas Reales",
+  "type": "Tropa",
+  "elixirCost": 7,
+  "rarity": "Común",
+  "arena": 7,
+  "stats": {
+    "cantidad": 6,
+    "vida": 420,
+    "daño": 58,
+    "velocidadAtaque": 1.3,
+    "alcance": 1.2,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/royal-recruits.png"
+  }
+},
+{
+  "name": "Mini P.E.K.K.A",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Especial",
+  "arena": 1,
+  "stats": {
+    "vida": 1050,
+    "daño": 325,
+    "velocidadAtaque": 1.8,
+    "alcance": 0.4,
+    "velocidadMovimiento": "Alta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/mini-pekka.png"
+  }
+}
+,
+{
+  "name": "Bebé Dragón",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 2,
+  "stats": {
+    "vida": 1200,
+    "daño": 103,
+    "velocidadAtaque": 1.6,
+    "alcance": 3.5,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/baby-dragon.png"
+  }
+},
+{
+  "name": "Duendes con Lanza",
+  "type": "Tropa",
+  "elixirCost": 2,
+  "rarity": "Común",
+  "arena": 1,
+  "stats": {
+    "cantidad": 3,
+    "vida": 91,
+    "daño": 52,
+    "velocidadAtaque": 1.1,
+    "alcance": 5,
+    "velocidadMovimiento": "Muy alta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/spear-goblins.png"
+  }
+},
+{
+  "name": "Torre Infernal",
+  "type": "Estructura",
+  "elixirCost": 5,
+  "rarity": "Rara",
+  "arena": 4,
+  "stats": {
+    "vida": 1500,
+    "dañoInicial": 40,
+    "dañoMáximo": 800,
+    "alcance": 6,
+    "duración": 40
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/inferno-tower.png"
+  }
+},
+{
+  "name": "Leñador",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 8,
+  "stats": {
+    "vida": 940,
+    "daño": 200,
+    "velocidadAtaque": 0.7,
+    "alcance": 0.4,
+    "velocidadMovimiento": "Alta"
+  },
+  "habilidadEspecial": "Al morir suelta una botella de Furia que aumenta la velocidad de ataque y movimiento.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/lumberjack.png"
+  }
+},
+{
+  "name": "Tornado",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 6,
+  "stats": {
+    "dañoPorSegundo": 64,
+    "duración": 2.5,
+    "radio": 5.5
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/tornado.png"
+  }
+}
+,
+{
+  "name": "Verdugo",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Épica",
+  "arena": 12,
+  "stats": {
+    "vida": 1010,
+    "daño": 133,
+    "velocidadAtaque": 2.4,
+    "alcance": 4.5,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/executioner.png"
+  }
+},
+{
+  "name": "Barril de Bárbaros",
+  "type": "Hechizo",
+  "elixirCost": 2,
+  "rarity": "Épica",
+  "arena": 3,
+  "stats": {
+    "daño": 100,
+    "alcance": 5,
+    "efecto": "Despliega un Bárbaro al final del recorrido"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/barbarian-barrel.png"
+  }
+},
+{
+  "name": "Arquero Mágico",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 5,
+  "stats": {
+    "vida": 750,
+    "daño": 140,
+    "velocidadAtaque": 1.0,
+    "alcance": 7,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Dispara flechas que atraviesan enemigos en línea recta.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/magic-archer.png"
+  }
+},
+{
+  "name": "Fénix",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 17,
+  "stats": {
+    "vida": 1200,
+    "daño": 180,
+    "velocidadAtaque": 1.5,
+    "alcance": 1.2,
+    "velocidadMovimiento": "Alta"
+  },
+  "habilidadEspecial": "Revive si no es destruido completamente después de morir.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/phoenix.png"
+  }
+},
+{
+  "name": "Cohete",
+  "type": "Hechizo",
+  "elixirCost": 6,
+  "rarity": "Rara",
+  "arena": 6,
+  "stats": {
+    "daño": 1400,
+    "radio": 2,
+    "tiempoDeImpacto": 1.2
+  },
+  "iconUrls": {
+    "medium": ""
+  }
+},
+{
+  "name": "Príncipe Oscuro",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 7,
+  "stats": {
+    "vida": 1100,
+    "daño": 190,
+    "velocidadAtaque": 1.4,
+    "alcance": 1.2,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Carga causando doble daño al impacto e inflige daño en área.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/dark-prince.png"
+  }
+},
+{
+  "name": "Choza de Bárbaros",
+  "type": "Estructura",
+  "elixirCost": 6,
+  "rarity": "Rara",
+  "arena": 3,
+  "stats": {
+    "vida": 1400,
+    "duración": 30,
+    "frecuenciaGeneración": 14,
+    "cantidadGenerada": 2
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/barbarian-hut.png"
+  }
+},
+{
+  "name": "Dragón Eléctrico",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Épica",
+  "arena": 11,
+  "stats": {
+    "vida": 960,
+    "daño": 110,
+    "velocidadAtaque": 2.1,
+    "alcance": 3.5,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Ataca en cadena hasta 3 enemigos con rayos eléctricos.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/electro-dragon.png"
+  }
+},
+{
+  "name": "Pillos",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Común",
+  "arena": 9,
+  "stats": {
+    "vidaChico": 1200,
+    "vidaChicas": 250,
+    "dañoChico": 200,
+    "dañoChicas": 50,
+    "velocidadAtaqueChicas": 1.2,
+    "alcanceChicas": 5,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/rascals.png"
+  }
+},
+{
+  "name": "Espíritu Sanador",
+  "type": "Tropa",
+  "elixirCost": 1,
+  "rarity": "Común",
+  "arena": 10,
+  "stats": {
+    "vida": 90,
+    "curación": 300,
+    "radioCuración": 2.5,
+    "velocidadMovimiento": "Muy alta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/heal-spirit.png"
+  }
+}
+,
+{
+  "name": "Cazador",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 10,
+  "stats": {
+    "vida": 880,
+    "dañoPorBala": 62,
+    "balas": 10,
+    "velocidadAtaque": 2.2,
+    "alcance": 4,
+    "velocidadMovimiento": "Alta"
+  },
+  "habilidadEspecial": "Dispara una andanada de perdigones a corta distancia causando gran daño.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/hunter.png"
+  }
+},
+{
+  "name": "Pandilla de Duendes",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 5,
+  "stats": {
+    "cantidad": 6,
+    "vidaDuendes": 91,
+    "dañoDuendes": 45,
+    "velocidadMovimiento": "Muy alta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/goblin-gang.png"
+  }
+},
+{
+  "name": "Mini P.E.K.K.A",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Especial",
+  "arena": 0,
+  "stats": {
+    "vida": 1100,
+    "daño": 340,
+    "velocidadAtaque": 1.8,
+    "alcance": 1.2,
+    "velocidadMovimiento": "Alta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/mini-pekka.png"
+  }
+},
+{
+  "name": "Murciélagos",
+  "type": "Tropa",
+  "elixirCost": 2,
+  "rarity": "Común",
+  "arena": 5,
+  "stats": {
+    "cantidad": 5,
+    "vida": 32,
+    "daño": 32,
+    "velocidadAtaque": 1.1,
+    "alcance": 2,
+    "velocidadMovimiento": "Muy alta"
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/bats.png"
+  }
+},
+{
+  "name": "Cementerio",
+  "type": "Hechizo",
+  "elixirCost": 5,
+  "rarity": "Legendaria",
+  "arena": 12,
+  "stats": {
+    "duración": 10,
+    "frecuenciaInvocación": 0.5,
+    "radio": 4.5,
+    "cantidadTotal": 20
+  },
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/graveyard.png"
+  }
+},
+{
+  "name": "Leñador",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 8,
+  "stats": {
+    "vida": 1060,
+    "daño": 200,
+    "velocidadAtaque": 0.7,
+    "alcance": 1,
+    "velocidadMovimiento": "Muy Alta"
+  },
+  "iconUrls": {
+    "medium": "https://royaleapi.com/static/img/cards/leñador.png"
+  }
+},
+{
+  "name": "Bruja Nocturna",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 8,
+  "stats": {
+    "vida": 840,
+    "daño": 190,
+    "velocidadAtaque": 1.3,
+    "alcance": 1.2,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://royaleapi.com/static/img/cards/bruja-nocturna.png"
+  }
+},
+{
+  "name": "Tornado",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 6,
+  "stats": {
+    "dañoPorSegundo": 100,
+    "radio": 5.5,
+    "duración": 2
+  },
+  "iconUrls": {
+    "medium": "https://royaleapi.com/static/img/cards/tornado.png"
+  }
+},
+{
+  "name": "Arquero Mágico",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 11,
+  "stats": {
+    "vida": 640,
+    "daño": 140,
+    "velocidadAtaque": 1.1,
+    "alcance": 7,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://royaleapi.com/static/img/cards/arquero-magico.png"
+  }
+},
+{
+  "name": "Duende Gigante",
+  "type": "Tropa",
+  "elixirCost": 6,
+  "rarity": "Épica",
+  "arena": 10,
+  "stats": {
+    "vida": 3300,
+    "daño": 220,
+    "velocidadAtaque": 1.5,
+    "alcance": 1.2,
+    "velocidadMovimiento": "Media"
+  },
+  "iconUrls": {
+    "medium": "https://royaleapi.com/static/img/cards/duende-gigante.png"
+  }
+},
+{
+  "name": "Leñador",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 9,
+  "stats": {
+    "vida": 750,
+    "daño": 160,
+    "velocidadAtaque": 1.2,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "habilidadEspecial": "Al morir, deja caer una rabia que aumenta la velocidad de ataque y movimiento de tropas amigas.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/lumberjack.png"
+  }
+},
+{
+  "name": "Dragón Infernal",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Épica",
+  "arena": 7,
+  "stats": {
+    "vida": 1400,
+    "daño": 50,
+    "velocidadAtaque": 0.4,
+    "alcance": 3,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Daño creciente con el tiempo al mantener el ataque.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/inferno-dragon.png"
+  }
+},
+{
+  "name": "Bruja Nocturna",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 10,
+  "stats": {
+    "vida": 600,
+    "daño": 55,
+    "velocidadAtaque": 1.5,
+    "alcance": 5,
+    "velocidadMovimiento": "Rápida"
+  },
+  "habilidadEspecial": "Genera murciélagos que atacan a las tropas y estructuras enemigas.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/night-witch.png"
+  }
+},
+{
+  "name": "Megaesbirro",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 190,
+    "daño": 180,
+    "velocidadAtaque": 1.3,
+    "alcance": 3,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Vuela y ataca a tropas terrestres y aéreas.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/mega-minion.png"
+  }
+},
+{
+  "name": "Cañón con Ruedas",
+  "type": "Torre",
+  "elixirCost": 5,
+  "rarity": "Épica",
+  "arena": 7,
+  "stats": {
+    "vida": 1400,
+    "daño": 160,
+    "velocidadAtaque": 1.0,
+    "alcance": 5,
+    "velocidadDisparo": "Media"
+  },
+  "habilidadEspecial": "Se desplaza y dispara a tropas terrestres.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/cannon-cart.png"
+  }
+},
+{
+  "name": "Esqueleto Gigante",
+  "type": "Tropa",
+  "elixirCost": 6,
+  "rarity": "Épica",
+  "arena": 6,
+  "stats": {
+    "vida": 4000,
+    "daño": 150,
+    "velocidadAtaque": 1.5,
+    "alcance": 1,
+    "velocidadMovimiento": "Lenta"
+  },
+  "habilidadEspecial": "Al morir, explota causando gran daño en área.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/giant-skeleton.png"
+  }
+},
+{
+  "name": "Duendes con Lanza",
+  "type": "Tropa",
+  "elixirCost": 2,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 45,
+    "daño": 50,
+    "velocidadAtaque": 1.1,
+    "alcance": 5,
+    "velocidadMovimiento": "Rápida"
+  },
+  "habilidadEspecial": "Ataque a distancia rápido y en grupo.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/spear-goblin.png"
+  }
+},
+{
+  "name": "Caballero",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 1100,
+    "daño": 140,
+    "velocidadAtaque": 1.1,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Tropa equilibrada con buena defensa y ataque.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/knight.png"
+  }
+},
+{
+  "name": "Tornado",
+  "type": "Hechizo",
+  "elixirCost": 3,
+  "rarity": "Raro",
+  "arena": 6,
+  "stats": {
+    "alcance": 5,
+    "duración": 2.5
+  },
+  "habilidadEspecial": "Reúne tropas enemigas en un solo punto causando daño continuo.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/tornado.png"
+  }
+},
+{
+  "name": "Bandida",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Épica",
+  "arena": 5,
+  "stats": {
+    "vida": 600,
+    "daño": 150,
+    "velocidadAtaque": 1.1,
+    "alcance": 1,
+    "velocidadMovimiento": "Muy rápida"
+  },
+  "habilidadEspecial": "Carga hacia la meta con un ataque de embestida que ignora defensas.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/bandit.png"
+  }
+},
+{
+  "name": "Mortero",
+  "type": "Estructura",
+  "elixirCost": 4,
+  "rarity": "Raro",
+  "arena": 3,
+  "stats": {
+    "vida": 1300,
+    "daño": 150,
+    "velocidadAtaque": 4.0,
+    "alcance": 7,
+    "velocidadDisparo": "Lenta"
+  },
+  "habilidadEspecial": "Ataque a larga distancia con daño en área.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/mortar.png"
+  }
+},
+{
+  "name": "Horno",
+  "type": "Estructura",
+  "elixirCost": 4,
+  "rarity": "Épica",
+  "arena": 7,
+  "stats": {
+    "vida": 1300,
+    "daño": 50,
+    "velocidadAtaque": 1.0,
+    "alcance": 5,
+    "velocidadDisparo": "Media"
+  },
+  "habilidadEspecial": "Genera duendes periódicamente para atacar al enemigo.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/furnace.png"
+  }
+},
+{
+  "name": "Ejército de Esqueletos",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 240,
+    "daño": 50,
+    "velocidadAtaque": 1.2,
+    "alcance": 1,
+    "velocidadMovimiento": "Rápida"
+  },
+  "habilidadEspecial": "Grupo numeroso de esqueletos de bajo costo para distraer y atacar.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/skeleton-army.png"
+  }
+},
+{
+  "name": "Rayo",
+  "type": "Hechizo",
+  "elixirCost": 6,
+  "rarity": "Épica",
+  "arena": 9,
+  "stats": {
+    "alcance": 6,
+    "daño": 240
+  },
+  "habilidadEspecial": "Ataca las tres unidades o estructuras con más vida en el área objetivo.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/rocket.png"
+  }
+},
+{
+  "name": "Dragón Eléctrico",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 11,
+  "stats": {
+    "vida": 800,
+    "daño": 100,
+    "velocidadAtaque": 1.0,
+    "alcance": 3,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Aturde a enemigos con ataques eléctricos en cadena.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/electro-dragon.png"
+  }
+},
+{
+  "name": "Princesa",
+  "type": "Tropa",
+  "elixirCost": 3,
+  "rarity": "Legendaria",
+  "arena": 5,
+  "stats": {
+    "vida": 200,
+    "daño": 140,
+    "velocidadAtaque": 2.0,
+    "alcance": 9,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Dispara flechas de largo alcance con daño en área.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/princess.png"
+  }
+},
+{
+  "name": "Bárbaros",
+  "type": "Tropa",
+  "elixirCost": 5,
+  "rarity": "Común",
+  "arena": 0,
+  "stats": {
+    "vida": 600,
+    "daño": 140,
+    "velocidadAtaque": 1.1,
+    "alcance": 1,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Grupo de cuatro bárbaros con buen ataque y defensa.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/barbarians.png"
+  }
+},
+{
+  "name": "Monta Puerco",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Rara",
+  "arena": 6,
+  "stats": {
+    "vida": 800,
+    "daño": 160,
+    "velocidadAtaque": 1.1,
+    "alcance": 1,
+    "velocidadMovimiento": "Muy rápida"
+  },
+  "habilidadEspecial": "Carga directamente a las torres enemigas con velocidad alta.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/hog-rider.png"
+  }
+},
+{
+  "name": "Mago Eléctrico",
+  "type": "Tropa",
+  "elixirCost": 4,
+  "rarity": "Legendaria",
+  "arena": 8,
+  "stats": {
+    "vida": 600,
+    "daño": 140,
+    "velocidadAtaque": 1.2,
+    "alcance": 5,
+    "velocidadMovimiento": "Media"
+  },
+  "habilidadEspecial": "Aturde y ralentiza tropas con ataques eléctricos.",
+  "iconUrls": {
+    "medium": "https://statsroyale.com/images/cards/electric-mage.png"
+  }
+  }
+]

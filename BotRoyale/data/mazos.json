@@ -1,0 +1,501 @@
+ {
+  "mazos": [
+    {
+      "nombre": "Mazo Mortero Defensivo",
+      "tipo": "Defensivo",
+      "descripcion": "Mazo centrado en controlar con Mortero y torres.",
+      "cartas": [
+        "Mortero",
+        "Torre Infernal",
+        "Cañon",
+        "Mosquetera",
+        "Bárbaros",
+        "Descarga",
+        "Bola de Fuego",
+        "Caballero"
+      ]
+    },
+    {
+      "nombre": "Log Bait Ofensivo",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo basado en hacer gastar el tronco al enemigo con múltiples cartas pequeñas.",
+      "cartas": [
+        "Barril de Duendes",
+        "Duendes Lanzadardos",
+        "Princesa",
+        "Mago Eléctrico",
+        "Caballero",
+        "Descarga",
+        "Torre Infernal",
+        "Gólem"
+      ]
+    },
+    {
+      "nombre": "Bridge Spam",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo rápido para presionar con múltiples tropas desde el puente.",
+      "cartas": [
+        "Bandida",
+        "Bruja Nocturna",
+        "Pandilla de Duendes",
+        "Montapuercos",
+        "Mosquetera",
+        "Descarga",
+        "Bola de Fuego",
+        "Esbirros"
+      ]
+ },
+ {
+      "nombre": "Mazo Gigante Beatdown",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo centrado en el Gigante para tanquear daño y cartas de apoyo detrás.",
+      "cartas": [
+        "Gigante",
+        "Mago Eléctrico",
+        "Bárbaros",
+        "Descarga",
+        "Megaesbirros",
+        "Princesa",
+        "Bola de Fuego",
+        "Duendes Lanzadardos"
+      ]
+    },
+    {
+      "nombre": "Mazo Ciclo Rápido de Montapuercos",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo de ciclo rápido para presionar con Montapuercos y hechizos.",
+      "cartas": [
+        "Montapuercos",
+        "Descarga",
+        "Espíritu de Hielo",
+        "Duendes Lanzadardos",
+        "Mosquetera",
+        "Bola de Fuego",
+        "Caballero",
+        "Esbirros"
+      ]
+    },
+    {
+      "nombre": "Mazo Control con P.E.K.K.A",
+      "tipo": "Defensivo",
+      "descripcion": "Mazo defensivo con P.E.K.K.A para detener ataques pesados y contraatacar.",
+      "cartas": [
+        "P.E.K.K.A",
+        "Mosquetera",
+        "Bola de Fuego",
+        "Descarga",
+        "Duendes Lanzadardos",
+        "Mini P.E.K.K.A",
+        "Torre Infernal",
+        "Caballero"
+      ]
+    },
+    {
+      "nombre": "Mazo Bridge Spam Royale",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo agresivo que usa muchas tropas de puente para atacar rápido.",
+      "cartas": [
+        "Bandida",
+        "Bruja Nocturna",
+        "Montapuercos",
+        "Descarga",
+        "Pandilla de Duendes",
+        "Mosquetera",
+        "Megaesbirros",
+        "Bola de Fuego"
+      ]
+    },
+    {
+      "nombre": "Mazo Miner Control",
+      "tipo": "Control",
+      "descripcion": "Mazo basado en el Minero para dañar torres y controlar el ritmo del juego.",
+      "cartas": [
+        "Minero",
+        "Descarga",
+        "Bola de Fuego",
+        "Duendes Lanzadardos",
+        "Esbirros",
+        "Caballero",
+        "Torre Infernal",
+        "Megaesbirros"
+      ]
+    },
+    {
+      "nombre": "Mazo Royal Giant",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo enfocado en el Rey Gigante para atacar a distancia y cartas de apoyo.",
+      "cartas": [
+        "Rey Gigante",
+        "Mago Eléctrico",
+        "Bola de Fuego",
+        "Descarga",
+        "Megaesbirros",
+        "Duendes Lanzadardos",
+        "Torre Infernal",
+        "Caballero"
+      ]
+    },
+    {
+      "nombre": "Mazo Splash Control",
+      "tipo": "Defensivo",
+      "descripcion": "Mazo con cartas que hacen daño en área para controlar grupos de tropas.",
+      "cartas": [
+        "Mago",
+        "Bárbaros",
+        "Bola de Fuego",
+        "Torre Infernal",
+        "Mini P.E.K.K.A",
+        "Descarga",
+        "Caballero",
+        "Duendes Lanzadardos"
+      ]
+    },
+    {
+      "nombre": "Mazo Golem Beatdown",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo centrado en Golem para tanqueo y cartas que generan mucho daño detrás.",
+      "cartas": [
+        "Golem",
+        "Bruja Nocturna",
+        "Bola de Fuego",
+        "Descarga",
+        "Megaesbirros",
+        "Caballero",
+        "Duendes Lanzadardos",
+        "Minero"
+      ]
+    },
+    {
+      "nombre": "Mazo Lava Hound",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo con Globo y Lava Hound para ataques aéreos fuertes y duraderos.",
+      "cartas": [
+        "Lava Hound",
+        "Globo Bombástico",
+        "Bola de Fuego",
+        "Megaesbirros",
+        "Descarga",
+        "Minero",
+        "Esbirros",
+        "Torre Infernal"
+      ]
+    },
+    {
+      "nombre": "Mazo X-Bow Control",
+      "tipo": "Defensivo",
+      "descripcion": "Mazo con Ballesta para atacar a distancia y cartas de control defensivo.",
+      "cartas": [
+        "Ballesta",
+        "Torre Infernal",
+        "Descarga",
+        "Caballero",
+        "Mosquetera",
+        "Duendes Lanzadardos",
+        "Megaesbirros",
+        "Bola de Fuego"
+      ]
+    }
+,
+    {
+      "nombre": "Mazo Miner Bait",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo para hacer gastar hechizos al enemigo con el Minero y múltiples cartas pequeñas.",
+      "cartas": [
+        "Minero",
+        "Barril de Duendes",
+        "Duendes Lanzadardos",
+        "Princesa",
+        "Mago Eléctrico",
+        "Descarga",
+        "Caballero",
+        "Bola de Fuego"
+      ]
+    },
+    {
+      "nombre": "Mazo Sparky Control",
+      "tipo": "Defensivo",
+      "descripcion": "Mazo con Sparky para eliminar grandes grupos de tropas y contraataques fuertes.",
+      "cartas": [
+        "Sparky",
+        "Torre Infernal",
+        "Mini P.E.K.K.A",
+        "Descarga",
+        "Caballero",
+        "Mosquetera",
+        "Bola de Fuego",
+        "Duendes Lanzadardos"
+      ]
+    },
+    {
+      "nombre": "Mazo Golem Beatdown Aéreo",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo de Golem que utiliza apoyo aéreo para abrumar al enemigo.",
+      "cartas": [
+        "Golem",
+        "Bruja Nocturna",
+        "Megaesbirros",
+        "Bola de Fuego",
+        "Descarga",
+        "Minero",
+        "Esbirros",
+        "Caballero"
+      ]
+    },
+    {
+      "nombre": "Mazo Control con Bandida",
+      "tipo": "Control",
+      "descripcion": "Mazo que usa la Bandida para hacer presión y controlar el campo.",
+      "cartas": [
+        "Bandida",
+        "Mini P.E.K.K.A",
+        "Mosquetera",
+        "Descarga",
+        "Bola de Fuego",
+        "Caballero",
+        "Duendes Lanzadardos",
+        "Megaesbirros"
+      ]
+    },
+    {
+      "nombre": "Mazo Royal Hogs",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo que usa los Cerdos Reales para ataques rápidos y dividir la defensa enemiga.",
+      "cartas": [
+        "Cerdos Reales",
+        "Descarga",
+        "Bola de Fuego",
+        "Mosquetera",
+        "Caballero",
+        "Esbirros",
+        "Duendes Lanzadardos",
+        "Mini P.E.K.K.A"
+      ]
+    },
+    {
+      "nombre": "Mazo Balloon Cycle",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo rápido que gira alrededor del Globo Bombástico y hechizos para hacer daño directo.",
+      "cartas": [
+        "Globo Bombástico",
+        "Descarga",
+        "Espíritu de Hielo",
+        "Duendes Lanzadardos",
+        "Bola de Fuego",
+        "Caballero",
+        "Mosquetera",
+        "Esbirros"
+      ]
+    },
+    {
+      "nombre": "Mazo Mortero Ciclo Rápido",
+      "tipo": "Defensivo",
+      "descripcion": "Mazo con Mortero para controlar el campo y cartas de ciclo rápido para presionar.",
+      "cartas": [
+        "Mortero",
+        "Descarga",
+        "Espíritu de Hielo",
+        "Caballero",
+        "Duendes Lanzadardos",
+        "Mosquetera",
+        "Bola de Fuego",
+        "Esbirros"
+      ]
+    },
+    {
+      "nombre": "Mazo Three Musketeers",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo con Tres Mosqueteras para presión doble y cartas de apoyo fuertes.",
+      "cartas": [
+        "Tres Mosqueteras",
+        "Bola de Fuego",
+        "Descarga",
+        "Mini P.E.K.K.A",
+        "Duendes Lanzadardos",
+        "Mosquetera",
+        "Caballero",
+        "Esbirros"
+      ]
+    },
+    {
+      "nombre": "Mazo Elite Barbarians Rush",
+      "tipo": "Ofensivo",
+      "descripcion": "Mazo agresivo con Bárbaros de élite para presionar rápido y derribar defensas.",
+      "cartas": [
+        "Bárbaros de élite",
+        "Descarga",
+        "Bola de Fuego",
+        "Caballero",
+        "Duendes Lanzadardos",
+        "Mosquetera",
+        "Espíritu de Hielo",
+        "Mini P.E.K.K.A"
+      ]
+    },
+    {
+      "nombre": "Mazo Graveyard Control",
+      "tipo": "Control",
+      "descripcion": "Mazo con Cementerio para ataques sorpresa y cartas defensivas fuertes.",
+      "cartas": [
+        "Cementerio",
+        "Torre Infernal",
+        "Descarga",
+        "Caballero",
+        "Mosquetera",
+        "Bola de Fuego",
+        "Duendes Lanzadardos",
+        "Mini P.E.K.K.A"
+      ]
+    }
+,
+    {
+      "nombre": "Mazo Caballero Dorado Dash",
+      "tipo": "Ofensivo",
+      "descripcion": "Aprovecha el poder de carga del Caballero Dorado para penetrar defensas rápidamente.",
+      "cartas": [
+        "Caballero Dorado",
+        "Bola de Fuego",
+        "Descarga",
+        "Duendes",
+        "Esbirros",
+        "Torre Tesla",
+        "Espíritu Sanador",
+        "Bruja"
+      ]
+    },
+    {
+      "nombre": "Mazo Príncipe Doble",
+      "tipo": "Ofensivo",
+      "descripcion": "El Príncipe y el Príncipe Oscuro hacen un combo poderoso de carga.",
+      "cartas": [
+        "Príncipe",
+        "Príncipe Oscuro",
+        "Megaesbirros",
+        "Bola de Fuego",
+        "Descarga",
+        "Minero",
+        "Torre Infernal",
+        "Espíritu de Hielo"
+      ]
+    },
+    {
+      "nombre": "Mazo Control con Arquera Reina",
+      "tipo": "Control",
+      "descripcion": "La Reina Arquera aporta presión constante con su habilidad de invisibilidad.",
+      "cartas": [
+        "Reina Arquera",
+        "Bola de Fuego",
+        "Tornado",
+        "Mini P.E.K.K.A",
+        "Mosquetera",
+        "Duendes",
+        "Torre Tesla",
+        "Caballero"
+      ]
+    },
+    {
+      "nombre": "Mazo Cementerio Congelante",
+      "tipo": "Ofensivo",
+      "descripcion": "Lanza el Cementerio y congela la torre para un daño explosivo.",
+      "cartas": [
+        "Cementerio",
+        "Hechizo de Hielo",
+        "Caballero",
+        "Tornado",
+        "Veneno",
+        "Duendes Lanzadardos",
+        "Esbirros",
+        "Torre Bombardera"
+      ]
+    },
+    {
+      "nombre": "Mazo Monje Reflejo",
+      "tipo": "Control",
+      "descripcion": "El Monje devuelve proyectiles y aguanta mucho daño mientras avanzas.",
+      "cartas": [
+        "Monje",
+        "Bola de Fuego",
+        "Torre Tesla",
+        "Duendes",
+        "Mosquetera",
+        "Mini P.E.K.K.A",
+        "Tornado",
+        "Espíritu de Hielo"
+      ]
+    },
+    {
+      "nombre": "Mazo Ariete de Batalla con Bandida",
+      "tipo": "Bridge Spam",
+      "descripcion": "Bandida y Ariete presionan rápido por los puentes para castigar errores.",
+      "cartas": [
+        "Bandida",
+        "Ariete de Batalla",
+        "Bruja Nocturna",
+        "Veneno",
+        "Mago Eléctrico",
+        "Caballero",
+        "Torre Infernal",
+        "Duendes"
+      ]
+    },
+    {
+      "nombre": "Mazo con Rey Esqueleto",
+      "tipo": "Control",
+      "descripcion": "El Rey Esqueleto recolecta almas y activa su habilidad para saturar el campo.",
+      "cartas": [
+        "Rey Esqueleto",
+        "Torre Bombardera",
+        "Tornado",
+        "Veneno",
+        "Duendes",
+        "Bruja",
+        "Mini P.E.K.K.A",
+        "Mosquetera"
+      ]
+    },
+    {
+      "nombre": "Mazo del Principito",
+      "tipo": "Ofensivo",
+      "descripcion": "El Principito controla la línea y defiende con su habilidad de disparo pesado.",
+      "cartas": [
+        "Principito",
+        "Torre Tesla",
+        "Bola de Fuego",
+        "Descarga",
+        "Espíritu Sanador",
+        "Mosquetera",
+        "Duendes",
+        "Mini P.E.K.K.A"
+      ]
+    },
+    {
+      "nombre": "Mazo Control con Gran Minero",
+      "tipo": "Control",
+      "descripcion": "El Gran Minero es versátil y absorbe daño mientras avanzas lentamente.",
+      "cartas": [
+        "Gran Minero",
+        "Veneno",
+        "Torre Bombardera",
+        "Espíritu de Hielo",
+        "Duendes",
+        "Mosquetera",
+        "Mini P.E.K.K.A",
+        "Esbirros"
+      ]
+    },
+    {
+      "nombre": "Mazo Duendestein Explosivo",
+      "tipo": "Ofensivo",
+      "descripcion": "Duendestein explota en medio de tropas enemigas causando gran daño.",
+      "cartas": [
+        "Duendestein",
+        "Barril de Duendes",
+        "Princesa",
+        "Veneno",
+        "Tornado",
+        "Caballero",
+        "Torre Tesla",
+        "Espíritu de Hielo"
+      ]
+    }
+  ]
+ }

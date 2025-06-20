@@ -1,0 +1,200 @@
+{
+  "glosario": [
+    {
+      "termino": "Elixir",
+      "definicion": "Recurso que se usa para desplegar cartas durante la partida."
+    },
+    {
+      "termino": "Tropas",
+      "definicion": "Unidades que se despliegan para atacar o defender."
+    },
+    {
+      "termino": "Hechizos",
+      "definicion": "Cartas que causan efectos especiales o daño en área."
+    },
+    {
+      "termino": "Estructuras",
+      "definicion": "Construcciones que defienden o atacan dentro del campo de batalla."
+    },
+    {
+      "termino": "Ciclo de Elixir",
+      "definicion": "Secuencia en la que las cartas vuelven a estar disponibles para usarse."
+    },
+    {
+      "termino": "Rotación",
+      "definicion": "Orden en el que las cartas aparecen durante una partida."
+    },
+    {
+      "termino": "Meta",
+      "definicion": "Estrategias o cartas más efectivas y populares en un momento determinado."
+    },
+    {
+      "termino": "Buff",
+      "definicion": "Mejora en las estadísticas de una carta."
+    },
+    {
+      "termino": "Nerf",
+      "definicion": "Reducción en la efectividad de una carta para equilibrar el juego."
+    },
+    {
+      "termino": "Tanque",
+      "definicion": "Unidad con mucha vida usada para absorber daño."
+    },
+    {
+      "termino": "Swarm",
+      "definicion": "Grupo de unidades pequeñas que atacan en masa."
+    },
+    {
+      "termino": "Push",
+      "definicion": "Ataque coordinado con varias cartas para presionar al oponente."
+    },
+    {
+      "termino": "Counter",
+      "definicion": "Carta o estrategia que neutraliza otra específica."
+    },
+    {
+      "termino": "Bridge Spam",
+      "definicion": "Estrategia que consiste en colocar cartas directamente en el puente para presionar rápidamente."
+    },
+    {
+      "termino": "Control",
+      "definicion": "Estilo de juego enfocado en defender y contraatacar."
+    },
+    {
+      "termino": "Ciclado Rápido",
+      "definicion": "Mazo con cartas de bajo coste para rotar rápidamente las cartas clave."
+    },
+    {
+      "termino": "Splash Damage",
+      "definicion": "Daño que afecta a múltiples objetivos cercanos."
+    },
+    {
+      "termino": "Sniping",
+      "definicion": "Táctica de usar un mazo específico para vencer al del oponente conocido."
+    },
+    {
+      "termino": "OTK",
+      "definicion": "One Turn Kill, vencer la torre en una sola ofensiva fuerte."
+    },
+    {
+      "termino": "Beatdown",
+      "definicion": "Estilo de juego centrado en construir ataques grandes detrás de un tanque."
+    },
+    {
+      "termino": "Bait",
+      "definicion": "Estrategia para forzar al oponente a gastar hechizos en ciertas cartas y luego aprovecharlo."
+    },
+    {
+      "termino": "Zap Bait",
+      "definicion": "Estrategia que obliga al oponente a gastar su hechizo eléctrico en cartas específicas."
+    },
+    {
+      "termino": "Chispitas",
+      "definicion": "Carta legendaria con gran daño pero lenta y vulnerable a reinicios."
+    },
+    {
+      "termino": "Reset",
+      "definicion": "Efecto que interrumpe el ataque de una carta como Chispitas o Inferno."
+    },
+    {
+      "termino": "Stun",
+      "definicion": "Paralización temporal de una carta enemiga."
+    },
+    {
+      "termino": "Inmune a retroceso",
+      "definicion": "Carta que no se ve afectada por el empuje de otras."
+    },
+    {
+      "termino": "Despliegue lento",
+      "definicion": "Cartas que tardan más tiempo en entrar en juego tras ser colocadas."
+    },
+    {
+      "termino": "Modo Doble Elixir",
+      "definicion": "Fase de la partida donde la generación de elixir se duplica."
+    },
+    {
+      "termino": "Modo Triple Elixir",
+      "definicion": "Fase de la partida donde el elixir se genera tres veces más rápido."
+    },
+    {
+      "termino": "Muerte súbita",
+      "definicion": "Modo donde la primera torre que caiga decide la partida."
+    },
+    {
+      "termino": "Empate",
+      "definicion": "Cuando ambos jugadores tienen la misma cantidad de torres al finalizar el tiempo."
+    },
+    {
+      "termino": "Mazo de Control",
+      "definicion": "Composición defensiva que busca ventaja con contraataques."
+    },
+    {
+      "termino": "Mazo de Ciclado",
+      "definicion": "Composición de cartas con bajo coste para tener rápido acceso a las principales."
+    },
+    {
+      "termino": "Torneo",
+      "definicion": "Competencia organizada entre varios jugadores con reglas específicas."
+    },
+    {
+      "termino": "Desafío",
+      "definicion": "Modo de juego donde debes acumular victorias antes de alcanzar el número de derrotas permitido."
+    },
+    {
+      "termino": "Gran Desafío",
+      "definicion": "Modo de juego competitivo con mayores recompensas y coste de entrada."
+    },
+    {
+      "termino": "Escalera",
+      "definicion": "Modo de juego estándar donde subes copas ganando partidas."
+    },
+    {
+      "termino": "Nivel de carta",
+      "definicion": "Indica cuán mejorada está una carta."
+    },
+    {
+      "termino": "Nivel de torre",
+      "definicion": "Representa la cantidad de daño y vida de tus torres."
+    },
+    {
+      "termino": "Maestría",
+      "definicion": "Sistema de progresión para cada carta según su uso y logros en partida."
+    },
+    {
+      "termino": "Camino de trofeos",
+      "definicion": "Ruta que los jugadores siguen ganando copas y desbloqueando recompensas."
+    },
+    {
+      "termino": "Chipear",
+      "definicion": "Hacer daño constante pero pequeño a una torre rival con cartas de bajo coste."
+    },
+    {
+      "termino": "1x Elixir",
+      "definicion": "Fase inicial del combate donde el elixir se genera a velocidad normal."
+    },
+    {
+      "termino": "2x Elixir",
+      "definicion": "Fase donde la generación de elixir se duplica, permitiendo más despliegue de cartas."
+    },
+    {
+      "termino": "3x Elixir",
+      "definicion": "Modo con generación triple de elixir, favorece estrategias intensas de ciclo y spam."
+    },
+    {
+      "termino": "Ciclo Rápido",
+      "definicion": "Mazo que permite rotar constantemente las cartas clave con bajo costo total."
+    },
+    {
+      "termino": "Overcommit",
+      "definicion": "Cuando un jugador gasta demasiado elixir en una jugada dejando su defensa vulnerable."
+    },
+    {
+      "termino": "Tradeo Positivo",
+      "definicion": "Cuando un jugador intercambia cartas gastando menos elixir que el oponente."
+    },
+    {
+      "termino": "Hard Counter",
+      "definicion": "Carta o estrategia que anula completamente a otra específica del oponente."
+    }
+  ]
+}

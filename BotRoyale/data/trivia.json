@@ -1,0 +1,252 @@
+{
+  "trivia": [
+    {
+      "pregunta": "¿Cuántas cartas hay en Clash Royale?",
+      "respuesta": "Actualmente hay 119 cartas en Clash Royale."
+    },
+    {
+      "pregunta": "¿Quién fue el campeón mundial de Clash Royale 2023?",
+      "respuesta": "El campeón mundial de Clash Royale 2023 fue Surgical Goblin."
+    },
+    {
+      "pregunta": "¿Cuál es la carta más cara en el juego?",
+      "respuesta": "La carta más cara actualmente es el P.E.K.K.A, que cuesta 7 de elixir."
+    },
+    {
+      "pregunta": "¿Qué carta puede resetear tropas?",
+      "respuesta": "El Electrocutador puede resetear las tropas con su ataque de aturdimiento."
+    },
+     {
+      "pregunta": "¿Cuánto cuesta desplegar al Montapuercos?",
+      "respuesta": "El Montapuercos cuesta 4 de elixir."
+    },
+    {
+      "pregunta": "¿Cuál es la velocidad de ataque de la Princesa?",
+      "respuesta": "La Princesa tiene una velocidad de ataque de 3 segundos."
+    },
+    {
+      "pregunta": "¿Qué carta lanza una bola de fuego al impactar?",
+      "respuesta": "La carta Bola de Fuego lanza una explosión al impactar causando daño en área."
+    },
+    {
+      "pregunta": "¿Qué carta invoca esqueletos durante un tiempo determinado?",
+      "respuesta": "La carta Cementerio invoca esqueletos durante 10 segundos."
+    },
+    {
+      "pregunta": "¿Cuál es la arena que se desbloquea al llegar a 2000 copas?",
+      "respuesta": "La Arena Real se desbloquea al alcanzar las 2000 copas."
+    },
+    {
+      "pregunta": "¿Cuántas unidades invoca la carta Horda de Esbirros?",
+      "respuesta": "La carta Horda de Esbirros invoca 6 unidades."
+    },
+    {
+      "pregunta": "¿Qué carta cuesta 1 de elixir y congela enemigos?",
+      "respuesta": "El Espíritu de Hielo cuesta 1 de elixir y congela a los enemigos brevemente."
+    },
+    {
+      "pregunta": "¿Cuál es el efecto del hechizo Rayo?",
+      "respuesta": "El hechizo Rayo hace daño a las tres tropas o estructuras con más vida dentro de su área."
+    },
+    {
+      "pregunta": "¿Qué carta es conocida por su salto y gran daño a tropas terrestres?",
+      "respuesta": "El Príncipe es conocido por su carga que inflige gran daño a tropas terrestres."
+    },
+    {
+      "pregunta": "¿Qué tipo de carta es la Torre Infernal?",
+      "respuesta": "La Torre Infernal es una estructura defensiva que inflige daño creciente a un solo objetivo."
+    },
+     {
+      "pregunta": "¿Qué carta es conocida por su habilidad de invisibilidad?",
+      "respuesta": "La Reina Arquera puede volverse invisible durante unos segundos."
+    },
+    {
+      "pregunta": "¿Cuántos campeones hay en Clash Royale?",
+      "respuesta": "Actualmente hay 8 campeones en el juego."
+    },
+    {
+      "pregunta": "¿Qué carta cuesta 9 de elixir?",
+      "respuesta": "El trío de mosqueteras cuesta 9 de elixir."
+    },
+    {
+      "pregunta": "¿Qué carta invoca esqueletos desde un barril?",
+      "respuesta": "El Barril de Esqueletos invoca varios esqueletos al impactar."
+    },
+    {
+      "pregunta": "¿Qué carta es una versión aérea del Mini P.E.K.K.A?",
+      "respuesta": "El Dragón Infernal es la versión aérea con daño progresivo."
+    },
+    {
+      "pregunta": "¿Qué carta se considera de ciclo rápido?",
+      "respuesta": "El Espíritu Eléctrico es una carta de ciclo rápido por solo 1 de elixir."
+    },
+    {
+      "pregunta": "¿Qué estructura lanza barriles de esqueletos?",
+      "respuesta": "La Torre Bombardera lanza proyectiles que explotan, pero no barriles."
+    },
+    {
+      "pregunta": "¿Qué tropa se divide en dos al morir?",
+      "respuesta": "El Gólem se divide en dos Golemitas al ser destruido."
+    },
+    {
+      "pregunta": "¿Cuál es el rango del Tronco?",
+      "respuesta": "El Tronco recorre una gran parte del campo, golpeando a tropas terrestres."
+    },
+    {
+      "pregunta": "¿Qué carta tiene una risa característica al ser desplegada?",
+      "respuesta": "El Duende Gigante tiene una risa característica."
+    },
+    {
+      "pregunta": "¿Qué carta puede reiniciar habilidades enemigas?",
+      "respuesta": "Los Electrocutadores y el Dragón Eléctrico pueden reiniciar habilidades."
+    },
+    {
+      "pregunta": "¿Qué carta es efectiva contra cartas con mucha vida?",
+      "respuesta": "La Torre Infernal y el Dragón Infernal son efectivos contra unidades tanque."
+    },
+    {
+      "pregunta": "¿Cuál es la carta más antigua del juego?",
+      "respuesta": "Cartas como el Montapuercos y el Caballero estuvieron desde el inicio."
+    },
+    {
+      "pregunta": "¿Qué arena viene después del Pico Helado?",
+      "respuesta": "Después del Pico Helado viene la Arena Selvática."
+    },
+    {
+      "pregunta": "¿Qué carta lanza un rayo en cadena?",
+      "respuesta": "El Dragón Eléctrico lanza rayos en cadena entre tropas."
+    },
+    {
+      "pregunta": "¿Cuál es la rareza del Mini P.E.K.K.A?",
+      "respuesta": "El Mini P.E.K.K.A es una carta especial."
+    },
+    {
+      "pregunta": "¿Qué carta cuesta más elixir pero genera muchas tropas?",
+      "respuesta": "El Ejército de Esqueletos cuesta poco, pero invoca muchas unidades."
+    },
+    {
+      "pregunta": "¿Qué estructura lanza flechas rápidamente?",
+      "respuesta": "La Torre de Arqueras dispara flechas a tropas enemigas."
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo del Montapuercos?",
+      "respuesta": "El Montapuercos ataca directamente estructuras enemigas."
+    },
+    {
+      "pregunta": "¿Qué carta tiene un escudo que la protege de un golpe?",
+      "respuesta": "La Guardia Oscura y los Guardias tienen un escudo inicial."
+    },
+    {
+      "pregunta": "¿Qué carta congela el área donde impacta?",
+      "respuesta": "El Hechizo de Hielo congela tropas y estructuras."
+    },
+    {
+      "pregunta": "¿Qué tropa genera daño de salpicadura desde el aire?",
+      "respuesta": "El Bebé Dragón genera daño de área desde el aire."
+    },
+    {
+      "pregunta": "¿Qué campeón se lanza hacia los enemigos?",
+      "respuesta": "El Caballero Dorado tiene una habilidad de carga encadenada."
+    },
+    {
+      "pregunta": "¿Qué carta invoca esqueletos constantemente?",
+      "respuesta": "La Lápida genera esqueletos al ser destruida."
+    },
+    {
+      "pregunta": "¿Qué carta aérea lanza fuego a lo lejos?",
+      "respuesta": "El Dragón Infernal lanza un rayo de fuego concentrado."
+    },
+    {
+      "pregunta": "¿Qué carta es ideal contra enjambres?",
+      "respuesta": "El Hechizo de Flechas es ideal contra cartas agrupadas."
+    },
+    {
+      "pregunta": "¿Qué carta puede curar a tus tropas?",
+      "respuesta": "El Espíritu Sanador y el Hechizo de Curación pueden curar tropas aliadas."
+    },
+    {
+      "pregunta": "¿Qué hechizo tiene un gran empuje?",
+      "respuesta": "El Tronco empuja tropas mientras hace daño."
+    },
+    {
+      "pregunta": "¿Qué carta ataca desde larga distancia y es muy frágil?",
+      "respuesta": "La Princesa tiene largo alcance pero baja vida."
+    },
+    {
+      "pregunta": "¿Qué carta lanza bombas desde el aire?",
+      "respuesta": "El Globo lanza bombas que hacen gran daño al impacto."
+    },
+    {
+      "pregunta": "¿Qué carta aparece desde una caja?",
+      "respuesta": "El Duende Gigante aparece desde una caja al ser desplegado."
+    },
+    {
+      "pregunta": "¿Qué hechizo tiene el mayor radio de acción?",
+      "respuesta": "El Terremoto y el Rayo tienen áreas grandes de impacto."
+    },
+    {
+      "pregunta": "¿Qué carta genera una choza que produce tropas?",
+      "respuesta": "La Choza de Bárbaros y de Duendes generan tropas periódicamente."
+    },
+    {
+      "pregunta": "¿Qué carta combina ataque y defensa aérea?",
+      "respuesta": "La Máquina Voladora ataca desde el aire a tropas y estructuras."
+    },
+    {
+      "pregunta": "¿Qué carta puede causar confusión con su clon?",
+      "respuesta": "El Hechizo de Clonación duplica tropas brevemente."
+    },
+    {
+      "pregunta": "¿Qué estructura cuesta 3 de elixir y da buena defensa?",
+      "respuesta": "El Cañón cuesta 3 de elixir y es ideal para defensa terrestre."
+    },
+    {
+      "pregunta": "¿Qué campeón lanza un hueso gigante?",
+      "respuesta": "El Rey Esqueleto es el campeón que carga una habilidad con esqueletos."
+    },
+    {
+      "pregunta": "¿Qué carta tiene la mayor vida del juego?",
+      "respuesta": "El Gólem tiene uno de los valores más altos de vida en el juego."
+    },
+    {
+      "pregunta": "¿Qué carta daña tras morir?",
+      "respuesta": "El Globo y el Gólem explotan al morir causando daño."
+    },
+    {
+      "pregunta": "¿Qué carta revive después de morir?",
+      "respuesta": "El Fénix revive una vez después de ser derrotado."
+    },
+    {
+      "pregunta": "¿Qué tropa se divide en múltiples unidades más pequeñas?",
+      "respuesta": "La Bandida no se divide, pero los Esqueletos Gigantes dejan bombas."
+    },
+    {
+      "pregunta": "¿Qué carta se desbloquea en la arena de electrovalle?",
+      "respuesta": "En Electrovalle se desbloquean cartas como el Dragón Eléctrico."
+    },
+    {
+      "pregunta": "¿Qué tropa tiene un rango de ataque de 6.5?",
+      "respuesta": "La Mosquetera tiene un alcance largo de 6.5."
+    },
+    {
+      "pregunta": "¿Qué carta puede paralizar a varias tropas a la vez?",
+      "respuesta": "El Hechizo de Rayo puede eliminar o paralizar tropas agrupadas."
+    },
+    {
+      "pregunta": "¿Qué carta es excelente para iniciar un contraataque?",
+      "respuesta": "El Megacaballero es ideal para comenzar un contraataque potente."
+    },
+    {
+      "pregunta": "¿Qué carta lanza un proyectil en forma de tronco?",
+      "respuesta": "El hechizo Tronco rueda por el suelo golpeando enemigos."
+    },
+    {
+      "pregunta": "¿Qué carta está inspirada en un luchador de sumo?",
+      "respuesta": "El Monje tiene estética y movimientos basados en el sumo."
+    },
+    {
+      "pregunta": "¿Qué carta puede reflejar ataques con su habilidad?",
+      "respuesta": "El Monje puede reflejar hechizos y ataques con su habilidad especial."
+    }
+  ]
+}

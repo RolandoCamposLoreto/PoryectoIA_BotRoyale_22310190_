@@ -1,0 +1,636 @@
+{
+  "jugadores": [
+    {
+      "nombre": "Surgical Goblin",
+      "pais": "Países Bajos",
+      "logros": [
+        "Campeón Mundial Clash Royale 2023",
+        "Campeón de ESL",
+        "Reconocido por gran versatilidad en mazos"
+      ]
+    },
+    {
+      "nombre": "Morten",
+      "pais": "Dinamarca",
+      "logros": [
+        "Campeón CRL",
+        "Jugador top Europa",
+        "Especialista en mazos de control"
+      ]
+    },
+    {
+      "nombre": "CWA",
+      "pais": "Argentina",
+      "logros": [
+        "Campeón Latinoamérica",
+        "Conocido por estilo agresivo"
+      ]
+    },
+    {
+      "nombre": "MohamedLights",
+      "pais": "Egipto",
+      "logros": [
+        "Campeón CRL",
+        "Reconocido por excelente microgestión",
+        "Jugador top en África y Medio Oriente"
+      ]
+    },
+    {
+      "nombre": "Sergio Ramos",
+      "pais": "España",
+      "logros": [
+        "Top jugador europeo",
+        "Conocido por mazos defensivos",
+        "Participante de torneos internacionales"
+      ]
+    },
+    {
+      "nombre": "Adrian Piedra",
+      "pais": "México",
+      "logros": [
+        "Campeón nacional",
+        "Especialista en mazos de beatdown",
+        "Reconocido por análisis estratégico"
+      ]
+    },
+    {
+      "nombre": "Lciop",
+      "pais": "Argentina",
+      "logros": [
+        "Top jugador sudamericano",
+        "Campeón de varios torneos online",
+        "Famoso por estilo agresivo y rápido"
+      ]
+    },
+    {
+      "nombre": "Lifecoach",
+      "pais": "Alemania",
+      "logros": [
+        "Campeón de ESL",
+        "Jugador destacado en la escena europea",
+        "Conocido por mazos innovadores"
+      ]
+    },
+    {
+      "nombre": "Flakes",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Jugador top NA",
+        "Campeón de torneos regionales",
+        "Especialista en estrategias híbridas"
+      ]
+    },
+    {
+      "nombre": "Javi14",
+      "pais": "España",
+      "logros": [
+        "Campeón nacional español",
+        "Conocido por excelente microgestión",
+        "Participante frecuente en torneos internacionales"
+      ]
+    },
+    {
+      "nombre": "Surgical Goblin Jr",
+      "pais": "Países Bajos",
+      "logros": [
+        "Jugador prometedor en escena internacional",
+        "Especialista en mazos rápidos",
+        "Reconocido por su versatilidad"
+      ]
+    },
+    {
+      "nombre": "Verthyr",
+      "pais": "Suecia",
+      "logros": [
+        "Top jugador europeo",
+        "Especialista en mazos de control",
+        "Participante en CRL Europa"
+      ]
+    },
+    {
+      "nombre": "Ash",
+      "pais": "Reino Unido",
+      "logros": [
+        "Campeón británico",
+        "Jugador con gran destreza en mazos defensivos",
+        "Participante en torneos internacionales"
+      ]
+    },
+    {
+      "nombre": "Mugman",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Top jugador NA",
+        "Famoso por su estilo agresivo",
+        "Campeón de torneos regionales"
+      ]
+    },
+    {
+      "nombre": "Ismo",
+      "pais": "Finlandia",
+      "logros": [
+        "Jugador top en Europa",
+        "Reconocido por mazos innovadores",
+        "Participante en CRL"
+      ]
+    },
+    {
+      "nombre": "Itsu",
+      "pais": "Japón",
+      "logros": [
+        "Campeón nacional japonés",
+        "Conocido por microgestión y control",
+        "Jugador destacado en Asia"
+      ]
+    },
+    {
+      "nombre": "Frog",
+      "pais": "Canadá",
+      "logros": [
+        "Top jugador en América del Norte",
+        "Especialista en mazos rápidos",
+        "Participante en torneos internacionales"
+      ]
+    },
+    {
+      "nombre": "SuuupercellPlayer",
+      "pais": "Brasil",
+      "logros": [
+        "Campeón brasileño",
+        "Famoso por mazos de beatdown",
+        "Participante frecuente en torneos latinoamericanos"
+      ]
+    },
+    {
+      "nombre": "Coach Cory",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Entrenador oficial de varios jugadores profesionales",
+        "Campeón en varias competencias",
+        "Conocido por análisis estratégico"
+      ]
+    },
+    {
+      "nombre": "Alvaro845",
+      "pais": "España",
+      "logros": [
+        "Jugador top español",
+        "Campeón nacional y regional",
+        "Reconocido por su estilo agresivo"
+      ]
+    },
+    {
+      "nombre": "Tommy",
+      "pais": "Australia",
+      "logros": [
+        "Campeón regional",
+        "Reconocido por su agresividad",
+        "Participante en torneos internacionales"
+      ]
+    },
+    {
+      "nombre": "Nickatnyte",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Popular creador de contenido",
+        "Jugador competitivo",
+        "Reconocido por estrategias innovadoras"
+      ]
+    },
+    {
+      "nombre": "Goga",
+      "pais": "Rusia",
+      "logros": [
+        "Campeón de torneos regionales",
+        "Especialista en mazos de control",
+        "Jugador top en Europa del Este"
+      ]
+    },
+    {
+      "nombre": "Vetri",
+      "pais": "India",
+      "logros": [
+        "Campeón nacional",
+        "Reconocido por mazos agresivos",
+        "Participante en CRL"
+      ]
+    },
+    {
+      "nombre": "Prince Charming",
+      "pais": "Reino Unido",
+      "logros": [
+        "Jugador top europeo",
+        "Especialista en mazos híbridos",
+        "Participante frecuente en torneos"
+      ]
+    },
+    {
+      "nombre": "Lacka",
+      "pais": "Alemania",
+      "logros": [
+        "Campeón nacional",
+        "Reconocido por su precisión",
+        "Jugador destacado en CRL Europa"
+      ]
+    },
+    {
+      "nombre": "Ponk",
+      "pais": "Japón",
+      "logros": [
+        "Campeón nacional japonés",
+        "Especialista en microgestión",
+        "Participante en torneos internacionales"
+      ]
+    },
+    {
+      "nombre": "Sorairo",
+      "pais": "Japón",
+      "logros": [
+        "Jugador top en Asia",
+        "Reconocido por mazos innovadores",
+        "Participante en CRL Asia"
+      ]
+    },
+    {
+      "nombre": "Milly",
+      "pais": "Canadá",
+      "logros": [
+        "Top jugador en América del Norte",
+        "Especialista en estrategias defensivas",
+        "Campeón regional"
+      ]
+    },
+    {
+      "nombre": "Cytogasm",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Jugador competitivo",
+        "Reconocido por su habilidad táctica",
+        "Participante en torneos nacionales"
+      ]
+    },
+    {
+      "nombre": "Lava",
+      "pais": "Brasil",
+      "logros": [
+        "Campeón brasileño",
+        "Especialista en mazos de beatdown",
+        "Participante en torneos latinoamericanos"
+      ]
+    },
+    {
+      "nombre": "X-Bow Master",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Especialista en mazos de control",
+        "Jugador top NA",
+        "Campeón de torneos regionales"
+      ]
+    },
+    {
+      "nombre": "Dark Prince",
+      "pais": "Francia",
+      "logros": [
+        "Jugador destacado en Europa",
+        "Reconocido por su agresividad",
+        "Participante frecuente en torneos"
+      ]
+    },
+    {
+      "nombre": "Fury",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Jugador competitivo",
+        "Especialista en mazos rápidos",
+        "Campeón regional"
+      ]
+    },
+    {
+      "nombre": "Robin Hood",
+      "pais": "Reino Unido",
+      "logros": [
+        "Jugador top europeo",
+        "Reconocido por precisión",
+        "Participante en CRL"
+      ]
+    },
+    {
+      "nombre": "Ace",
+      "pais": "Corea del Sur",
+      "logros": [
+        "Campeón nacional",
+        "Especialista en estrategias híbridas",
+        "Participante en torneos internacionales"
+      ]
+    },
+    {
+      "nombre": "EagleEye",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Jugador competitivo",
+        "Conocido por su enfoque táctico",
+        "Campeón regional"
+      ]
+    },
+    {
+      "nombre": "Storm",
+      "pais": "Noruega",
+      "logros": [
+        "Jugador top europeo",
+        "Especialista en control de partidas",
+        "Participante en CRL Europa"
+      ]
+    },
+    {
+      "nombre": "Volt",
+      "pais": "Brasil",
+      "logros": [
+        "Campeón brasileño",
+        "Reconocido por mazos agresivos",
+        "Jugador destacado en Latinoamérica"
+      ]
+    },
+    {
+      "nombre": "Glitch",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Jugador competitivo",
+        "Especialista en mazos de ciclo rápido",
+        "Campeón regional"
+      ]
+    }
+,
+    {
+      "nombre": "Skyline",
+      "pais": "Reino Unido",
+      "logros": [
+        "Jugador top europeo",
+        "Especialista en estrategias defensivas",
+        "Participante en torneos internacionales"
+      ]
+    },
+    {
+      "nombre": "Blaze",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Campeón regional",
+        "Reconocido por su estilo agresivo",
+        "Jugador destacado en NA"
+      ]
+    },
+    {
+      "nombre": "Nova",
+      "pais": "Canadá",
+      "logros": [
+        "Jugador top en América del Norte",
+        "Especialista en mazos híbridos",
+        "Participante en torneos nacionales"
+      ]
+    },
+    {
+      "nombre": "Echo",
+      "pais": "Suecia",
+      "logros": [
+        "Jugador top europeo",
+        "Conocido por su versatilidad",
+        "Participante en CRL Europa"
+      ]
+    },
+    {
+      "nombre": "Frost",
+      "pais": "Finlandia",
+      "logros": [
+        "Jugador destacado en Europa",
+        "Especialista en mazos de control",
+        "Campeón regional"
+      ]
+    },
+    {
+      "nombre": "Razor",
+      "pais": "Australia",
+      "logros": [
+        "Campeón regional",
+        "Reconocido por su precisión",
+        "Jugador competitivo"
+      ]
+    },
+    {
+      "nombre": "Venom",
+      "pais": "Brasil",
+      "logros": [
+        "Campeón brasileño",
+        "Especialista en mazos agresivos",
+        "Participante en torneos latinoamericanos"
+      ]
+    },
+    {
+      "nombre": "Shadow",
+      "pais": "Japón",
+      "logros": [
+        "Jugador top asiático",
+        "Conocido por mazos innovadores",
+        "Participante en CRL Asia"
+      ]
+    },
+    {
+      "nombre": "Flare",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Jugador competitivo",
+        "Especialista en mazos rápidos",
+        "Campeón regional"
+      ]
+    },
+    {
+      "nombre": "Glacier",
+      "pais": "Canadá",
+      "logros": [
+        "Jugador destacado en América del Norte",
+        "Conocido por estrategias defensivas",
+        "Participante en torneos nacionales"
+      ]
+    },
+    {
+      "nombre": "Bolt",
+      "pais": "Reino Unido",
+      "logros": [
+        "Jugador top europeo",
+        "Especialista en estrategias híbridas",
+        "Participante en CRL"
+      ]
+    },
+    {
+      "nombre": "Blitz",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Campeón regional",
+        "Reconocido por su estilo agresivo",
+        "Jugador destacado en NA"
+      ]
+    },
+    {
+      "nombre": "Fang",
+      "pais": "Alemania",
+      "logros": [
+        "Jugador top europeo",
+        "Especialista en mazos de control",
+        "Campeón regional"
+      ]
+    },
+    {
+      "nombre": "Drake",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Jugador competitivo",
+        "Reconocido por mazos rápidos",
+        "Participante en torneos nacionales"
+      ]
+    },
+    {
+      "nombre": "Nightfall",
+      "pais": "Suecia",
+      "logros": [
+        "Jugador top europeo",
+        "Especialista en estrategias defensivas",
+        "Participante en CRL Europa"
+      ]
+    },
+    {
+      "nombre": "Rogue",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Jugador competitivo",
+        "Reconocido por su estilo versátil",
+        "Campeón regional"
+      ]
+    },
+    {
+      "nombre": "Surge",
+      "pais": "Brasil",
+      "logros": [
+        "Campeón brasileño",
+        "Especialista en mazos agresivos",
+        "Jugador destacado en Latinoamérica"
+      ]
+    },
+    {
+      "nombre": "Whirlwind",
+      "pais": "Finlandia",
+      "logros": [
+        "Jugador destacado en Europa",
+        "Conocido por mazos innovadores",
+        "Participante en CRL"
+      ]
+    },
+    {
+      "nombre": "Zephyr",
+      "pais": "Australia",
+      "logros": [
+        "Campeón regional",
+        "Reconocido por su precisión",
+        "Jugador competitivo"
+      ]
+    },
+    {
+      "nombre": "Blizzard",
+      "pais": "Canadá",
+      "logros": [
+        "Jugador top en América del Norte",
+        "Especialista en mazos de control",
+        "Participante en torneos nacionales"
+      ]
+    }
+,
+    {
+      "nombre": "ElProfe",
+      "pais": "México",
+      "logros": [
+        "Jugador destacado nacional",
+        "Participante en torneos latinoamericanos",
+        "Especialista en mazos de control"
+      ]
+    },
+    {
+      "nombre": "TitoCR",
+      "pais": "México",
+      "logros": [
+        "Campeón regional",
+        "Reconocido por su agresividad",
+        "Jugador popular en la comunidad"
+      ]
+    },
+    {
+      "nombre": "LoboAzul",
+      "pais": "México",
+      "logros": [
+        "Jugador competitivo",
+        "Especialista en mazos híbridos",
+        "Participante en eventos nacionales"
+      ]
+    },
+    {
+      "nombre": "ChicoCR",
+      "pais": "México",
+      "logros": [
+        "Top jugador nacional",
+        "Reconocido por su microgestión",
+        "Participante en torneos latinoamericanos"
+      ]
+    },
+    {
+      "nombre": "DragonLord",
+      "pais": "España",
+      "logros": [
+        "Jugador top europeo",
+        "Especialista en estrategias ofensivas",
+        "Participante en CRL Europa"
+      ]
+    },
+    {
+      "nombre": "Kaito",
+      "pais": "Japón",
+      "logros": [
+        "Campeón nacional japonés",
+        "Conocido por mazos innovadores",
+        "Participante en torneos internacionales"
+      ]
+    },
+    {
+      "nombre": "LeoKing",
+      "pais": "Argentina",
+      "logros": [
+        "Campeón regional",
+        "Jugador top en Latinoamérica",
+        "Especialista en mazos defensivos"
+      ]
+    },
+    {
+      "nombre": "AnaCR",
+      "pais": "Colombia",
+      "logros": [
+        "Top jugadora nacional",
+        "Reconocida por su precisión",
+        "Participante en torneos latinoamericanos"
+      ]
+    },
+    {
+      "nombre": "Ghost",
+      "pais": "Estados Unidos",
+      "logros": [
+        "Jugador competitivo",
+        "Especialista en mazos de ciclo rápido",
+        "Campeón regional"
+      ]
+    },
+    {
+      "nombre": "Puma",
+      "pais": "Chile",
+      "logros": [
+        "Jugador destacado en Latinoamérica",
+        "Reconocido por estrategias ofensivas",
+        "Participante en eventos regionales"
+      ]
+    
+    }
+    ]  
+}

@@ -1,0 +1,1223 @@
+{
+  "conversaciones": [
+    {
+      "pregunta": "mi carta favorita es el gigante",
+      "respuesta": "¡El gigante es una gran carta! Fuerte y resistente, perfecto para avanzar con escudo."
+    },
+    {
+      "pregunta": "me gusta la reina arquera",
+      "respuesta": "La Reina Arquera es letal con su habilidad de disparos rápidos, cuesta solo 1 de elixir para activar su poder."
+    },
+    {
+      "pregunta": "cuál es la carta más usada",
+      "respuesta": "La carta más usada actualmente es el Montapuercos, muy popular en mazos ofensivos."
+    },
+    {
+      "pregunta": "recuerdas cuál es mi carta favorita?",
+      "respuesta": "Claro, me dijiste que tu carta favorita es el gigante. ¡Un clásico!"
+    },
+    {
+      "pregunta": "qué opinas del duende lanzadardos?",
+      "respuesta": "El Duende Lanzadardos es rápido y versátil, ideal para ataques sorpresa."
+    },
+    {
+      "pregunta": "cómo me llamo?",
+      "respuesta": "Aún no me has dicho tu nombre, ¡pero me encantaría saberlo!"
+    },
+    {
+      "pregunta": "quiero un mazo defensivo",
+      "respuesta": "Claro, un mazo con Ballesta y Mortero puede ser muy efectivo para defensa."
+    },
+    {
+      "pregunta": "quiero un mazo ofensivo",
+      "respuesta": "Un mazo tipo Log Bait o Bridge Spam puede ser perfecto para atacar agresivamente."
+    },
+    {
+      "pregunta": "cuántas cartas hay en el juego?",
+      "respuesta": "Actualmente hay 119 cartas en Clash Royale, con variedad de tropas, hechizos y estructuras."
+    },
+    {
+      "pregunta": "quién es el mejor jugador del mundo?",
+      "respuesta": "El jugador número uno mundial varía, pero muchos reconocen a Surgical Goblin por su gran habilidad."
+    },
+    {
+      "pregunta": "cómo desbloqueo al príncipe oscuro?",
+      "respuesta": "El Príncipe Oscuro es una carta épica que se desbloquea en la Arena Selvática (2600–3000 copas)."
+    },
+    {
+      "pregunta": "qué hace la Bruja Nocturna?",
+      "respuesta": "La Bruja Nocturna invoca murciélagos constantemente y ataca cuerpo a cuerpo con gran daño."
+    },
+    {
+      "pregunta": "cuál es la mejor defensa contra Globo Bombástico?",
+      "respuesta": "El Mago Eléctrico y el Dragón Infernal suelen ser muy efectivos contra el Globo Bombástico."
+    },
+    {
+      "pregunta": "puedes darme un chiste?",
+      "respuesta": "¡Claro! ¿Por qué el Megacaballero no puede salir de casa? Porque siempre está cargando."
+    },
+    {
+      "pregunta": "dónde obtengo cofres legendarios?",
+      "respuesta": "Los cofres legendarios se pueden ganar en batallas regulares o en la tienda por 4,500 gemas."
+    },
+    {
+      "pregunta": "qué es el ciclo de mazo?",
+      "respuesta": "El ciclo de mazo es el proceso de usar cartas de bajo coste para volver rápidamente a tu carta principal."
+    },
+    {
+      "pregunta": "cómo uso el hechizo Tornado?",
+      "respuesta": "Tornado agrupa tropas enemigas en un punto, ideal para concentrar daño de tus torres o tropas."
+    },
+    {
+      "pregunta": "cuál es mi arena actual?",
+      "respuesta": "Aún no sé en qué arena estás. ¡Dime tu rango de copas y lo descubriré!"
+    },
+    {
+      "pregunta": "qué cartas legendarias existen?",
+      "respuesta": "Algunas leyendas: Princesa, Mago Eléctrico, Dragón Infernal, Mega Caballero, Rey Esqueleto, entre otras."
+    },
+    {
+      "pregunta": "cómo mejoro mis cartas?",
+      "respuesta": "Necesitas cartas repetidas y oro. Ve a la pestaña de mejoras y selecciona la carta que quieras subir de nivel."
+    },
+    {
+      "pregunta": "qué carta debería subir primero?",
+      "respuesta": "Te recomiendo mejorar primero las cartas que más usas en tu mazo principal para maximizar tu rendimiento."
+    },
+    {
+      "pregunta": "cuál es la carta más cara?",
+      "respuesta": "La carta más cara en coste de elixir es el Gólem, con un coste de 8 elixires."
+    },
+    {
+      "pregunta": "cómo funciona el ciclo de elixir?",
+      "respuesta": "El ciclo de elixir es la forma en que recuperas elixir con el tiempo y usas cartas para mantener la presión."
+    },
+    {
+      "pregunta": "puedes sugerir un mazo para principiantes?",
+      "respuesta": "Prueba con un mazo de bajo coste: Caballero, Esbirros, Bola de Fuego, Tronco, Mosquetero y Bárbaros."
+    },
+    {
+      "pregunta": "cómo gano coronas rápido?",
+      "respuesta": "Enfócate en derribar primero la torre del rey enemigo usando tropas rápidas y hechizos precisos."
+    },
+    {
+      "pregunta": "qué hago si me quedo sin elixir?",
+      "respuesta": "Controla el gasto y usa cartas de bajo coste para defender mientras recuperas elixir."
+    },
+    {
+      "pregunta": "cómo uso el Mago Eléctrico?",
+      "respuesta": "Despliega el Mago Eléctrico detrás de las tropas para aturdir múltiples objetivos a la vez."
+    },
+    {
+      "pregunta": "qué carta mezcla ataque y defensa?",
+      "respuesta": "El Megaesbirro es ideal: vuela para defender y luego puede apoyar el contraataque."
+    },
+    {
+      "pregunta": "hay algún combo mortal?",
+      "respuesta": "Sí, el combo Montapuercos + Espíritu de Sanación es muy popular y efectivo."
+    },
+    {
+      "pregunta": "mi carta favorita es el gigante",
+      "respuesta": "¡El gigante es una gran carta! Fuerte y resistente, perfecto para avanzar con escudo."
+    },
+    {
+      "pregunta": "me gusta la reina arquera",
+      "respuesta": "La Reina Arquera es letal con su habilidad de disparos rápidos, cuesta solo 1 de elixir para activar su poder."
+    },
+    {
+      "pregunta": "cuál es la carta más usada",
+      "respuesta": "La carta más usada actualmente es el Montapuercos, muy popular en mazos ofensivos."
+    },
+    {
+      "pregunta": "recuerdas cuál es mi carta favorita?",
+      "respuesta": "Claro, me dijiste que tu carta favorita es el gigante. ¡Un clásico!"
+    },
+    {
+      "pregunta": "qué opinas del duende lanzadardos?",
+      "respuesta": "El Duende Lanzadardos es rápido y versátil, ideal para ataques sorpresa."
+    },
+    {
+      "pregunta": "cómo me llamo?",
+      "respuesta": "Aún no me has dicho tu nombre, ¡pero me encantaría saberlo!"
+    },
+    {
+      "pregunta": "quiero un mazo defensivo",
+      "respuesta": "Claro, un mazo con Ballesta y Mortero puede ser muy efectivo para defensa."
+    },
+    {
+      "pregunta": "quiero un mazo ofensivo",
+      "respuesta": "Un mazo tipo Log Bait o Bridge Spam puede ser perfecto para atacar agresivamente."
+    },
+    {
+      "pregunta": "cuántas cartas hay en el juego?",
+      "respuesta": "Actualmente hay 119 cartas en Clash Royale, con variedad de tropas, hechizos y estructuras."
+    },
+    {
+      "pregunta": "quién es el mejor jugador del mundo?",
+      "respuesta": "El jugador número uno mundial varía, pero muchos reconocen a Surgical Goblin por su gran habilidad."
+    },
+    {
+      "pregunta": "cómo desbloqueo al príncipe oscuro?",
+      "respuesta": "El Príncipe Oscuro es una carta épica que se desbloquea en la Arena Selvática (2600–3000 copas)."
+    },
+    {
+      "pregunta": "qué hace la Bruja Nocturna?",
+      "respuesta": "La Bruja Nocturna invoca murciélagos constantemente y ataca cuerpo a cuerpo con gran daño."
+    },
+    {
+      "pregunta": "cuál es la mejor defensa contra Globo Bombástico?",
+      "respuesta": "El Mago Eléctrico y el Dragón Infernal suelen ser muy efectivos contra el Globo Bombástico."
+    },
+    {
+      "pregunta": "puedes darme un chiste?",
+      "respuesta": "¡Claro! ¿Por qué el Megacaballero no puede salir de casa? Porque siempre está cargando."
+    },
+    {
+      "pregunta": "dónde obtengo cofres legendarios?",
+      "respuesta": "Los cofres legendarios se pueden ganar en batallas regulares o en la tienda por 4,500 gemas."
+    },
+    {
+      "pregunta": "qué es el ciclo de mazo?",
+      "respuesta": "El ciclo de mazo es el proceso de usar cartas de bajo coste para volver rápidamente a tu carta principal."
+    },
+    {
+      "pregunta": "cómo uso el hechizo Tornado?",
+      "respuesta": "Tornado agrupa tropas enemigas en un punto, ideal para concentrar daño de tus torres o tropas."
+    },
+    {
+      "pregunta": "cuál es mi arena actual?",
+      "respuesta": "Aún no sé en qué arena estás. ¡Dime tu rango de copas y lo descubriré!"
+    },
+    {
+      "pregunta": "qué cartas legendarias existen?",
+      "respuesta": "Algunas leyendas: Princesa, Mago Eléctrico, Dragón Infernal, Mega Caballero, Rey Esqueleto, entre otras."
+    },
+    {
+      "pregunta": "cómo mejoro mis cartas?",
+      "respuesta": "Necesitas cartas repetidas y oro. Ve a la pestaña de mejoras y selecciona la carta que quieras subir de nivel."
+    },
+    {
+      "pregunta": "qué carta debería subir primero?",
+      "respuesta": "Te recomiendo mejorar primero las cartas que más usas en tu mazo principal para maximizar tu rendimiento."
+    },
+    {
+      "pregunta": "cuál es la carta más cara?",
+      "respuesta": "La carta más cara en coste de elixir es el Gólem, con un coste de 8 elixires."
+    },
+    {
+      "pregunta": "cómo funciona el ciclo de elixir?",
+      "respuesta": "El ciclo de elixir es la forma en que recuperas elixir con el tiempo y usas cartas para mantener la presión."
+    },
+    {
+      "pregunta": "puedes sugerir un mazo para principiantes?",
+      "respuesta": "Prueba con un mazo de bajo coste: Caballero, Esbirros, Bola de Fuego, Tronco, Mosquetero y Bárbaros."
+    },
+    {
+      "pregunta": "cómo gano coronas rápido?",
+      "respuesta": "Enfócate en derribar primero la torre del rey enemigo usando tropas rápidas y hechizos precisos."
+    },
+    {
+      "pregunta": "qué hago si me quedo sin elixir?",
+      "respuesta": "Controla el gasto y usa cartas de bajo coste para defender mientras recuperas elixir."
+    },
+    {
+      "pregunta": "cómo uso el Mago Eléctrico?",
+      "respuesta": "Despliega el Mago Eléctrico detrás de las tropas para aturdir múltiples objetivos a la vez."
+    },
+    {
+      "pregunta": "qué carta mezcla ataque y defensa?",
+      "respuesta": "El Megaesbirro es ideal: vuela para defender y luego puede apoyar el contraataque."
+    },
+    {
+      "pregunta": "hay algún combo mortal?",
+      "respuesta": "Sí, el combo Montapuercos + Espíritu de Sanación es muy popular y efectivo."
+    },
+    {
+      "pregunta": "qué es el Modo Triple de Elixir?",
+      "respuesta": "En Triple Elixir, recuperas elixir tres veces más rápido, ideal para ataques masivos."
+    },
+    {
+      "pregunta": "cómo funciona el Reina Arquera?",
+      "respuesta": "La Reina Arquera dispara a distancia y puede activar su habilidad de invisibilidad por 3.5s."
+    },
+    {
+      "pregunta": "qué hace el Espíritu Sanador?",
+      "respuesta": "El Espíritu Sanador deja un área de curación al explotar, recuperando vida a tropas amigas."
+    },
+    {
+      "pregunta": "por qué usar Tronco?",
+      "respuesta": "Tronco empuja y daña tropas pequeñas, y puede tirar hacia atrás unidades terrestres."
+    },
+    {
+      "pregunta": "cómo detengo al Globo Bombástico?",
+      "respuesta": "Usa tropas de daño por segundo alto como Dragón Infernal o Mago Eléctrico para detenerlo."
+    },
+    {
+      "pregunta": "qué cartas sinergizan con P.E.K.K.A?",
+      "respuesta": "Tropas de soporte como Mago, Mago Eléctrico y Sanadora complementan al P.E.K.K.A."
+    },
+    {
+      "pregunta": "cómo uso el Espíritu de Hielo?",
+      "respuesta": "El Espíritu de Hielo ralentiza y daña al explotar; úsalo para frenar hordas."
+    },
+    {
+      "pregunta": "dónde veo mis estadísticas?",
+      "respuesta": "En tu perfil puedes ver victorias, derrotas y estadísticas de cartas."
+    },
+    {
+      "pregunta": "por qué perdió mi partida?",
+      "respuesta": "Revisa tu ciclo de elixir, el posicionamiento y la adaptabilidad de tu mazo."
+    },
+    {
+      "pregunta": "cómo consigo gemas gratis?",
+      "respuesta": "Participa en misiones, eventos y abre cofres de coronas para ganar gemas."
+    },
+    {
+      "pregunta": "qué es el Desafío de Contendientes?",
+      "respuesta": "Es un evento donde compites por premios sin gastar gemas y con reglas especiales."
+    },
+    {
+      "pregunta": "cómo gano un Desafío?",
+      "respuesta": "Mantén un mazo equilibrado y juega defensivamente hasta el último momento."
+    },
+    {
+      "pregunta": "qué carta supera a la Princesa?",
+      "respuesta": "El Mago Eléctrico o un Barril de Duendes pueden eliminarla antes de disparar."
+    },
+    {
+      "pregunta": "cuál es la mejor torre defensiva?",
+      "respuesta": "La Torre Infernal y Tesla son muy sólidas contra tanques y tropas pequeñas."
+    },
+    {
+      "pregunta": "cómo contrarresto un Push P.E.K.K.A?",
+      "respuesta": "Usa unidades de daño por segundo alto y tropas de distracción para parar al P.E.K.K.A."
+    },
+    {
+      "pregunta": "qué carta cuesta 1 de elixir?",
+      "respuesta": "El Espíritu de Fuego, Espíritu de Hielo y Espíritu Sanador cuestan solo 1 de elixir."
+    },
+    {
+      "pregunta": "puedo cambiar mi nombre de jugador?",
+      "respuesta": "Sí, en ajustes puedes usar un cambio de nombre con un cambio de tarjeta."
+    },
+    {
+      "pregunta": "qué hacen los Emoticones?",
+      "respuesta": "Son gestos para comunicarte rápida y visualmente con tu rival."
+    },
+    {
+      "pregunta": "cómo uso el Hechizo Furia?",
+      "respuesta": "Furia aumenta la velocidad de ataque y movimiento de tus tropas por 7s."
+    },
+    {
+      "pregunta": "qué carta épica debería mejorar?",
+      "respuesta": "Mejora la que más uses: Bridge Spam usa Fantasma Real o Mago Eléctrico."
+    },
+    {
+      "pregunta": "cómo funciona el Cofre Relámpago?",
+      "respuesta": "Te permite escoger cuáles de las 5 cartas mostradas quieres desbloquear."
+    },
+    {
+      "pregunta": "por qué el Mortero no dispara?",
+      "respuesta": "Asegúrate de colocarlo en rango y esperar el tiempo de recarga de 4s."
+    },
+    {
+      "pregunta": "qué cartas vuelan?",
+      "respuesta": "Cartas voladoras: Bebé Dragón, Megaesbirro, Esbirros, Murciélagos, Dragón Infernal..."
+    },
+    {
+      "pregunta": "cómo uso el Gigante Noble?",
+      "respuesta": "Colócalo detrás de tu torre para que avance con apoyo de tropas."
+    },
+    {
+      "pregunta": "qué hace el Hechizo Veneno?",
+      "respuesta": "Causa daño por segundo en área y ralentiza tropas enemigas."
+    },
+    {
+      "pregunta": "cómo abro cofres rápido?",
+      "respuesta": "Gasta gemas para acelerar el tiempo de apertura o participa en eventos gratuitos."
+    },
+    {
+      "pregunta": "puedo cambiar mi mazo en batalla?",
+      "respuesta": "No, debes elegir tu mazo antes de comenzar el combate."
+    },
+    {
+      "pregunta": "qué carta combina con Pekka?",
+      "respuesta": "Electro Wizard y Sanadora combinan bien para apoyar al P.E.K.K.A."
+    },
+    {
+      "pregunta": "cómo consigo cartas legendarias?",
+      "respuesta": "Juega desafíos, abre cofres legendarios y participa en Eventos de CLanes."
+    },
+    {
+      "pregunta": "por qué mi mazo es lento?",
+      "respuesta": "Revisa tu coste medio de elixir y reduce cartas de alto coste."
+    },
+    {
+      "pregunta": "qué arena debería alcanzar?",
+      "respuesta": "Sube hasta Arena 9–10 para desbloquear las cartas más competitivas."
+    },
+    {
+      "pregunta": "qué es el efecto de carga?",
+      "respuesta": "La carga duplica el daño de tu siguiente ataque, útil con cartas como el Principito."
+    },
+    {
+      "pregunta": "cómo contrarresto el Espíritu de Fuego?",
+      "respuesta": "Usa tropas rápidas de bajo coste, como Esbirros o Duendes con Lanza, para eliminarlo."
+    },
+    {
+      "pregunta": "qué carta épica cuesta 3 elixir?",
+      "respuesta": "El Mini P.E.K.K.A y el Espíritu de Hielo son épicas de solo 3 elixires."
+    },
+    {
+      "pregunta": "cómo uso el Tronco?",
+      "respuesta": "Colócalo para golpear tropas terrestres y limpiar tropas pequeñas de tu carril."
+    },
+    {
+      "pregunta": "qué hacen los Hechizos Oscuros?",
+      "respuesta": "El Hechizo Veneno y el Tronco Oscuro infligen daño continuo o desplazan tropas."
+    },
+    {
+      "pregunta": "cómo veo mi mazo actual?",
+      "respuesta": "En tu perfil o en la sección de mazos verás las 8 cartas que llevas equipadas."
+    },
+    {
+      "pregunta": "qué es un mazo ciclo rapido?",
+      "respuesta": "Un mazo de ciclo rápido tiene bajo coste medio para rotar cartas y mantener presión."
+    },
+    {
+      "pregunta": "cómo funciona la Torre de Bombardero?",
+      "respuesta": "La Torre de Bombardero dispara una bomba que explota en área, ideal contra multitud."
+    },
+    {
+      "pregunta": "qué carta cura tropas?",
+      "respuesta": "El Espíritu Sanador recupera vida en un área pequeña al explotar."
+    },
+    {
+      "pregunta": "cómo uso la Choza de Duendes?",
+      "respuesta": "Colócala en el centro para generar duendes y distraer al rival."
+    },
+    {
+      "pregunta": "qué carta bloquea proyectiles?",
+      "respuesta": "El Espíritu de Hielo y el Mago Eléctrico pueden bloquear o ralentizar proyectiles."
+    },
+    {
+      "pregunta": "cómo apunto mejor con el Mortero?",
+      "respuesta": "Practica en Desafíos y ajusta el rango hasta que la mira coincida con el objetivo."
+    },
+    {
+      "pregunta": "qué carta épica debería probar?",
+      "respuesta": "El Megaesbirro es muy versátil, defiende y ataca bien."
+    },
+    {
+      "pregunta": "puedo usar cartas legendarias en principiantes?",
+      "respuesta": "Sí, solo desbloquea tu cofre legendario y equípala en tu mazo."
+    },
+    {
+      "pregunta": "cómo arena 7 vs 8 difiere?",
+      "respuesta": "Arena 8 introduce cartas como el Electro Wizard y cartas competitivas de mayor nivel."
+    },
+    {
+      "pregunta": "qué es un push 2.6?",
+      "respuesta": "Es un mazo de ciclo rápido con presión constante usando Ejército de Esqueletos y Montapuercos."
+    },
+    {
+      "pregunta": "cómo desbloqueo al Fantasma Real?",
+      "respuesta": "El Fantasma Real es una carta legendaria que se desbloquea en Arena Real (2000–2300)."
+    },
+    {
+      "pregunta": "qué hace el Hechizo Furia Evo?",
+      "respuesta": "La versión evolucionada de Furia aumenta más la velocidad de ataque y el movimiento."
+    },
+    {
+      "pregunta": "cómo usar el Espejo?",
+      "respuesta": "Espejo despliega una copia de tu última carta pagando 1 elixir extra."
+    },
+    {
+      "pregunta": "puedo tener dos Reinas Arquera?",
+      "respuesta": "No, solo una carta legendaria por mazo, no puedes duplicarlas en el mazo."
+    },
+    {
+      "pregunta": "qué cartas vuelan rápido?",
+      "respuesta": "Murciélagos y Duendes con Lanza vuelan muy rápido."
+    },
+    {
+      "pregunta": "cómo activo la habilidad del Caballero Dorado?",
+      "respuesta": "Pulsa el icono de habilidad cuando esté cargada y tendrás tu golpe especial."
+    },
+    {
+      "pregunta": "qué carta genera Esqueletos?",
+      "respuesta": "El Cementerio y el Rey Esqueleto generan esqueletos en área."
+    },
+    {
+      "pregunta": "cómo arena 10 vs 11 varía?",
+      "respuesta": "Arena 11 introduce cartas como el Dragón Eléctrico con mecánicas nuevas."
+    },
+    {
+      "pregunta": "qué es el Hechizo Congelación?",
+      "respuesta": "Congela tropas y edificios en área, deteniéndolos por unos segundos."
+    },
+    {
+      "pregunta": "cómo parar un push Golem?",
+      "respuesta": "Usa tropas de DPS alto y divide tu defensa para que el Golem no avance libre."
+    },
+    {
+      "pregunta": "cómo usar el Mortero en puente?",
+      "respuesta": "Coloca el Mortero cerca del puente para sorprender al rival con fuego inmediato."
+    },
+    {
+      "pregunta": "qué cartas son buenas contra Tornado?",
+      "respuesta": "Cartas de alto HP no se desplazan mucho, como P.E.K.K.A y Gólem."
+    },
+    {
+      "pregunta": "cómo ganar torneo gratis?",
+      "respuesta": "Entra justo al inicio, practica mazos y aprovecha los 3 errores permitidos."
+    },
+    {
+      "pregunta": "qué carta épica debería farmear?",
+      "respuesta": "El Espíritu de Sanación es muy útil y económico; vale la pena subirlo."
+    },
+    {
+      "pregunta": "qué es un mazo bait?",
+      "respuesta": "Mazo bait usa cartas para forzar hechizos y luego atacar con otra que esquive tu bait."
+    },
+    {
+      "pregunta": "cómo uso al P.E.K.K.A mejor?",
+      "respuesta": "Protégelo con espíritus y hechizos para limpiar tropas y llegar a la torre."
+    },
+    {
+      "pregunta": "qué carta distrae al Cazador?",
+      "respuesta": "El Caballero o el Duende Lanzadardos pueden distraer bien al Cazador."
+    },
+    {
+      "pregunta": "cómo bloquear al Duende Lanzadardos?",
+      "respuesta": "El Tronco o un Espíritu de Hielo detienen sus ataques rápidamente."
+    },
+    {
+      "pregunta": "qué cartas épicas de 4 elixir hay?",
+      "respuesta": "Mago Eléctrico, Espíritu Sanador, Bebé Dragón, Mini P.E.K.K.A."
+    },
+    {
+      "pregunta": "cómo conseguir oro gratis?",
+      "respuesta": "Abre cofres de batalla, participa en eventos y gana cofres de coronas."
+    }
+,
+    {
+      "pregunta": "qué hace el Mago de Hielo?",
+      "respuesta": "El Mago de Hielo ralentiza a las tropas enemigas con su ataque de frío en área."
+    },
+    {
+      "pregunta": "cómo desbloqueo a la Princesa?",
+      "respuesta": "La Princesa se desbloquea en Arena 11 (Pico helado) con 2600–3000 copas."
+    },
+    {
+      "pregunta": "qué cartas cuestan 2 elixir?",
+      "respuesta": "Cartas de 2 elixir: Duendes, Murciélagos, Espíritu de Hielo y otros espíritus."
+    },
+    {
+      "pregunta": "cómo uso el Golem de Elixir?",
+      "respuesta": "Despliega el Golem de Elixir para generar elixir extra al morir."
+    },
+    {
+      "pregunta": "qué cartas son buenas contra P.E.K.K.A?",
+      "respuesta": "Cartas voluminosas como Duendes Lanzadardos o Mago Eléctrico pueden distraer al P.E.K.K.A."
+    },
+    {
+      "pregunta": "cómo armar un mazo de ciclado rápido?",
+      "respuesta": "Incluye cartas de bajo coste (1–3 elixir) y un win condition para rotar rápido."
+    },
+    {
+      "pregunta": "qué es el Double Elixir?",
+      "respuesta": "En Double Elixir recuperas elixir al doble de velocidad durante la fase final."
+    },
+    {
+      "pregunta": "cuál es mi próxima arena?",
+      "respuesta": "Debes llegar a 3000 copas para entrar en Arena Selvática (2600–3000)."
+    },
+    {
+      "pregunta": "cómo mejorar mi ciclo de elixir?",
+      "respuesta": "Usa cartas de bajo coste y equilibra tu mazo para gastar y recuperar elixir eficientemente."
+    },
+    {
+      "pregunta": "qué carta combina con Montapuercos?",
+      "respuesta": "Espíritu de Sanación y Duendes con Lanza suelen combinar muy bien con Montapuercos."
+    },
+    {
+      "pregunta": "cómo usar el Mini P.E.K.K.A?",
+      "respuesta": "Protégelo con hechizos o unidades de distracción para que alcance al tanque enemigo."
+    },
+    {
+      "pregunta": "qué carta tanque es la más fuerte?",
+      "respuesta": "El Gólem y el Sabueso de Lava suelen ser los tanques más populares y fuertes."
+    },
+    {
+      "pregunta": "cómo parar un push de Esbirros?",
+      "respuesta": "Usa cartas de daño de área como Tornado o Espíritu de Fuego para eliminarlos."
+    },
+    {
+      "pregunta": "qué cartas desbloqueo en Arena 5?",
+      "respuesta": "Arena 5 (Valle de Hechizos) desbloquea cartas como el Espíritu de Fuego y el Barril de Duendes."
+    },
+    {
+      "pregunta": "cómo conseguir gemas sin gastar dinero?",
+      "respuesta": "Gana cofres de coronas, completa logros y participa en eventos especiales."
+    },
+    {
+      "pregunta": "qué hace el Barril de Duendes?",
+      "respuesta": "Despliega tres Duendes en la torre enemiga al aterrizar, perfecto para distracciones."
+    },
+    {
+      "pregunta": "cómo mejorar mis técnicas defensivas?",
+      "respuesta": "Practica el posicionamiento de tropas y el uso de hechizos en Desafíos."
+    },
+    {
+      "pregunta": "qué carta es buena para salir de presión?",
+      "respuesta": "El Príncipe o el Mini P.E.K.K.A pueden ayudarte a contraatacar y salir de presión."
+    },
+    {
+      "pregunta": "cómo vencer al ciclo rápido?",
+      "respuesta": "Controla el daño y usa hechizos de área para negar la rotación del rival."
+    },
+    {
+      "pregunta": "qué cartas épicas valen la pena mejorar?",
+      "respuesta": "Cartas como el Bebé Dragón, Mago Eléctrico y Mini P.E.K.K.A suelen valer mucho la pena."
+    }
+,
+    {
+      "pregunta": "qué es el Barril de Duendes?",
+      "respuesta": "El Barril de Duendes lanza tres Duendes al llegar a la torre enemiga, ideal para distraer."
+    },
+    {
+      "pregunta": "cómo suelo usar el Ejército de Esqueletos?",
+      "respuesta": "Úsalo para parar hordas y distraer al rival mientras tus torres los eliminan."
+    },
+    {
+      "pregunta": "qué hace el Mini Pekka?",
+      "respuesta": "El Mini P.E.K.K.A inflige golpes devastadores a unidades individuales, excelente contra tanques."
+    },
+    {
+      "pregunta": "cómo defiendo un Push de Montapuercos?",
+      "respuesta": "Coloca a la Princesa en la parte trasera o usa Tesla para distraer al Montapuerco."
+    },
+    {
+      "pregunta": "qué cartas vuelan en mi mazo?",
+      "respuesta": "Esbirros, Murciélagos, Bebé Dragón, Megaesbirro, Dragón Infernal y Duendes del Globo."
+    },
+    {
+      "pregunta": "cómo uso el Mago?",
+      "respuesta": "El Mago da daño en área con sus bolas de fuego, ideal para limpiar tropas pequeñas."
+    },
+    {
+      "pregunta": "qué es el efecto Knockback?",
+      "respuesta": "Algunas cartas, como el Tronco, empujan tropas, interrumpiendo su objetivo."
+    },
+    {
+      "pregunta": "cómo preparo un contraataque?",
+      "respuesta": "Defiende con bajo coste y luego lanza tu condición de victoria detrás de tu torre."
+    },
+    {
+      "pregunta": "qué cartas afectan a tropas voladoras?",
+      "respuesta": "El Dragón Infernal, Bebé Dragón, Mago Eléctrico, Mago y Cazador atacan tropas aéreas."
+    },
+    {
+      "pregunta": "cómo evito el Spam de Coches?",
+      "respuesta": "Usa hechizos de área o tropas de disparo rápido como el Mosquetero."
+    },
+    {
+      "pregunta": "qué es el REKT meme?",
+      "respuesta": "Es un meme de la comunidad para celebrar una victoria aplastante en partida."
+    },
+    {
+      "pregunta": "cómo desbloqueo el Espantapájaros?",
+      "respuesta": "No existe Espantapájaros en Clash Royale; quizás lo confundiste con la Choza de Duendes."
+    },
+    {
+      "pregunta": "qué carta es buena contra Boys?",
+      "respuesta": "Quizás te refieres a la Horda de Esbirros; usa Tornado o Espíritu de Fuego para contrarrestarla."
+    },
+    {
+      "pregunta": "cómo funcionan los Emotes?",
+      "respuesta": "Selecciona un emoticón durante la partida para comunicarte con expresiones predefinidas."
+    },
+    {
+      "pregunta": "qué cartas underused recomiendas?",
+      "respuesta": "Prueba el Cazador y el Espíritu Sanador, son potentes pero poco vistos en ladder."
+    },
+    {
+      "pregunta": "cómo bloqueo al Golem?",
+      "respuesta": "Pon al Mago Eléctrico y al Mini P.E.K.K.A juntos para frenar su avance."
+    },
+    {
+      "pregunta": "qué es el meta?",
+      "respuesta": "El meta es el conjunto de mazos y estrategias más efectivos en el momento actual."
+    },
+    {
+      "pregunta": "cómo giro mi mazo rápido?",
+      "respuesta": "Incluye cartas de coste 1–2 para bajar el coste medio y rotar más rápido."
+    },
+    {
+      "pregunta": "qué cartas son meh?",
+      "respuesta": "Algunas cartas con menor uso son el Lanzarrollos y la Torre de Bombardero."
+    },
+    {
+      "pregunta": "cómo subo copas rápido?",
+      "respuesta": "Juega con mazos probados en ladder, evita cambios constantes y aprende a defender bien."
+    },
+    {
+      "pregunta": "qué carta vale la pena comprar en la tienda?",
+      "respuesta": "Cualquier carta épica o legendaria que uses en tu mazo principal."
+    },
+    {
+      "pregunta": "cómo dono cartas al clan?",
+      "respuesta": "Ve a la pestaña del clan, selecciona la carta que quieras donar y haz clic en donar."
+    },
+    {
+      "pregunta": "qué cartas pedir al clan?",
+      "respuesta": "Pide las cartas que uses en tu mazo principal o las que necesites subir de nivel."
+    },
+    {
+      "pregunta": "cómo cambiar mi mazo en clan battle?",
+      "respuesta": "No puedes cambiar mazo durante la batalla; elige antes de aceptar el desafío."
+    },
+    {
+      "pregunta": "qué carta es la más lenta?",
+      "respuesta": "El Gólem y el Sabueso de Lava son de las tropas más lentas del juego."
+    },
+    {
+      "pregunta": "cómo rankeo mis mazos?",
+      "respuesta": "Prueba cada mazo en al menos 20 partidas y evalúa tu win rate."
+    },
+    {
+      "pregunta": "qué carta sirve como tanque?",
+      "respuesta": "El Gólem, Gigante y Sabueso de Lava son los tanques más populares."
+    },
+    {
+      "pregunta": "cómo usar el Mortero defensivamente?",
+      "respuesta": "Colócalo detrás de tu torre para disparar a tropas que crucen el río."
+    },
+    {
+      "pregunta": "qué cartas ralentizan?",
+      "respuesta": "Espíritu de Hielo, Mago de Hielo y Hechizo Congelación ralentizan unidades."
+    },
+    {
+      "pregunta": "cómo abrir cofre legendario rápido?",
+      "respuesta": "Gasta gemas o espera la apertura de 24 horas para desbloquearlo."
+    },
+    {
+      "pregunta": "qué cartas curan?",
+      "respuesta": "Espíritu Sanador y Sanadora de Batalla curan tropas a su alrededor."
+    },
+    {
+      "pregunta": "qué hace el Espíritu de Fuego?",
+      "respuesta": "El Espíritu de Fuego explota al contacto, causando daño en área instantáneo."
+    },
+    {
+      "pregunta": "cómo detengo un push de Duendes?",
+      "respuesta": "Usa Tornado o Bola de Fuego para eliminar rápidamente la horda."
+    },
+    {
+      "pregunta": "qué cartas generan comida?",
+      "respuesta": "No hay cartas que generen comida; tal vez te refieras a generación de elixir con el Golem de Elixir."
+    },
+    {
+      "pregunta": "cómo uso la Choza de Duendes?",
+      "respuesta": "Colócala en el centro para que duendes distraigan y presionen ambos carriles."
+    },
+    {
+      "pregunta": "qué carta épica cuesta 6 elixir?",
+      "respuesta": "El Golem y el Mortero (cuando se usa como hechizo) serían ejemplos, aunque el Mortero es estructura."
+    },
+    {
+      "pregunta": "cómo derribo una torre rápida?",
+      "respuesta": "Con un combo rápido: Montapuercos + Espíritu de Sanación o Tronco + Montapuercos."
+    },
+    {
+      "pregunta": "qué carta bloquea arqueras?",
+      "respuesta": "El Príncipe Oscuro o el Espíritu de Fuego pueden eliminar grupos de arqueras."
+    },
+    {
+      "pregunta": "cómo veo el ciclo rival?",
+      "respuesta": "Observa qué cartas usa el oponente y cuenta cuántas veces aparecen; así estimas su ciclo."
+    },
+    {
+      "pregunta": "qué carta dispara desde el aire?",
+      "respuesta": "Princesa, Arquero Mágico y Mosquetero disparan desde el aire."
+    },
+    {
+      "pregunta": "cómo parar un push de Horda de Esbirros?",
+      "respuesta": "Usa Tornado o Furia para reagrupar y eliminar la horda."
+    },
+    {
+      "pregunta": "qué hace el Hechizo Rayo?",
+      "respuesta": "El Rayo ataca tres objetivos con más vida en el área, causando daño alto."
+    },
+    {
+      "pregunta": "cómo usar el Mini P.E.K.K.A?",
+      "respuesta": "Protégelo con espíritus y coloca atrás para que llegue a tanque enemigo."
+    },
+    {
+      "pregunta": "qué carta aturde?",
+      "respuesta": "El Mago Eléctrico aturde dos enemigos al desplegarse; el Hechizo Rayo aturde brevemente."
+    },
+    {
+      "pregunta": "cómo mejorar mi tiempo de reacción?",
+      "respuesta": "Practica con Desafíos de tiempo real y ajusta tu colocación según el despliegue rival."
+    },
+    {
+      "pregunta": "qué carta vale 8 elixir?",
+      "respuesta": "El Golem y el Montapuercos doble (en Bridge Spam) podrían considerarse de coste alto."
+    },
+    {
+      "pregunta": "cómo conseguir cofres gratis?",
+      "respuesta": "Gana coronas diarias, participa en la Arena de la Corona y en eventos de clan."
+    },
+    {
+      "pregunta": "qué cartas son meta ahora?",
+      "respuesta": "Montapuercos, Reina Arquera, Dragón Eléctrico y Mago Eléctrico suelen estar en meta."
+    },
+    {
+      "pregunta": "cómo correo el Meta Knight?",
+      "respuesta": "Meta Knight no existe; tal vez te refieras al Mega Caballero."
+    },
+    {
+      "pregunta": "qué tropa salta muros?",
+      "respuesta": "El Montapuercos salta muros y llega directamente a las torres enemigas."
+    },
+    {
+      "pregunta": "cómo counterear el Mega Caballero?",
+      "respuesta": "Divide tropas de distracción y usa cartas de disparo rápido como Mosquetero."
+    },
+    {
+      "pregunta": "qué carta crea clones?",
+      "respuesta": "El Hechizo Espejo clona tu última carta, pagando el coste +1 elixir."
+    },
+    {
+      "pregunta": "cómo funciona la Rotación de Carta?",
+      "respuesta": "Cada carta desplegada va al final de tu mazo; la rotación te muestra cuántas quedan."
+    },
+    {
+      "pregunta": "qué carta vigila puentes?",
+      "respuesta": "La Choza de Bárbaros o Torre Infernal suelen vigilar el puente enemigo."
+    },
+    {
+      "pregunta": "cómo ganar en Sudden Death?",
+      "respuesta": "Presiona con cartas de bajo coste y busca el mínimo error del rival en tiempo adicional."
+    },
+    {
+      "pregunta": "qué cartas dan escudo?",
+      "respuesta": "El Monje (próximamente) podría dar escudo, pero actualmente no hay tropas con escudo fijo."
+    },
+    {
+      "pregunta": "cómo evito draw?",
+      "respuesta": "Cambia tu mazo a uno con condición de victoria de alta presión para romper el empate."
+    }
+,
+    {
+      "pregunta": "qué hace el Espíritu de Fuego?",
+      "respuesta": "El Espíritu de Fuego explota al contacto, causando daño en área instantáneo."
+    },
+    {
+      "pregunta": "cómo detengo un push de Duendes?",
+      "respuesta": "Usa Tornado o Bola de Fuego para eliminar rápidamente la horda."
+    },
+    {
+      "pregunta": "qué carta distrae mejor a un tanque?",
+      "respuesta": "El Ejército de Esqueletos o el Duende Lanzadardos son excelentes distracciones."
+    },
+    {
+      "pregunta": "cómo uso la Choza de Duendes?",
+      "respuesta": "Colócala en el centro para que los duendes distraigan y presionen ambos carriles."
+    },
+    {
+      "pregunta": "qué carta épica cuesta 6 elixir?",
+      "respuesta": "El Golem es la principal carta épica de 6 elixir; es un tanque muy poderoso."
+    },
+    {
+      "pregunta": "cómo derribo una torre rápido?",
+      "respuesta": "Usa un combo Montapuercos + Espíritu de Sanación o Tronco + Montapuercos para velocidad."
+    },
+    {
+      "pregunta": "qué carta bloquea arqueras?",
+      "respuesta": "El Príncipe Oscuro o el Espíritu de Fuego pueden eliminar rápidamente arqueras enemigas."
+    },
+    {
+      "pregunta": "cómo veo el mazo del rival?",
+      "respuesta": "Observa qué cartas despliega y anótalas para deducir su mazo y su ciclo de cartas."
+    },
+    {
+      "pregunta": "qué carta dispara desde el aire?",
+      "respuesta": "La Princesa, el Arquero Mágico y el Mosquetero disparan desde el aire."
+    },
+    {
+      "pregunta": "cómo paro la Horda de Esbirros?",
+      "respuesta": "Tornado los agrupa y luego usa Espíritu de Fuego o Bola de Fuego."
+    },
+    {
+      "pregunta": "qué hace el Hechizo Rayo?",
+      "respuesta": "El Rayo ataca los tres objetivos con más vida en el área de efecto."
+    },
+    {
+      "pregunta": "cómo usar el Mini P.E.K.K.A?",
+      "respuesta": "Protégelo con tropas de distracción y úsalo para eliminar tanques."
+    },
+    {
+      "pregunta": "qué carta aturde?",
+      "respuesta": "El Mago Eléctrico aturde a dos tropas al desplegarse y el Rayo aturde brevemente."
+    },
+    {
+      "pregunta": "cómo mejorar mi tiempo de reacción?",
+      "respuesta": "Practica en Desafíos amistosos y entrena el reconocimiento temprano de cartas."
+    },
+    {
+      "pregunta": "qué carta vale 8 elixir?",
+      "respuesta": "El Golem y el Sabueso de Lava cuestan 8 elixir, son los tanques más caros."
+    },
+    {
+      "pregunta": "cómo conseguir cofres gratis?",
+      "respuesta": "Gana coronas diarias, completa misiones y participa en los cofres de clan."
+    },
+    {
+      "pregunta": "qué cartas son meta ahora?",
+      "respuesta": "Montapuercos, Reina Arquera, Dragón Eléctrico y Mago Eléctrico suelen estar en meta."
+    },
+    {
+      "pregunta": "qué tropa salta muros?",
+      "respuesta": "El Montapuercos salta muros y ataca directamente las torres enemigas."
+    },
+    {
+      "pregunta": "cómo counterear el Mega Caballero?",
+      "respuesta": "Divide tus tropas y usa hechizos de área para mitigar su daño de salto."
+    },
+    {
+      "pregunta": "qué carta crea clones?",
+      "respuesta": "El Hechizo Espejo clona tu última carta pagando un elixir extra."
+    }
+,
+    {
+      "pregunta": "cómo uso la Princesa en defensa?",
+      "respuesta": "La Princesa es excelente para controlar enjambres a larga distancia; colócala detrás de tu torre del rey."
+    },
+    {
+      "pregunta": "qué carta sinergiza con el Duende Gigante?",
+      "respuesta": "Barril de Duendes o Espíritu de Fuego son buenas sinergias para limpiar la ruta mientras el Gigante avanza."
+    },
+    {
+      "pregunta": "cómo optimizo mi mecánica de Zap?",
+      "respuesta": "Usa Zap para resetear edificaciones como Sparky o Inferno Tower y eliminar enjambres pequeños."
+    },
+    {
+      "pregunta": "qué hace el Barril de Bárbaros?",
+      "respuesta": "Al aterrizar despliega un Bárbaro que ataca con gran daño y resistencia media."
+    },
+    {
+      "pregunta": "cómo uso el Espíritu de Agua?",
+      "respuesta": "El Espíritu de Agua cura ligeramente a tropas amigas y repele unidades pequeñas al explotar."
+    },
+    {
+      "pregunta": "qué carta legendaria es la más versátil?",
+      "respuesta": "Reina Arquera y Mago Eléctrico son leyendas muy versátiles en distintos mazos."
+    },
+    {
+      "pregunta": "cómo detengo un tanque con tropas pequeñas?",
+      "respuesta": "Usa Ejército de Esqueletos o Murciélagos para distraer al tanque mientras lo derribas."
+    },
+    {
+      "pregunta": "qué carta es prioridad al usar Espejo?",
+      "respuesta": "Duplicar tu condición de victoria (p.ej., Montapuercos) maximiza la presión en el oponente."
+    },
+    {
+      "pregunta": "cómo combinar Mosquetero y Tronco?",
+      "respuesta": "El Mosquetero limpia tropas voladoras y el Tronco remata enjambres terrestres."
+    },
+    {
+      "pregunta": "qué cartas explotan al morir?",
+      "respuesta": "Duende Bebé Dragón, Mini P.E.K.K.A y Golem de Hielo tienen efectos explosivos al morir."
+    }
+,
+    {
+      "pregunta": "cómo uso el Mortero defensivamente?",
+      "respuesta": "Coloca el Mortero en el centro de tu lado para que cubra ambos carriles y distraiga tropas enemigas."
+    },
+    {
+      "pregunta": "qué carta épica cuesta 3 elixir?",
+      "respuesta": "El Ejército de Esqueletos y Espíritu de Hielo son épicas de coste 3 elixir."
+    },
+    {
+      "pregunta": "cómo derribo una Torre del Rey?",
+      "respuesta": "Usa tu condición de victoria junto con un hechizo de soporte, como Montapuercos + Espíritu de Sanación."
+    },
+    {
+      "pregunta": "qué cartas bloquean proyectiles?",
+      "respuesta": "El Mago Eléctrico aturde proyectiles y el Espíritu de Hielo ralentiza su avance."
+    },
+    {
+      "pregunta": "cómo usar el Cazador en defensa?",
+      "respuesta": "Colócalo cerca de tu torre para aprovechar su gran daño de perdigones a corta distancia."
+    },
+    {
+      "pregunta": "qué hace la Choza de Bárbaros?",
+      "respuesta": "Genera bárbaros cada 14 segundos y distrae al oponente con construcciones."
+    },
+    {
+      "pregunta": "cómo optimizo el ciclo de cartas?",
+      "respuesta": "Equilibra tu mazo con cartas de bajo y medio coste para tener siempre respuestas disponibles."
+    },
+    {
+      "pregunta": "qué cartas dañan área?",
+      "respuesta": "Bola de Fuego, Tornado, Mago Eléctrico y Bebé Dragón hacen daño en área."
+    },
+    {
+      "pregunta": "cómo uso el Ejército de Esqueletos?",
+      "respuesta": "Despliega el ejército para detener grandes empujes o distraer a tropas de tanque."
+    },
+    {
+      "pregunta": "qué carta vuela y ataca tierra?",
+      "respuesta": "El Globo Bombástico solo ataca estructuras tras volar sobre tropas."
+    },
+    {
+      "pregunta": "cómo counterear Coche de Batalla?",
+      "respuesta": "Usa tropas de alto DPS como Mini P.E.K.K.A o Mago Eléctrico para detenerlo rápido."
+    },
+    {
+      "pregunta": "qué cartas curan allied troops?",
+      "respuesta": "El Espíritu Sanador y la Sanadora de Batalla curan tropas amigas en un área."
+    },
+    {
+      "pregunta": "cómo desbloqueo al Mago Eléctrico?",
+      "respuesta": "Se desbloquea en Arena 5 (Pico de Montaña) al alcanzar 1600 copas."
+    },
+    {
+      "pregunta": "qué cartas son buenas contra tropas rápidas?",
+      "respuesta": "Tronco y Espíritu de Hielo ralentizan tropas rápidas como los Duendes."
+    },
+    {
+      "pregunta": "cómo uso el Hechizo Veneno?",
+      "respuesta": "Lánzalo en el centro para dañar y ralentizar tropas enemigas mientras atacan tu torre."
+    },
+    {
+      "pregunta": "qué carta distrae mejor al Sabueso de Lava?",
+      "respuesta": "Murciélagos o Esbirros distraen y derriban rápido el Sabueso de Lava."
+    },
+    {
+      "pregunta": "cómo ganar en Sudden Death?",
+      "respuesta": "Juega conservador y sorprende con un push de bajo coste cuando el rival baje la guardia."
+    },
+    {
+      "pregunta": "qué cartas funcionan en rallies?",
+      "respuesta": "Cartas de saqueo como Montapuercos y Príncipe Oscuro presionan continuamente."
+    },
+    {
+      "pregunta": "cómo evito un empate?",
+      "respuesta": "Usa cartas rápidas de 1–2 elixir para cambiar el resultado en tiempo extra."
+    },
+    {
+      "pregunta": "qué arena desbloquea la Princesa?",
+      "respuesta": "La Princesa se desbloquea en Arena 11, Pico Helado, con 2600–3000 copas."
+    }
+,
+    {
+      "pregunta": "cómo uso al Montapuerco eficazmente?",
+      "respuesta": "Coloca al Montapuerco justo detrás de tu torre y únelo con un espíritu para un ataque sorpresa."
+    },
+    {
+      "pregunta": "qué tropa distrae mejor al Gólem?",
+      "respuesta": "Los Murciélagos o el Ejército de Esqueletos mantienen ocupado al Gólem mientras lo derribas."
+    },
+    {
+      "pregunta": "cómo funciona el Cofre de Corona?",
+      "respuesta": "Se gana al conseguir 10 coronas en Cofres de Batalla; contiene cartas y oro según tu arena."
+    },
+    {
+      "pregunta": "qué es un mazo de Bridge Spam?",
+      "respuesta": "Un mazo que usa cartas de alta presión cerca del puente para forzar defensas rápidas."
+    },
+    {
+      "pregunta": "cómo detengo al Sabueso de Lava?",
+      "respuesta": "Usa tropas aéreas como el Mosquetero o el Mago Eléctrico para eliminar al Sabueso y sus esbirros."
+    },
+    {
+      "pregunta": "qué carta épica desbloqueo en Arena 9?",
+      "respuesta": "En Arena 9 (Pico de Hielo) desbloqueas la Bruja Nocturna."
+    },
+    {
+      "pregunta": "cómo uso el Hechizo Espejo?",
+      "respuesta": "Duplica tu última carta, pagando un elixir de más; útil para sorprender con dos condiciones de victoria."
+    },
+    {
+      "pregunta": "qué cartas mejoran en daño al nivel 13?",
+      "respuesta": "Todas las cartas mejoran sus estadísticas; las de mayor aumento suelen ser las épicas y legendarias."
+    },
+    {
+      "pregunta": "cómo hago un push dual?",
+      "respuesta": "Envía dos tropas principales en carriles opuestos para dividir la atención del rival."
+    },
+    {
+      "pregunta": "qué carta es buena contra tropas pequeñas?",
+      "respuesta": "La Valkiria y el Espíritu de Fuego limpian enjambres pequeños con su daño en área."
+    },
+    {
+      "pregunta": "cómo desbloqueo la Choza de Bárbaros?",
+      "respuesta": "La Choza de Bárbaros se desbloquea en Arena 3 (Valle Bárbaro)."
+    },
+    {
+      "pregunta": "qué carta me ayuda a farmear elixir?",
+      "respuesta": "El Golem de Elixir regenera elixir extra al morir."
+    },
+    {
+      "pregunta": "cómo armar un mazo anti-P.E.K.K.A?",
+      "respuesta": "Usa cartas de daño por segundo alto y distracción, como Mosquetero + Espíritu de Hielo."
+    },
+    {
+      "pregunta": "qué carta bloquea cargas?",
+      "respuesta": "El Tronco empuja y evita cargas como las del Príncipe o la Bandida."
+    },
+    {
+      "pregunta": "cómo uso al Mago Eléctrico con éxito?",
+      "respuesta": "Colócalo detrás de tu tanque para aturdir a tropas de apoyo enemigas repetidamente."
+    },
+    {
+      "pregunta": "qué cartas son buenas en triple elixir?",
+      "respuesta": "Cartas de alto coste como el Gólem y el Sabueso de Lava brillan en triple elixir."
+    },
+    {
+      "pregunta": "cómo aprovecho el Double Elixir?",
+      "respuesta": "Guarda elixir y prepara un gran push combinando tu condición de victoria con hechizos."
+    },
+    {
+      "pregunta": "qué arena desbloquea el Gigante Real?",
+      "respuesta": "El Gigante Real se desbloquea en Arena 10 (Arena Selvática)."
+    },
+    {
+      "pregunta": "cómo mejorar mis reflejos?",
+      "respuesta": "Práctica con Desafíos cortos y activa la vista previa de elixir en pantalla."
+    },
+    {
+      "pregunta": "qué carta cuesta 0 elixir?",
+      "respuesta": "No hay cartas gratuitas, pero algunos eventos especiales permiten despliegues sin coste."
+    },
+    {
+      "pregunta": "cómo planeo mi rotación de cartas?",
+      "respuesta": "Cuenta tu ciclo y equilibra tus defensas para tener siempre una respuesta disponible."
+    },
+    {
+      "pregunta": "qué tropa ataca rápido?",
+      "respuesta": "Los Murciélagos y el Duende Lanzadardos tienen velocidades de ataque muy rápidas."
+    },
+    {
+      "pregunta": "cómo parar un push de Horno?",
+      "respuesta": "Usa tropas aéreas o ataca en el otro carril mientras el horno genera duendes."
+    },
+    {
+      "pregunta": "qué carta distrae a la Princesa?",
+      "respuesta": "El Ejército de Esqueletos o el Caballero pueden acercarse sin recibir daño desde lejos."
+    },
+    {
+      "pregunta": "cómo uso el Príncipe Oscuro en ataque?",
+      "respuesta": "Déjalo cargar en un tanque para que el efecto de área dañe a defensas cercanas."
+    },
+    {
+      "pregunta": "qué carta controla enjambres?",
+      "respuesta": "La Valkiria y la Bola de Fuego eliminan enjambres terrestres con facilidad."
+    },
+    {
+      "pregunta": "cómo contrarresto el Barril de Duendes?",
+      "respuesta": "Usa el Tronco o la Princesa para destruir el barril y a los duendes."
+    },
+    {
+      "pregunta": "qué carta legendaria cuesta 3 elixir?",
+      "respuesta": "El Fantasma Real es una legendaria de coste 3 elixir."
+    },
+    {
+      "pregunta": "cómo funciona el meta actual?",
+      "respuesta": "Predomina el Bridge Spam y montapuercos en mazos rápidos; prepárate para presionar rápido."
+    },
+    {
+      "pregunta": "qué carta me defiende mejor del Sabueso?",
+      "respuesta": "El Mosquetero y el Bebé Dragón derriban al Sabueso de Lava y sus esbirros."
+    },
+    {
+      "pregunta": "cómo desbloqueo al Monje?",
+      "respuesta": "El Monje aún no está disponible oficialmente, llegará en futuras actualizaciones."
+    }
+,
+    {
+      "pregunta": "cómo uso al Gigante Noble?",
+      "respuesta": "Coloca al Gigante Noble al frente de tu push; su cañón ataca a distancia mientras avanza."
+    },
+    {
+      "pregunta": "qué hace el Ejército de Duendes?",
+      "respuesta": "Despliega cinco Duendes de bajo coste, perfectos para distraer y chipear."
+    },
+    {
+      "pregunta": "cómo contrarresto la Bruja?",
+      "respuesta": "Usa Torre Infernal o Tornado para reagrupar y eliminar sus murciélagos."
+    },
+    {
+      "pregunta": "qué carta triplica su daño al cargar?",
+      "respuesta": "El Príncipe triplica su daño en su carga inicial."
+    },
+    {
+      "pregunta": "cómo uso el Espíritu de Furia?",
+      "respuesta": "Lánzalo sobre tu push para aumentar velocidad de ataque y movimiento por 7 s."
+    },
+    {
+      "pregunta": "qué carta limpia enjambres grandes?",
+      "respuesta": "La Valkiria y el Hechizo Veneno son ideales contra grandes enjambres."
+    },
+    {
+      "pregunta": "cómo veo las estadísticas de mis cartas?",
+      "respuesta": "En la sección de cartas, pulsa sobre cada una para ver sus estadísticas detalladas."
+    },
+    {
+      "pregunta": "qué carta épica cuesta 5 elixir?",
+      "respuesta": "El Sabueso de Lava y la Bruja Nocturna cuestan 5 elixir."
+    },
+    {
+      "pregunta": "cómo desbloqueo al Mago de Hielo?",
+      "respuesta": "Se desbloquea en Arena 6 (Pico de Montaña) al alcanzar 1600 copas."
+    },
+    {
+      "pregunta": "qué carta cuesta 7 elixir?",
+      "respuesta": "El Mega Caballero y el Sabueso de Lava cuestan 7 elixir."
+    },
+    {
+      "pregunta": "cómo protejo mi torre con tropas baratas?",
+      "respuesta": "Usa Espíritu de Hielo o Duendes para distraer mientras tu torre elimina al enemigo."
+    },
+    {
+      "pregunta": "qué tanque es mejor, Gólem o PEKKA?",
+      "respuesta": "Depende del mazo; Gólem genera esbirros al morir, PEKKA inflige más daño puro."
+    },
+    {
+      "pregunta": "cómo uso el Hechizo Cizalladura?",
+      "respuesta": "Cizallas (Scyther Spell) todavía no existe; quizá te refieras a Congelación o Veneno."
+    },
+    {
+      "pregunta": "qué carta es meta en 2025?",
+      "respuesta": "Reina Arquera, Montapuercos y Dragón Eléctrico siguen dominando el meta."
+    },
+    {
+      "pregunta": "cómo desbloqueo al Duende Gigante?",
+      "respuesta": "Se desbloquea en Arena 10 (Arena Selvática) con 3000–3400 copas."
+    },
+    {
+      "pregunta": "qué carta combina con Espíritu de Agua?",
+      "respuesta": "El Golem de Elixir y la Sanadora de Batalla se benefician de la curación del Espíritu de Agua."
+    },
+    {
+      "pregunta": "cómo mejorar mi tiempo de reacción?",
+      "respuesta": "Activa vista previa de elixir y practica en desafíos para anticipar jugadas."
+    },
+    {
+      "pregunta": "qué carta dispara en área aérea?",
+      "respuesta": "El Bebé Dragón y el Dragón Infernal atacan unidades aéreas con daño en área."
+    },
+    {
+      "pregunta": "cómo uso la Choza de Bárbaros ofensivamente?",
+      "respuesta": "Colócala cerca del puente rival para generar bárbaros en la cara del enemigo."
+      },
+      {
+        "pregunta": "qué cartas legendarias desbloqueo en Arena 12?",
+        "respuesta": "En Arena 12 (Arena Legendaria) aparecen cartas como la Princesa oscura (Dark Princess)."
+      }
+    ]
+  }
